@@ -1,7 +1,3 @@
----
-description: "\uD83D\uDC68\uD83C\uDFFB‍\uD83D\uDCBB \uD83D\uDC4D Follow our framework releases here…"
----
-
 # Releases ✍️
 
 ## 0.60

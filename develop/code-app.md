@@ -37,7 +37,7 @@ description: >-
 
 **⌘D** = Documentation
 
-**⌘T** = Tutorials 
+**⌘T** = Tutorials
 
 **⌘F** = Demo files
 

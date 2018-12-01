@@ -1,9 +1,3 @@
----
-description: >-
-  Here's a growing list of third party .sketch plugins that work really well
-  together with Sketch2React. And why we ❤️  using them.
----
-
 # 3rd Party Plugins & Apps ⚙️
 
 ## [Automate Sketch](http://ashung.github.io/Automate-Sketch/)

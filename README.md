@@ -5,7 +5,7 @@
 Thanks for joining our [alpha program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our free design to code framework
 
 {% hint style="success" %}
-Go from .sketchfiles \(_via our framework_\) to code \(_for free_\) really really fast. 
+Go from .sketchfiles \(_via our framework_\) to code \(_for free_\) really really fast.
 {% endhint %}
 
 {% hint style="info" %}

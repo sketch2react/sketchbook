@@ -1,12 +1,10 @@
 ---
 description: >-
   Here's a list of all components that you can design and style inside of Sketch
-  and that will output real code.
+  and that will output real code
 ---
 
 # Components 💎
-
-
 
 ![](https://sketch2react.io/resources/S2RComponents@2x.png)
 
@@ -30,6 +28,14 @@ Creates a Bootstrap Container element. This is the outermost element in a Bootst
 > * Backgrounds {BG}
 
 **Since:** v0.0.5
+
+{% hint style="success" %}
+How to add in Sketch:
+
+1. Create a text node \(T\)
+2. Group that text node \(⌘+G\)
+3. Rename group to {container}
+{% endhint %}
 
 ## **{container-fluid}**
 

@@ -1,7 +1,3 @@
----
-description: A couple of tutorials in total random order that may help you get started…
----
-
 # Tutorials 📼
 
 ## How to use Sketch2React for Quick Responsive Prototyping <a id="089e"></a>

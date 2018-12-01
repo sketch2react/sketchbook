@@ -1,7 +1,3 @@
----
-description: "\uD83D\uDC8E What better way to show how this works than using the awesome GIF technology? Are you ready to give your .sketchfiles super powers? \uD83E\uDDE0 Btw these are heavily compressed for faster loading times."
----
-
 # Quick Guide 🚀
 
 ![Our plugin helps with the sometimes tedious task of doing this by hand](https://sketch2react.io/resources/GIF/S2RHowItWorks1-comp.gif)
