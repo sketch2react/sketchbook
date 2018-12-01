@@ -35,8 +35,6 @@ description: >-
 
 **⌥⌘M** = Mobile View, opens up a new responsive window with start width 576px
 
-**⌥⌘C** = Dev Tools
-
 **⌘D** = Documentation
 
 **⌘T** = Tutorials 
