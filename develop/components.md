@@ -1,7 +1,8 @@
 ---
 description: >-
-  Here's a list of all components that you can design and style inside of Sketch
-  and that will output real code
+  Here's a list of all components that you can create, design and style inside
+  of Sketch and that will output real code. All of these are made directly
+  inside of Sketch with zero plugins.
 ---
 
 # Components 💎
