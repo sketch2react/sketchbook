@@ -30,11 +30,12 @@ Creates a Bootstrap Container element. This is the outermost element in a Bootst
 **Since:** v0.0.5
 
 {% hint style="success" %}
-How to add in Sketch:
+#### How to add in Sketch:
 
-1. Create a text node \(T\)
-2. Group that text node \(⌘+G\)
-3. Rename group to {container}
+1. Create a text node **\(T\)**
+2. Group that text node **\(⌘+G\)**
+3. Rename group **{container}**
+4. Delete text node _or_ name it {text} 
 {% endhint %}
 
 ## **{container-fluid}**
@@ -54,6 +55,15 @@ Creates a Bootstrap Container-fluid element. This element \(as opposed to {conta
 
 **Since:** v0.0.5
 
+{% hint style="success" %}
+#### How to add in Sketch:
+
+1. Create a text node **\(T\)**
+2. Group that text node **\(⌘+G\)**
+3. Rename group **{container-fluid}**
+4. Delete text node _or_ name it {text} 
+{% endhint %}
+
 ## **{row}**
 
 ```text
@@ -67,15 +77,25 @@ Creates a Bootstrap Row element. A {row} is a direct child to {container} or {co
 > * classes \[ \]
 > * Backgrounds {BG}
 
-{% hint style="success" %}
-**Pro tip!** By adding the Bootstrap 4 class _no-gutters_ you will remove gutters from child {col}. 
+{% hint style="info" %}
+#### **Pro tip!** 
+
+By adding the Bootstrap 4 class _no-gutters_ you will remove gutters from child {col}. 
 
 Example:
 
-{row} \[no-gutters\]
+#### {row} \[no-gutters\]
 {% endhint %}
 
 **Since:** v0.0.5
+
+{% hint style="success" %}
+#### How to add in Sketch:
+
+1. Create a text node \(T\)
+2. Group that text node \(⌘+G\)
+3. Rename group {container}
+{% endhint %}
 
 ## **{col}**
 
