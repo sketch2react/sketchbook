@@ -13,8 +13,8 @@
 
 ## Develop
 
+* [Components 💎](develop/components.md)
 * [Code App 👩‍💻](develop/code-app.md)
 * [Releases ✍️](develop/releases.md)
-* [Components 💎](develop/components.md)
 * [Join our Slack!](https://join.slack.com/t/sketch2react/shared_invite/enQtMzc0OTM0OTQ0Nzg4LTRiMTMxNGRjMzA1ZDUxZjIyODE5NGE5ZDQ4Zjg1ZWRiODA2MTliM2Y0MjQ5YTYwMDQyNDJhNDVlODZhZDdlMjY)
 
