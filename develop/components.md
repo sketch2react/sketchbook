@@ -93,9 +93,10 @@ Example:
 {% hint style="success" %}
 #### How to add in Sketch:
 
-1. Create a text node \(T\)
-2. Group that text node \(⌘+G\)
-3. Rename group {container}
+1. Create a text node **\(T\)**
+2. Group that text node **\(⌘+G\)**
+3. Rename group **{row}**
+4. Delete text node _or_ name it {text} 
 {% endhint %}
 
 ## **{col}**
@@ -141,19 +142,27 @@ You can set which kind of HTML element should be created by specifying e.g. _{te
 **Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part \(12\) refers to the number of px the font will span between. This is also dependant of the artboart size.
 {% endhint %}
 
-#### Example:
+### First example
 
 * You have a mobile-size artboard \(576px wide\).
 * You have a {text} with font-size 18px.
-* You have a {text} with the class _js-font-fluid-10_ \( {text} \[js-font-fluid-10\]\)
+* You have a {text} with the class _js-font-fluid-10_ 
+
+```text
+{text} [js-font-fluid-10]
+```
 
 The font-size will then flow between 18px at the smallest screen-size and 28px at the largest screen-size.
 
-**Another example:**
+### **Second example**
 
 * You have a desktop-size artboard \(&gt;576px wide\).
 * You have a {text} with front-size 18px.
-* You have a {text} with the class _js-font-fluid-12_ \( {text} \[js-font-fluid-12\]\)
+* You have a {text} with the class _js-font-fluid-12_
+
+```text
+{text} [js-font-fluid-12]
+```
 
 The font-size will then flow between 6px at the smallest screen-size and 18px at the largest screen-size.
 
