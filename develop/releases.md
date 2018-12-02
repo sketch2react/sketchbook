@@ -1,5 +1,13 @@
 # Releases ✍️
 
+## Beta
+
+We are now in beta mode - woooppieedoo.
+
+* Brand new Code App, read more here
+* Lots and lots of improvements in the background
+* Paving ground for React export
+
 ## 0.60
 
 ### Added
