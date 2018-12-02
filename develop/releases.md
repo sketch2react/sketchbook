@@ -4,7 +4,8 @@
 
 We are now in beta mode - woooppieedoo.
 
-* Brand new Code App, read more here
+* Brand new Code App, [read more here](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app)
+* New component: Group and Group-fixed
 * Lots and lots of improvements in the background
 * Paving ground for React export
 
