@@ -1,13 +1,13 @@
 # Pricing 💵
 
-### Right now during our Alpha, Sketch2React is _free_. 
+### Right now Sketch2React is _free_
 
 We do this for a couple of reasons:
 
 * It's more fun to just give things away for free during this phase
 * We get a chance to test things more freely without too many constraints
-* HTML export will ALWAYS be free as long as we can support it
-* There will be a FREE version and a PRO version \(paid\)
+* HTML export will ALWAYS be free as long as we **can support it**
+* As soon as we release React export their will be a PRO paid version available 
 
 ### And now a few words about the FUTURE 🚀 ⚛️
 
