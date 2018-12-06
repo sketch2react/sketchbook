@@ -16,7 +16,22 @@
 
 ## 🖐 Step 2 - Moving and naming stuff
 
-**This step is the most important one.** It’s now that you begin giving your Sketch design file the super power of **Bootstrap 4** and **React** without even leaving the document. You are enhancing your design with real code components and the **amazing responsive** grid \(we love you Bootstrap 4\).
+**This step is the most important one.** It’s now that you begin giving your Sketch design file the super power of **Bootstrap 4** and **React** without eve⌘n leaving the document. You are enhancing your design with real code components and the **amazing responsive** grid \(we love you Bootstrap 4\).
+
+You add our components to Sketch by using very familiar built in Sketch tools like the **Text Node** \(T\), **Grouping** \(⌘+G\) and the shapes we support. 
+
+{% hint style="warning" %}
+**Number one rule:** You need to **name each layer and group** with our _component names_ or it will not work at all in code!
+{% endhint %}
+
+{% hint style="success" %}
+#### Example on how you create a {container} in Sketch <a id="how-to-add-in-sketch"></a>
+
+1. Create a text node **\(T\)**
+2. Group that text node **\(⌘+G\)**
+3. Rename group **{container}**
+4. Delete text node _or_ name it {text}
+{% endhint %}
 
 Check our [Components](https://sketch2react.gitbook.io/sketch2react-io/components) or [Cheat Sheet](https://sketch2react.gitbook.io/sketch2react-io/cheat-sheet). And please study our demo files.
 
