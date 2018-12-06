@@ -1,6 +1,8 @@
-# Quick Guide 🚀
+---
+description: A very brief overview on how our framework just to get you started
+---
 
-![Our plugin helps with the sometimes tedious task of doing this by hand](https://sketch2react.io/resources/GIF/S2RHowItWorks1-comp.gif)
+# Quick Guide 🚀
 
 ## 🤖 Step 1 - Design your stuff
 
@@ -11,8 +13,6 @@
 {% hint style="warning" %}
 🎓Important! The **page** \(in Sketch\) needs to be named _**Start here**_ and the **first artboard** needs to be named _**Start**_ or our previewer app will not read your .sketchfile correctly.
 {% endhint %}
-
-![](https://sketch2react.io/resources/GIF/S2RHowItWorks2-comp.gif)
 
 ## 🖐 Step 2 - Moving and naming stuff
 
@@ -35,19 +35,13 @@ You add our components to Sketch by using very familiar built in Sketch tools li
 
 Check our [Components](https://sketch2react.gitbook.io/sketch2react-io/components) or [Cheat Sheet](https://sketch2react.gitbook.io/sketch2react-io/cheat-sheet). And please study our demo files.
 
-![This is the most fun part!](https://sketch2react.io/resources/GIF/S2RHowItWorks3-comp.gif)
-
 ## 🤖Step 3 - Drag and drop to our Previewer App
 
 👨🏻‍💻**Now comes the really fun part**, dragging and dropping your .sketchfile onto our magical Previewer App. If you have done your homework of **Step 2**, you will see your design file beautifully rendered and fully responsive based on what you have set up.
 
-![](https://sketch2react.io/resources/GIF/S2RHowItWorks4-comp.gif)
-
 ## ✈️ Step 4 - Export as HTML
 
 If you are ready to take your build even further you can export each artboard page as separate HTML files. Or maybe you just want to put it on your own server and test it on different devices.
-
-![Solis is a beautiful previewer app for Mac](https://sketch2react.io/resources/GIF/S2RHowItWorks5-comp.gif)
 
 ## 💪Step 5 - Open your HTML files
 
