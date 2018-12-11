@@ -4,6 +4,10 @@
 
 {% embed url="https://medium.com/sketch-app-sources/how-to-use-sketch2react-for-quick-responsive-prototyping-cf02bce4e5b0" %}
 
+## How to add CSS Plugins - Step by Step Tutorial <a id="7b59"></a>
+
+{% embed url="https://medium.com/sketch2react/css-animations-inside-of-sketch-with-sketch2react-d5d248633ac0" %}
+
 ## How To Add Custom CSS Plugins
 
 {% embed url="https://youtu.be/erHTK\_dRD24" %}
