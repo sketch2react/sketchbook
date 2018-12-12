@@ -148,7 +148,7 @@ You can set which kind of HTML element should be created by specifying e.g. _{te
 ## Fluid fonts
 
 {% hint style="success" %}
-**Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part \(12\) refers to the number of px the font will span between. This is also dependant of the artboart size.
+**Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part \(12\) refers to the number of px the font will span between. This is also dependent of the artboart size.
 {% endhint %}
 
 ### First example
