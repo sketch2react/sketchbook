@@ -6,6 +6,10 @@ description: >-
 
 # Code App 👩‍💻
 
+{% hint style="info" %}
+Current version of Desktop Code App is v.0.6.2
+{% endhint %}
+
 ## Sketch2React Code App features
 
 * **Hot Reload** - Every time you save in Sketch it automatically reloads that file in our code app
