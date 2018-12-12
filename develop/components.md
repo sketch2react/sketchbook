@@ -114,6 +114,15 @@ Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can c
 
 **Since:** v0.0.5
 
+{% hint style="success" %}
+#### How to add in Sketch:
+
+1. Create a text node **\(T\)**
+2. Group that text node **\(⌘+G\)**
+3. Rename group **{col}**
+4. Delete text node _or_ name it {text} 
+{% endhint %}
+
 ## **{text}**
 
 ```text
