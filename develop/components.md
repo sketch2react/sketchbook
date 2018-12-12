@@ -322,7 +322,7 @@ By adding the Bootstrap class \[rounded-circle\] to the {rectangle} you'll get a
 This is a Sketch "Rectangle"-Shape
 
 {% hint style="success" %}
-**Pro tip!** This is an awsome way to create responsive wireframes 🎉
+**Pro tip!** This is an awesome way to create responsive wireframes 🎉
 {% endhint %}
 
 **Supports:**
