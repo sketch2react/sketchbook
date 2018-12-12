@@ -5,10 +5,8 @@
 Sketch2React is a **free design to code framework** that consists of:
 
 * A framework that consists of **components**
-* A **Desktop App** \(Mac only\) that converts your Sketch files into actual code. [Read more here](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app).
-* A **Sketch plugin** that helps you with the Sketch2React naming convention and creating content containers for your layouts in Sketch, so that your content flows and sticks to the responsive Bootstrap grid.
-* 
-Here’s a [simple demo](https://sketch2react.io/demoupload/vanilla/index.html) of what you can do once you have exported your code. Here's a couple of handy [tutorials](https://sketch2react.io/docs/tutorials.php). 📼
+* A **Desktop App** \(Mac only\) that converts your Sketch files into actual code. [Read more here](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app)
+* A **Sketch plugin** that helps you with the Sketch2React naming convention in Sketch 
 
 ## When use our framework?
 
