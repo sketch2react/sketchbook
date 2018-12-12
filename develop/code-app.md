@@ -7,7 +7,7 @@ description: >-
 # Code App 👩‍💻
 
 {% hint style="info" %}
-Current version of Desktop Code App is v.0.6.2
+Current version of our Mac Desktop Code App is v.0.6.2
 {% endhint %}
 
 ## Sketch2React Code App features
