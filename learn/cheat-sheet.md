@@ -46,7 +46,7 @@ We also support popular **icon fonts** such as Ion Icons, Material Icons, Fontaw
 In Sketch use the **Text tool** \(⌘+T\) and write this in the layers panel:
 
 ```text
-{externalasset.css} Name of font/icon font
+{externalasset.css} Whatever You Want Goes In Here
 ```
 
 Inside the text node **copy/paste the correct url** that you’re given by your font provider for the font you use in your document. In this case we use both Varela Round and Lora in our mobile demo so it becomes _https://fonts.googleapis.com/css?family=Lora\|Varela+Round_.
