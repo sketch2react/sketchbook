@@ -1,5 +1,5 @@
 ---
-description: A very brief overview on how our framework just to get you started.
+description: A very brief overview on how our framework work just to get you started.
 ---
 
 # Quick Guide 🚀
