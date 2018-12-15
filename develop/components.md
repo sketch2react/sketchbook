@@ -331,6 +331,46 @@ This is a Sketch "Rectangle"-Shape
 
 **Since:** v0.0.55
 
+## **{group}**
+
+`{group}` 
+
+This is a structural component used as a helper to align it’s child-components \(vertically or horizontally\). It supports classes, but not Sketch-styling.
+
+### Horizontally:
+
+If you, within a {group} place X number of Sketch2React element next to each other horizontally, {group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
+
+The remaining space \(the difference between the child-elements total width and the {group}’s own width\) will be distributed evenly **between** the children.
+
+### Vertically:
+
+If you, within a {group} place X number of Sketch2React element stacked vertically in Sketch, {group} will make sure they end up vertically in code. 
+
+The remaining space \(the difference between the child-elements total height and the {group}’s own height\) will be distributed evenly **between** the children. 
+
+**Supports:**
+
+> * classes \[ \]
+
+**Since:** v0.6.0
+
+## {group-fixed}
+
+`{group-fixed}`
+
+This element is identical to {group} except that it always keeps the same width \(taken from Sketch\) even when you resize it’s parent component \(e.g. a {col}\). 
+
+{% hint style="warning" %}
+**Note!** {group-fixed} is never wider that the size of it's parent element. 
+{% endhint %}
+
+**Supports:**
+
+> * classes \[ \]
+
+**Since:** v0.6.0
+
 ## **{BG}**
 
 ```text
