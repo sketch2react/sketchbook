@@ -335,19 +335,19 @@ This is a Sketch "Rectangle"-Shape
 
 `{group}` 
 
-This is a structural component used as a helper to align it’s child-components \(vertically or horizontally\). It supports classes, but not Sketch-styling.
+This is a structural component used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
 
 ### Horizontally:
 
 If you, within a {group} place X number of Sketch2React element next to each other horizontally, {group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
 
-The remaining space \(the difference between the child-elements total width and the {group}’s own width\) will be distributed evenly **between** the children.
+The remaining space \(the difference/delta between the child-elements total width and the {group}’s own width\) will be distributed evenly **between** the children.
 
 ### Vertically:
 
 If you, within a {group} place X number of Sketch2React element stacked vertically in Sketch, {group} will make sure they end up vertically in code. 
 
-The remaining space \(the difference between the child-elements total height and the {group}’s own height\) will be distributed evenly **between** the children. 
+The remaining space \(the difference/delta between the child-elements total height and the {group}’s own height\) will be distributed evenly **between** the children. 
 
 **Supports:**
 
