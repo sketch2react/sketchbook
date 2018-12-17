@@ -377,7 +377,13 @@ This element is identical to {group} except that it always keeps the same width 
 {BG}
 ```
 
-Can be a rectangle or an image.
+Can be a rectangle or an image. 
+
+{% hint style="info" %}
+**Pro tip!** Fill the {BG} with a nice linear gradient for really nice website backgrounds that are super lightweight in size. Use {container-fluid} and put the {BG} like below:
+{% endhint %}
+
+![](../.gitbook/assets/containerfluidbg.png)
 
 **Since:** v0.0.5
 
