@@ -20,7 +20,7 @@ We currently don’t support rendering SVGs directly/natively. That means that y
 * {image-fixed} = fixed size according to what you have set up in Sketch
 
 {% hint style="success" %}
-🎓⭐️**ProTip:** Use _**icon fonts**_ for your icons, that way you can embedd the icon library as a {externalasset.css} so no need to export them one by one, and re-import them.
+🎓⭐️**ProTip:** Use _**icon fonts**_ for your icons, that way you can embed the icon library as a {externalasset.css} so no need to export them one by one, and re-import them.
 {% endhint %}
 
 ### Example
