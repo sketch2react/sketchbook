@@ -1,7 +1,3 @@
----
-description: A very brief overview on how our framework work just to get you started.
----
-
 # Quick Guide 🚀
 
 ## 🤖 Step 1 - Design your stuff

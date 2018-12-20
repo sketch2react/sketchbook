@@ -1,10 +1,3 @@
----
-description: >-
-  Here's a list of all components that you can create, design and style inside
-  of Sketch and that will output real code. All of these are made directly
-  inside of Sketch with zero plugins.
----
-
 # Components 💎
 
 ![](https://sketch2react.io/resources/S2RComponents@2x.png)

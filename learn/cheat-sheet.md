@@ -39,7 +39,7 @@ We also support popular **icon fonts** such as Ion Icons, Material Icons, Fontaw
 
 🎓⭐️**ProTip:** Use this awesome Sketch plugin called [Icon Font](https://github.com/keremciu/sketch-iconfont) for installing icon bundles.
 
-#### Example <a id="example"></a>
+#### Example  <a id="example"></a>
 
 ![](https://sketch2react.io/resources/LinkingFonts.png)
 
@@ -49,7 +49,7 @@ In Sketch use the **Text tool** \(⌘+T\) and write this in the layers panel:
 {externalasset.css} Whatever You Want Goes In Here
 ```
 
-Inside the text node **copy/paste the correct url** that you’re given by your font provider for the font you use in your document. In this case we use both Varela Round and Lora in our mobile demo so it becomes _https://fonts.googleapis.com/css?family=Lora\|Varela+Round_.
+Inside the text node **copy/paste the correct url** that you’re given by your font provider for the font you use in your document. In this case we use both Varela Round and Lora in our mobile demo so it becomes [https://fonts.googleapis.com/css?family=Lora\|Varela+Round](https://fonts.googleapis.com/css?family=Lora|Varela+Round).
 
 **Copy this exact text layer to each artboard** that you generate where you want the fonts to render correctly when exporting to .html files. You can turn down the opacity of the text layer to 0% it will still work. 😋 👍
 
@@ -95,7 +95,7 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 * mb = margin bottom
 * mr = margin right
 
-#### Example <a id="example"></a>
+#### Example  <a id="example"></a>
 
 > mr78 = margin right 78px
 >
@@ -109,7 +109,7 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 * pb = padding bottom
 * pr = padding right
 
-#### Example <a id="example"></a>
+#### Example  <a id="example"></a>
 
 > pr78 = padding right 78px
 >
@@ -155,7 +155,7 @@ Non the less we do support xs-break point:
 
 > xs: Extra small devices \(portrait phones, less than 576px\)
 
-#### Example <a id="example"></a>
+#### Example  <a id="example"></a>
 
 > {col} sm:12 lg:6 - A Column covers 12 columns at the sm-breakpoint \(576px+\) and 6 columns at the lg-breakpoint \(992px+\)
 
@@ -163,7 +163,7 @@ Non the less we do support xs-break point:
 
 css-classes on elements are written within \[ \]. See chapter ”Paddings”, ”Margins” and ”Alignment”.
 
-#### Example <a id="example"></a>
+#### Example  <a id="example"></a>
 
 > {col} \[m20\]
 
@@ -200,6 +200,4 @@ This will give you a a margin-bottom of 10px up until medium size screens and th
 * {curly brackets} = **alt + shift + \( \)**
 * \[brackets\] = **alt + \( \)**
 * **Command + S** = Save your changes before dropping the _.sketch_ file in the preview app. Also you will need to _**reload the preview app**_ \(command+R\) before you drop a new version of the demo _.sketch_ file. Working on a fix for this.
-
-
 
