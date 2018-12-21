@@ -153,10 +153,6 @@ Extra small devices \(portrait phones, less than 576px\) No need for a media que
 
 Non the less we do support xs-break point:
 
-```text
-
-```
-
 > xs: Extra small devices \(portrait phones, less than 576px\)
 
 #### Example  <a id="example"></a>
