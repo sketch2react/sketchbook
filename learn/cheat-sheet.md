@@ -1,4 +1,4 @@
-# Crash Course 📓
+# Cheat Sheet 📓
 
 ![](https://sketch2react.io/resources/S2RCheatSheet@2x.png)
 

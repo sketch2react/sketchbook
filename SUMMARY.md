@@ -7,7 +7,7 @@
 ## Learn
 
 * [Quick Guide 🚀](learn/quick-guide.md)
-* [Crash Course 📓](learn/cheat-sheet.md)
+* [Cheat Sheet 📓](learn/cheat-sheet.md)
 * [Tutorials 📼](learn/tutorials.md)
 * [3rd Party Plugins & Apps ⚙️](learn/3rd-party-plugins.md)
 
