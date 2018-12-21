@@ -1,3 +1,7 @@
+---
+description: All the essentials gather in one place - here we go!
+---
+
 # Cheat Sheet 📓
 
 ![](https://sketch2react.io/resources/S2RCheatSheet@2x.png)
