@@ -17,7 +17,6 @@ Current version of our Mac Desktop Code App is **v.0.6.3**
 * **Mobile View** = Opens up another responsive window of your design with the start width of 576px
 * It’s super fast 
 * Use **CSS plugins**
-* **Dev Tools** built in **\(⌥⌘C\)**
 * Handy shortcuts to our documentation & tutorials \(requires internet connection to work\)
 
 ## How to use
