@@ -31,7 +31,7 @@ In fact, we're the only **free Sketch App to code framework** that exist
 
 ## Software requirements
 
-* **Sketch** 50.0 up to 52.5
+* **Sketch** 50.0 up to 52.6
 * **Dekstop Code App** or Previewer Web App
 * Mac OSX Sierra 10.12.6–OSX Mojave 10.14.1
 
