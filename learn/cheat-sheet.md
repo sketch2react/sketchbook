@@ -35,6 +35,10 @@ We currently don’t support rendering SVGs directly/natively. That means that y
 
 This means that the beard dude has a fixed image size and a margin bottom of 10 pixels. Also as you see in the given example you can add whatever text you want after the \[...\] - sweeeeet 🍩🍦
 
+{% hint style="success" %}
+**ProTip!** Make sure to export/reimport your assets at the **@2x resolution** so that you don't get fuzzy edges on retina resolution screens. You can use the very handy **Make Exportable** function in Sketch app and just drag/drop the bitmap back to your artboard once you have enabled it.
+{% endhint %}
+
 ## Fonts & Icons
 
 We support **linking web fonts** directly from inside of Sketch! In our demos we use Google fonts but it should work exactly like this for other type platforms that uses similar methods.
