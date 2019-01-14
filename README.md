@@ -16,18 +16,20 @@ In fact, we're the only **free Sketch App to code framework** that exist
 
 **Sketch2React** is a tool and framework that lets you alter your Sketch design files with the super powers of Bootstrap and React.
 
-> That gives you high fidelity HTML5 code right from scratch 💎
+> That gives you high fidelity code right from scratch 💎
 
 * Design with code snippets that're easy to learn! It's more like **Markdown**
 * Fully responsive
 * Zero plugins
-* Visual way of learning Bootstrap 4
+* Visual way of learning more about code
 * No export required!
 * Treat the layers view in Sketch as a very simple **code editor**
 * Use CSS plugins \(desktop app only\)
 * Offline mode \(desktop app only\)
 * Hot reload \(desktop app only\)
 * Build entire static websites directly from inside of Sketch 🤯
+* Export to HTML package that includes .html, css and all relevant files \(desktop app only\)
+* React code & components \(upcoming paid Pro license required\) Available [soonish.](https://medium.com/sketch2react/real-sketch-to-react-design-and-export-is-here-e49d45a747fb)
 
 ## Software requirements
 
