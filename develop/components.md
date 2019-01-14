@@ -384,6 +384,8 @@ Can be a rectangle or an image.
 
 **Since:** v0.0.5
 
+**Supports:** Layer styles
+
 ## **{navbar-light}**
 
 ```text
