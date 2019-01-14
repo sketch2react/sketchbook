@@ -190,6 +190,10 @@ Creates an image with a responsive size. It scales according to available width.
 
 **Since:** v0.0.5
 
+{% hint style="success" %}
+**ProTip!** Make sure to export/reimport your assets at the @2x resolution so that you don't get fuzzy edges on retina resolution screens.
+{% endhint %}
+
 ## **{image-fixed}**
 
 ```text
