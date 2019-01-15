@@ -33,20 +33,11 @@ Yes you can! Actually it’s really easy, check out our handy [Cheat Sheet](http
 
 ## How do I export to HMTL?
 
-![](.gitbook/assets/savetohtml.gif)
-
-You use our [Previewer App](https://sketch2react.io/sketch2reactpreviewer/) for that. 
-
-1. First drag your .sketchfile to our Previewer App
-2. Make sure you have setup everything accordingly to our framework inside of Sketch
-3. Click on the little animated Sketch2React logo up in the left corner
-4. Choose "Download HTML version"
-5. Save it to your HD or directly to your server
-6. Do this for each artboard that you have in your prototype
+You use our [Code App](https://sketch2react.gitbook.io/sketch2react-io/~/edit/drafts/-LWFdY0D2JIlwF8q6ksG/develop/code-app) for that. 
 
 ## Does it cost money?
 
-During our private alpha, no. Everything you create with it will forever be free. What happens after the alpha we currently don’t know. We're fiddling with the thought that everything will be free up until you \(in a future release\) will be able to export directly to React. So basically you can learn the tool, use it for free, even export to HTML but when you want sexy React thingies you will have to pay. It's actually the only way we can insure that this has a long and bright future, no one can survive on free company coffee. ☕️ 
+During our private beta, no. Everything you create with it will forever be free. Read more [here](https://sketch2react.gitbook.io/sketch2react-io/~/edit/drafts/-LWFdY0D2JIlwF8q6ksG/pricing).
 
 ## How stable is the Beta?
 
