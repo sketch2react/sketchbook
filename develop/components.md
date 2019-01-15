@@ -138,6 +138,8 @@ You can set which kind of HTML element should be created by specifying e.g. _{te
 {text.span}
 ```
 
+**Supports:** Text styles
+
 ## Fluid fonts
 
 {% hint style="success" %}
