@@ -1,5 +1,9 @@
 # Tutorials 📼
 
+## Beginner Tutorial - How to setup in Sketch and create your first Code Component
+
+{% embed url="https://youtu.be/Q1jKB5CMngY" %}
+
 ## Best of our Sketch2React Pro Tips from our Twitter
 
 {% embed url="https://medium.com/sketch2react/best-of-twitter-pro-tips-part-1-2386b64924fd" %}
