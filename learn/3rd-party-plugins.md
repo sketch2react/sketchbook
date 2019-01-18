@@ -1,3 +1,9 @@
+---
+description: >-
+  Here are some really great plugins and apps that work really well with our
+  framework.
+---
+
 # 3rd Party Plugins & Apps ⚙️
 
 ## [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient)

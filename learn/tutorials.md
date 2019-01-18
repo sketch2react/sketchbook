@@ -1,3 +1,7 @@
+---
+description: A diverse bunch of tutorials both from Medium and our Youtube.
+---
+
 # Tutorials 📼
 
 ## Beginner Tutorial - How to setup in Sketch and create your first Code Component

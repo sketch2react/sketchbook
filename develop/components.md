@@ -164,6 +164,8 @@ This element is identical to {group} except that it always keeps the same width 
 
 ## Design Components
 
+All of these are for common design tasks such as texts, images & backgrounds.
+
 ### **{text}**
 
 ```text
@@ -256,8 +258,6 @@ This is a Sketch "Rectangle"-Shape
 {BG}
 ```
 
-## 
-
 Can be a rectangle or an image. 
 
 {% hint style="info" %}
@@ -284,13 +284,9 @@ Using the **O** inside of Sketch you can create an oval element.
 
 **Since:** v0.60
 
-### 
-
-```
-
-```
-
 ## **Interactive Components**
+
+These are all of our interactive components like buttons, navigation, forms.
 
 ### **{button-primary} \(Symbol\)**
 
@@ -462,6 +458,8 @@ Creates an active-style navigation-link \(HTML \[a\] tag\). You need to use the 
 **Updates:** v0.0.55 - Now possible to style
 
 ## Other
+
+Here's those that are hard to categorize 😸🌵
 
 ### **{externalasset.css}**
 

@@ -1,7 +1,5 @@
 # Cheat Sheet 📓
 
-![](https://sketch2react.io/resources/S2RCheatSheet@2x.png)
-
 We use our own version of **Atomic CSS** to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of our .sketch file. And a few nifty shortcuts!
 
 ## Pages & Artboards
