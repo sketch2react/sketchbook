@@ -11,9 +11,9 @@ We do this for a couple of reasons:
 
 ### And now a few words about the FUTURE 🚀 ⚛️
 
-We are working on a **Pro version** of our [**free desktop Code App**](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app) that will be exclusive to our \(future\) paying Pro plan users. No worries, the pricing will be very economic, we really want as many as possible to afford this. We understand you already are paying for Sketch and many other services.
+We are working on an paid **Early Access** **Plan** that will give you the much requested **React export module**. No worries, the pricing will be very economic, we really want as many as possible to afford this. We understand you already are paying for Sketch and many other services.
 
-That’s why **HTML5 export will always be free** and you pay zero dollares for the framework and our layout plugin. Again, we want as many as possible to be able to learn and use our design to code framework. The **Pro plan** will be for folks who really care a lot about getting this workflow to React.
+That’s why **HTML5 export will always be free** and you pay zero dollares for the framework and our layout plugin. Again, we want as many as possible to be able to learn and use our design to code framework.
 
 ### Why do this?
 
