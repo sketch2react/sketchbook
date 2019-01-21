@@ -39,5 +39,5 @@ In fact, we're the only **free Sketch App to code framework** that exist
 
 Sketch2React Beta - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019 [Send us feedback](mailto:feedback@sketch2react.io)
 
-\#[Join our Slack](https://join.slack.com/t/sketch2react/shared_invite/enQtMzc0OTM0OTQ0Nzg4LTRiMTMxNGRjMzA1ZDUxZjIyODE5NGE5ZDQ4Zjg1ZWRiODA2MTliM2Y0MjQ5YTYwMDQyNDJhNDVlODZhZDdlMjY) \| [Twitter](https://twitter.com/sketch2r) \| [Product Hunt](https://www.producthunt.com/posts/sketch2react) \| [Youtube](https://www.youtube.com/channel/UCFyKi5oCfeTLR1wcCRk89_g) \| [Medium](https://medium.com/sketch2react)
+[Twitter](https://twitter.com/sketch2r) \| [Product Hunt](https://www.producthunt.com/posts/sketch2react) \| [Youtube](https://www.youtube.com/channel/UCFyKi5oCfeTLR1wcCRk89_g) \| [Medium](https://medium.com/sketch2react)
 
