@@ -37,7 +37,19 @@ If you have done your homework of **Step 2**, you will see your design file beau
 
 ## How to use install & use our Code App
 
-Once you have downloaded the app you install it like any other Mac app on your computer. After that follow these simple steps to get up and running: 1. Open up our **Sketch2React Code App**  2. Go to **File---&gt;Open \(⌘O\)**  3. **Open up the .sketchfile** you are working on 4. That same file is now linked with our **Code App** 5. Happy makings!
+**First of all you need to** [**sign up to our beta program**](https://sketch2react.io/) **to get our app.** 
+
+Once you have downloaded the app you install it like any other Mac app on your computer. After that follow these simple steps to get up and running:
+
+1. Open up our **Sketch2React Code App** 
+
+2. Go to **File---&gt;Open \(⌘O\)** 
+
+3. **Open up the .sketchfile** you are working on
+
+4. That same file is now linked with our **Code App**
+
+5. Happy makings!
 
 ## Sketch2React Code App features
 
@@ -55,15 +67,36 @@ Once you have downloaded the app you install it like any other Mac app on your c
 3. Go to **Download** and choose where to save
 4. You know have a .zip file with all of your files, assets neatly organized in separate folders
 
-   > If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
-   >
-   > ## Handy shortcuts in our Code App
-   >
-   > **⌘O** = Link to your .sketchfile **⌥⌘M** = Mobile View, opens up a new responsive window with start width 576px **⌘D** = Documentation **⌘T** = Tutorials **⌘F** = Demo files **⌘P** = Publications on our blog
+If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
+
+## Handy shortcuts in our Code App
+
+**⌘O** = Link to your .sketchfile
+
+**⌥⌘M** = Mobile View, opens up a new responsive window with start width 576px 
+
+**⌘D** = Documentation 
+
+**⌘T** = Tutorials 
+
+**⌘F** = Demo files 
+
+**⌘P** = Publications on our blog
+
+## Why can't I install your code app?
+
+All Mac apps that are not certified by Apple that you download from the web or distribute privately \(via your own channels\) give you a warning the very first time you open them. 
+
+Just chill and do like below and happiness will \(maybe\) come to you.
+
+1. Go to **System Preferences**
+2. Click on **Security & Privacy**
+3. It will contain a message that says "Sketch2React Code App was blocked from opening because it is not from an identified developer"
+4. Click on **Open Anyway**
+
+You been good, now go celebrate this with a great cup of the very best company coffee you can find ☕
 
 ## Web app?
 
-We still have our web app [\(Previewer App](https://sketch2react.io/sketch2reactpreviewer/)\), it’s really great to quickly show folks what our framework can do. Perfect also for sending devs your enhanced Sketch files to quickly show them your responsive designs. It supports the same framework that our Code App does.
-
-But once you start using our native Mac Code App you will most likely understand the strengths of having a desktop app for this. And you can do stuff with our Code App that you can't do with the web version. Like adding **custom CSS plugins**, and that is very exciting news friends. We'll do a simple tutorial on how to later on.
+We're discontinuing our web based previewer app. Code App is the future. Yes.
 
