@@ -6,9 +6,9 @@ description: All you need to know about Sketch2React's code export
 
 **Disclaimer**
 
-This article/tutorial was written for our closed/private React Export Pilot that we're conducting for the whole of February 2019. But since this is exactly how React export is going to function when we release this to the public, we thought this would be interesting to all of you. So you can prepare what comes next 😃 🚀
+**React export is not yet available**, we're in closed/private pilot mode for the whole of February 2019 and maybe more.
 
-## How to export to React
+## How to export to React \(paid\)
 
 Follow these instructions to the point and you’ll be exporting to React code and components in super little time. We promise 👍
 
@@ -90,4 +90,11 @@ Open up **package.json** and enter this very path below version:
 ```
 
 In our case here, we changed it to our own relative path.
+
+## Export to HTML \(free\)
+
+1. Go to the **Side Bar** in our app and click **Add to Export**
+2. Do this for each artboard you want exported to HTML5
+3. Go to **Download** and choose where to save
+4. You know have a **.zip file** with all of your files, assets neatly organized in separate folders
 
