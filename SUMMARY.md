@@ -16,5 +16,5 @@
 * [Components 💎](develop/components.md)
 * [Code App 👩‍💻](develop/code-app.md)
 * [Releases ✍️](develop/releases.md)
-* [Exporting to code](develop/exporting-to-code.md)
+* [Exporting to Code](develop/exporting-to-code.md)
 

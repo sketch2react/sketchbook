@@ -2,7 +2,7 @@
 description: All you need to know about Sketch2React's code export
 ---
 
-# Exporting to code
+# Exporting to Code
 
 **Disclaimer**
 
