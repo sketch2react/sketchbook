@@ -4,9 +4,9 @@ description: All you need to know about Sketch2React's code export
 
 # Exporting to Code
 
-**Disclaimer**
-
-**React export is not yet available**, we're in closed/private pilot mode for the whole of February 2019 and maybe more.
+{% hint style="warning" %}
+**Disclaimer - React export is not yet available**, we're in closed/private pilot mode for the whole of February 2019 and maybe more.
+{% endhint %}
 
 ## How to export to React \(paid\)
 
