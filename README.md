@@ -33,7 +33,7 @@ In fact, we're the only **free Sketch App to code framework** that exist
 
 ## Software requirements
 
-* Sketch 50.0 up to 53 \(Beta 71998\)
+* Sketch 52–53
 * Sketch2React Desktop Code App
 * Mac OSX Sierra 10.12.6–OSX Mojave 10.14.1
 
