@@ -1,5 +1,5 @@
 ---
-description: All you need to know about Sketch2React's code export
+description: "All you need to know about Sketch2React's code export. This assumes that you have done your homework, and learn how things need to be created and setup inside of Sketch for this to work \uD83D\uDE04"
 ---
 
 # Exporting to Code
@@ -89,7 +89,7 @@ Open up **package.json** and enter this very path below version:
 "homepage": "http://mywebsite.com/relativepath",
 ```
 
-In our case here, we changed it to our own relative path.
+![In our case here, we changed it to our own relative path.](../.gitbook/assets/relativepaths.png)
 
 ## Export to HTML \(free\)
 
