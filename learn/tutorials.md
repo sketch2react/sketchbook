@@ -78,3 +78,13 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 {% embed url="https://youtu.be/slu9crvcBps" %}
 
+## React Export - How to
+
+{% embed url="https://youtu.be/MqF7fJ1XGMs" %}
+
+## React Export - Routing
+
+{% embed url="https://youtu.be/fp6RYhMvPmQ" %}
+
+
+
