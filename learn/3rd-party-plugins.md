@@ -6,6 +6,10 @@ description: >-
 
 # 3rd Party Plugins & Apps ⚙️
 
+## [Sitecake CMS](https://sitecake.com/)
+
+[Sitecake](https://sitecake.com/) is a brilliantly simple CMS that's actually really [easy to setup ](https://twitter.com/Sketch2R/status/1095970041936429056)to work with the exported HTML5 from our framework. A proper tutorial is coming soon.
+
 ## [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient)
 
 ![Easing Gradient let&apos;s you edit gradients in Sketch like a super \(gradient\) pro](../.gitbook/assets/easinggradient10s.gif)
