@@ -10,7 +10,7 @@ description: >-
 
 ![Ahhh yeah sweeeeet as &#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;](../.gitbook/assets/sitecakesnippet%20%281%29.gif)
 
-[Sitecake](https://sitecake.com/) is a brilliantly simple CMS that's actually really [easy to setup ](https://twitter.com/Sketch2R/status/1095970041936429056)to work with the exported HTML5 from our framework. A proper tutorial is coming soon.
+[Sitecake](https://sitecake.com/) is a brilliantly simple CMS that's actually really [easy to setup ](https://twitter.com/Sketch2R/status/1095970041936429056)to work with the exported HTML5 from our framework. A proper tutorial will come someday!
 
 ## [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient)
 
