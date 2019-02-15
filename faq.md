@@ -10,12 +10,18 @@ Sketch2React is a **free design to code framework** that consists of:
 * From our Code App you can **export to HTML5 totally for free**
 * A **Pro paid version is coming** where you will also have things like true React export & Live HTML Previewing.
 
-## When use our framework?
+## When should I use your framework?
 
 Our framework is really great for many things like for example:
 
 * Static websites like for example portfolios, landing pages, product pages
 * Advanced prototypes that you need to be real code
+* Learning limitations of code, trying out things in a real code environment
+* We call it the Design to Code Playground because once you get the grips you will have lots and lots of fun!
+
+![Nice image that explains a few thingies](.gitbook/assets/ska-rmavbild-2019-02-15-kl.-11.03.51.png)
+
+![](.gitbook/assets/ska-rmavbild-2019-02-15-kl.-11.04.09.png)
 
 ## When should I not use your framework?
 
