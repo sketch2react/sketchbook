@@ -7,9 +7,11 @@ Thanks for joining our [beta program](https://sketch2react.io/). We will be upda
 {% hint style="success" %}
 Go from .sketchfiles \(_via our framework_\) to code really fast!
 
-* HTML5 export = Free
-* Framework, code app = Free
-* Vanilla React + React Export = Upcoming Paid Subscription Plan
+### Sketch2React is:
+
+* **Framework, code app, plugin** = Free
+* **HTML5 export** = Free
+* **Vanilla React + React Export** = Upcoming Paid Subscription Plan
 {% endhint %}
 
 {% hint style="info" %}
