@@ -2,10 +2,14 @@
 
 ## Welcome!
 
-Thanks for joining our [beta program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our free design to code framework
+Thanks for joining our [beta program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our free design to code framework & playground for Sketch app.
 
 {% hint style="success" %}
-Go from .sketchfiles \(_via our framework_\) to code \(_for free_\) really really fast.
+Go from .sketchfiles \(_via our framework_\) to code really fast!
+
+* HTML5 export = Free
+* Framework, code app = Free
+* Vanilla React + React Export = Upcoming Paid Subscription Plan
 {% endhint %}
 
 {% hint style="info" %}
