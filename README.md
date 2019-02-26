@@ -1,8 +1,12 @@
+---
+description: The Design to Code Component Framework for Sketch
+---
+
 # Welcome to Sketch2React 🏡
 
 ## Welcome!
 
-Thanks for joining our [beta program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our free design to code framework & playground for Sketch app.
+Thanks for joining our [beta program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our **free design to code component framework** for Sketch app.
 
 {% hint style="success" %}
 Go from .sketchfiles \(_via our framework_\) to code really fast!
@@ -10,17 +14,17 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 ### Sketch2React is:
 
 * **Framework, code app, plugin** = Free
-* **HTML5 export** = Free
-* **Vanilla React + React Export** = Upcoming Paid Subscription Plan
+* **Component HTML5 Export** = Free
+* **Component Vanilla React + React Export** = Upcoming Paid Subscription Plan
 {% endhint %}
 
 {% hint style="info" %}
-In fact, we're the only **free Sketch App to code framework** that exist
+In fact, we're the only **free Sketch App to code framework** that exist ✅
 {% endhint %}
 
 ## What is Sketch2React?
 
-**Sketch2React** is a tool and framework that lets you alter your Sketch design files with the super powers of Bootstrap and React.
+**Sketch2React** is a tool and framework that lets you **design real code components inside of Sketch app and output them into workable code.**
 
 > That gives you high fidelity code right from scratch 💎
 
