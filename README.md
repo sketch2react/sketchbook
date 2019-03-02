@@ -13,9 +13,9 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 
 ### Sketch2React is:
 
-* **Framework, code app, plugin** = Free
-* **Component HTML5 Export** = Free
-* **Component Vanilla React + React Export** = Upcoming Paid Subscription Plan, for now free with the release of **RC1 \(Release Candidate 1\)**
+* **Framework, code app, plugin**
+* **Component HTML5 Export**
+* **Component Vanilla React + React Export** 
 {% endhint %}
 
 {% hint style="info" %}
@@ -43,7 +43,7 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 52–53
+* Sketch 52–53.2
 * Sketch2React Code App
 * Mac OSX Sierra 10.12.6–OSX Mojave 10.14.3
 
