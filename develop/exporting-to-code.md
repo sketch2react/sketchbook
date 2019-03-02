@@ -4,11 +4,7 @@ description: "All you need to know about Sketch2React's code export. This assume
 
 # Exporting to Code
 
-{% hint style="warning" %}
-**Disclaimer - React export is not yet available**, we're in closed/private pilot mode for the whole of February 2019 and maybe more.
-{% endhint %}
-
-## How to export to React **\(will require a paid subscription\)**
+## How to export to React
 
 Follow these instructions to the point and you’ll be exporting to React code and components in super little time. We promise 👍
 
@@ -17,10 +13,9 @@ Follow these instructions to the point and you’ll be exporting to React code a
 1. Open up our **Code App**. Make sure you have activated the React Export module by entering the license key from **React Export Guide - License & Code App**
 2. Go to **File, Link Sketch-file** \(⌘L\)
 3. Link to one of our demo files our your own
-4. In our left sidebar menu click the **Download** icon. You should now see the **React export option** below HTML
-5. Before anything can be exported to code, you need to **add each artboard/page to our export bundle.** You do that by pressing **Add to export** \(left side menu\) on each and every page you want to be included in the export.
-6. Press **Download** icon. If everything worked when activating you should see **React** below HTML.
-7. Press React and save the .zip somewhere locally on your computer.
+4. Before anything can be exported to code, you need to **add each artboard/page to our export bundle.** You do that by visiting each page in your design, it adds itself automagically to our bundle after each page load. _Neat right?_
+5. Press **Download** icon. If everything worked when activating you should see **React** below HTML.
+6. Press React and save the .zip somewhere locally on your computer.
 
 ### Known issues
 

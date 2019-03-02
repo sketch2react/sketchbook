@@ -15,7 +15,7 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 
 * **Framework, code app, plugin** = Free
 * **Component HTML5 Export** = Free
-* **Component Vanilla React + React Export** = Upcoming Paid Subscription Plan
+* **Component Vanilla React + React Export** = Upcoming Paid Subscription Plan, for now free with the release of **RC1 \(Release Candidate 1\)**
 {% endhint %}
 
 {% hint style="info" %}
