@@ -1,23 +1,38 @@
 # Pricing 💵
 
-### Right now Sketch2React is _free_
+## **What is Release Candidate 1?**
 
-We do this for a couple of reasons:
+It’s **version 1 of Sketch2React**, so basically we’re not in beta anymore — woo-pi-doooo! 😸👍
 
-* It's more fun to just give things away for free during this phase
-* We get a chance to test things more freely without too many constraints
-* HTML export will ALWAYS be free as long as we **can support it**
-* As soon as we release React export their will be an Early Adopter Subscription Plan available
+Our first plan was that when we finally reached 1.0, we would implement some kind of paid subscription plan for our **Pro features.** We’re still are, but not right now. So you get to play around with everything, totally for free, until we release version 2 of Sketch2React. We do this not only because we are super great guys, but also because we want to:
 
-### And now a few words about the FUTURE 🚀 ⚛️
+* Let you guys play around with all of our code export options
+* Give you time, the only resource we can freely give you right now, to learn this, and see how it fits to your current work environment
+* Gather feedback on what to improve
 
-We are working on an paid **Early Adopter** **Subscription Plan** that will give you the much requested **React export module**. No worries, the pricing will be very economic, we really want as many as possible to afford this. We understand you already are paying for Sketch and many other services.
+## **What’s new in RC1?**
 
-That’s why **HTML5 export will always be free** and you pay zero dollares for the framework and our layout plugin. Again, we want as many as possible to be able to learn and use our design to code framework.
+* Export to **HTML5, Vanilla React or React**
+* **Public Preview** lets you start a temporary web server right from our app
+* Pages now add themselves automagically to our export bundle after loading/visiting them once
+* Register & unregister license from your computer
 
-### Why do this?
+## **How long will this be free?**
 
-We will not be able to sustain development of Sketch2React without some kind of revenue, specially since we do have some costs attached to this. We’ll update you guys when a plan is in place.
+As long as we haven’t released version 2, RC1 will be free, all bells and whistles. At the very least a couple of months.
 
-_**In the mean time: Happy makings!**_
+## **System Requirements**
+
+* Sketch 52+
+* Mac OSX Mojave
+* Code App version 0.7.2
+* RC1 License Key \(you get that when signing up via [our website](https://sketch2react.io/)\).
+
+## **How to activate your RC1 license**
+
+1. Open our **Code App**
+2. Go to **Sketch2React Code App** and choose **Registration…**
+3. Enter the license key
+4. Restart our Code App
+5. Boom done! 💥
 

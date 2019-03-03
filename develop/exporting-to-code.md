@@ -86,7 +86,7 @@ Open up **package.json** and enter this very path below version:
 
 ![In our case here, we changed it to our own relative path.](../.gitbook/assets/relativepaths.png)
 
-## Export to HTML \(free\)
+## Export to HTML
 
 1. Go to the **Side Bar** in our app and click **Add to Export**
 2. Do this for each artboard you want exported to HTML5
