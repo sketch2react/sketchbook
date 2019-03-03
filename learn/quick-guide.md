@@ -98,5 +98,5 @@ You been good, now go celebrate this with a great cup of the very best company c
 
 ## Web app?
 
-We're discontinuing our web based previewer app. Code App is the future. Yes.
+Nope, not anymore. Code App is da future. Yup.
 
