@@ -1,4 +1,16 @@
+---
+description: All of our most important milestones & releases since the very beginning
+---
+
 # Releases ✍️
+
+## Release Candidate 1
+
+* Code App version **0.7.2**
+* **React & Vanilla React Export**
+* **Public Preview** lets you start a temporary web server right from our app
+* Pages now **add themselves automagically** to our export bundle after loading/visiting them once
+* Register & Unregister License functionality added
 
 ## Beta
 
