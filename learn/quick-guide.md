@@ -37,15 +37,15 @@ If you have done your homework of **Step 2**, you will see your design file beau
 
 ## How to use install & use our Code App
 
-**First of all you need to** [**sign up to our beta program**](https://sketch2react.io/) **to get our app.** 
+**First of all you need to** [**sign up** ](https://sketch2react.io/)**to get our app.** 
 
 Once you have downloaded the app you install it like any other Mac app on your computer. After that follow these simple steps to get up and running:
 
 1. Open up our **Sketch2React Code App** 
 
-2. Go to **File---&gt;Open \(⌘O\)** 
+2. Go to **File---&gt;Link Sketch-file \(⌘L\)** 
 
-3. **Open up the .sketchfile** you are working on
+3. **Link to the .sketchfile** you are working on
 
 4. That same file is now linked with our **Code App**
 
@@ -60,18 +60,19 @@ Once you have downloaded the app you install it like any other Mac app on your c
 * Use CSS plugins
 * Handy shortcuts to our documentation & tutorials \(requires internet connection to work\)
 
-## How to download HTML5 from our Code App
+## How to download to code
 
-1. Go to the **side bar** in our app and click **Add to Export**
-2. Do this for each artboard you want exported to HTML5
-3. Go to **Download** and choose where to save
-4. You know have a .zip file with all of your files, assets neatly organized in separate folders
+First of all, as of RC1 of Sketch2React our Code App now auto-adds all pages once you visit them. _Very nea_t.
+
+1. Go to the **side bar** in our app and click **Download**
+2. Choose between HTML, React or Vanilla React
+3. You know have a .zip file with all of your files, assets neatly organized in separate folders
 
 If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
 
 ## Handy shortcuts in our Code App
 
-**⌘O** = Link to your .sketchfile
+**⌘L** = Link to your .sketchfile
 
 **⌥⌘M** = Mobile View, opens up a new responsive window with start width 576px 
 

@@ -7,8 +7,7 @@ Sketch2React is a **free Design to Code Playground** that consists of:
 * A free framework based on **Bootstrap 4** that consists of [**Components**](https://sketch2react.gitbook.io/sketch2react-io/develop/components)\*\*\*\*
 * A [**Desktop App**](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app) ****\(Mac only\) that converts your Sketch files into actual code
 * A **Sketch plugin** that helps you setting up the Bootstrap Grid inside of Sketch
-* From our Code App you can **export to HTML5 totally for free**
-* A **Pro paid version is coming** where you will also have things like true **React export & Live HTML Previewing.**
+* From our Code App you can **export to code components**
 
 ## When should I use your framework?
 
@@ -45,11 +44,7 @@ You use our [Code App](https://sketch2react.gitbook.io/sketch2react-io/~/edit/dr
 
 ## Does it cost money?
 
-Framework, code app, layout plugin and HTML5 export will forever be free. We're working on Pro features like React export and other goodies that will require a subscription, but that's not yet available.
-
-## How stable is the Beta?
-
-**It's really stable.** We call it Beta because we have not reached our goal yet. Not because it's flawed or super buggy. You can read an [article here](http://bit.ly/2y0iMBt) if you’re interested.
+Framework, code app, layout plugin and HTML5 export will forever be free. We just released **RC1 of Sketch2React** and right now you can try out all of our Pro features \(React export, Public Preview etc\) totally for free. 
 
 
 
