@@ -47,7 +47,5 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 * Sketch2React Code App
 * Mac OSX Sierra 10.12.6–OSX Mojave 10.14.3
 
-Sketch2React Beta - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019 [Send us feedback](mailto:feedback@sketch2react.io)
-
-[Twitter](https://twitter.com/sketch2r) \| [Product Hunt](https://www.producthunt.com/posts/sketch2react) \| [Youtube](https://www.youtube.com/channel/UCFyKi5oCfeTLR1wcCRk89_g) \| [Medium](https://medium.com/sketch2react)
+Sketch2React v1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
