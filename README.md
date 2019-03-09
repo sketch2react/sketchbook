@@ -39,7 +39,7 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 * Hot reload
 * Build entire static websites directly from inside of Sketch 🤯
 * Export to HTML package that includes .html, css and all relevant files
-* React code & components \(in private/closed pilot\)
+* React code & components
 
 ## Software requirements
 
