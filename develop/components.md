@@ -8,7 +8,7 @@ description: >-
 
 ## **Grid & Layout Components**
 
-All of these are for setting up grids and layouts in Sketch. **You create all of these in Sketch by creating Groups \(⌘G\) and renaming the groups accordingly.**
+These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups \(⌘G\) and renaming the groups accordingly.**
 
 ### **{container}**
 
@@ -166,7 +166,7 @@ This element is identical to {group} except that it always keeps the same width 
 
 ## Design Components
 
-All of these are for common design tasks such as texts, images & backgrounds. **You create all of these in Sketch by using the Shape Tools. Images you import.**
+These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
 
 ### **{text}**
 
@@ -288,7 +288,7 @@ Using the **O** inside of Sketch you can create an oval element.
 
 ## **Interactive Components**
 
-These are all of our interactive components like buttons, navigation, forms. **These are more complex, please refer to our many demo files and study our interactive components.**
+These are all of our interactive components like buttons, navigation, forms. These are a bit more complex but still use only native Sketch tools. **Please refer to our many demo files and study our interactive components.**
 
 ### **{button-primary} \(Symbol\)**
 
