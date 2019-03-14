@@ -12,7 +12,9 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 {% embed url="https://youtu.be/lzJ5YSkpVdI" %}
 
+## Sketch2React - Suggested Workflow for Designers
 
+{% embed url="https://youtu.be/7AjAkE3jZtU" %}
 
 ## Best of our Sketch2React Pro Tips from our Twitter
 
