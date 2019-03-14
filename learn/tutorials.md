@@ -8,6 +8,12 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 {% embed url="https://youtu.be/Q1jKB5CMngY" %}
 
+## Beginner Tutorial Part 2 - How to create a container and how to set margin to components
+
+{% embed url="https://youtu.be/lzJ5YSkpVdI" %}
+
+
+
 ## Best of our Sketch2React Pro Tips from our Twitter
 
 {% embed url="https://medium.com/sketch2react/best-of-twitter-pro-tips-part-1-2386b64924fd" %}
@@ -38,7 +44,7 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 {% embed url="https://youtu.be/rHK4Q3DIOnI" %}
 
-## Release Trailer
+## Release Trailer Alpha
 
 {% embed url="https://youtu.be/k6OS2OgOaPU" %}
 
