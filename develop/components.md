@@ -166,7 +166,7 @@ This element is identical to {group} except that it always keeps the same width 
 
 ## Design Components
 
-All of these are for common design tasks such as texts, images & backgrounds.
+All of these are for common design tasks such as texts, images & backgrounds. **You create all of these in Sketch by using the Shape Tools. Images you import.**
 
 ### **{text}**
 
@@ -288,7 +288,7 @@ Using the **O** inside of Sketch you can create an oval element.
 
 ## **Interactive Components**
 
-These are all of our interactive components like buttons, navigation, forms.
+These are all of our interactive components like buttons, navigation, forms. **These are more complex, please refer to our many demo files and study our interactive components.**
 
 ### **{button-primary} \(Symbol\)**
 
@@ -470,6 +470,15 @@ Here's those that are hard to categorize 😸🌵
 ```
 
 Links to external assets such as fonts or your own custom style-sheets.
+
+{% hint style="success" %}
+#### How to add in Sketch:
+
+1. Create a text node **\(T\)**
+2. Rename text node in the Layer List to **{externalasset.css}**
+3. In the text node itself, enter the url to the external asset
+4. Copy+paste this to each page that uses the external assets 
+{% endhint %}
 
 **When in doubt, use the demo document as a reference :\)**
 
