@@ -8,7 +8,7 @@ description: >-
 
 ## **Grid & Layout Components**
 
-All of these are for setting up grids and layouts in Sketch.
+All of these are for setting up grids and layouts in Sketch. **You create all of these in Sketch by creating Groups \(⌘G\) and renaming the groups accordingly.**
 
 ### **{container}**
 
