@@ -6,7 +6,9 @@ description: The Design to Code Component Framework for Sketch
 
 ## Welcome!
 
-Thanks for joining our [beta program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our **free design to code component framework** for Sketch app.
+![Hello team lets work better together!](.gitbook/assets/workbetter2gether-2x.png)
+
+Thanks for joining our [program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our **free design to code component framework** for Sketch app.
 
 {% hint style="success" %}
 Go from .sketchfiles \(_via our framework_\) to code really fast!
