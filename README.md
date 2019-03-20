@@ -1,10 +1,6 @@
----
-description: The Design to Code Component Framework for Sketch
----
-
 # Welcome to Sketch2React 🏡
 
-## Welcome!
+## The Design to Code Component Framework for Sketch
 
 ![Hello team lets work better together!](.gitbook/assets/workbetter2gether-2x.png)
 
