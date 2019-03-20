@@ -6,6 +6,8 @@ description: All of our most important milestones & releases since the very begi
 
 ## Release Candidate 1
 
+### Added
+
 * Code App version **0.7.2**
 * **React & Vanilla React Export**
 * **Public Preview** lets you start a temporary web server right from our app
