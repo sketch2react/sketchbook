@@ -6,6 +6,10 @@ description: >-
 
 # Components 💎
 
+{% embed url="https://youtu.be/Q1jKB5CMngY" %}
+
+Everything has a beginning, please watch this tutorial if in confusion. It will help, we promise!
+
 ## **Grid & Layout Components**
 
 These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups \(⌘G\) and renaming the groups accordingly.**
