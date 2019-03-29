@@ -6,6 +6,14 @@ description: >-
 
 # 3rd Party Plugins & Apps ⚙️
 
+## [Rocket](https://matthewpalmer.net/rocket/)
+
+![Once you get used to autocomplete it&apos;s freaking amazeballs](../.gitbook/assets/rocketautocomplete.gif)
+
+Using Emoji app Rocket you can actually add something similar to the autocomplete function you have in all major code editors today. Here's how 👍
+
+{% file src="../.gitbook/assets/s2rlovesrocket.mp4" caption="How to add autocomplete to Sketch2React" %}
+
 ## [Sitecake CMS](https://sitecake.com/)
 
 ![Ahhh yeah sweeeeet as &#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;&#x1F36C;](../.gitbook/assets/sitecakesnippet%20%281%29.gif)
