@@ -10,7 +10,7 @@ description: >-
 
 ![Once you get used to autocomplete it&apos;s freaking amazeballs](../.gitbook/assets/rocketautocomplete.gif)
 
-Using Emoji app Rocket you can actually add something similar to the autocomplete function you have in all major code editors today. Here's how 👍
+Using emoji Mac app [Rocket](https://matthewpalmer.net/rocket/) you can actually add something similar to the **autocomplete** function you have in all major code editors today. Here's how 👍
 
 {% file src="../.gitbook/assets/s2rlovesrocket.mp4" caption="How to add autocomplete to Sketch2React" %}
 
