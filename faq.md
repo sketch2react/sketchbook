@@ -2,7 +2,7 @@
 
 ## What is Sketch2React?
 
-Sketch2React is a **free Design to Code Playground** that consists of:
+Sketch2React is a **free Design to Code Component framework** that consists of:
 
 * A free framework based on **Bootstrap 4** that consists of [**Components**](https://sketch2react.gitbook.io/sketch2react-io/develop/components)\*\*\*\*
 * A [**Desktop App**](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app) ****\(Mac only\) that converts your Sketch files into actual code
