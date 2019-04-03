@@ -9,30 +9,22 @@ Sketch2React is a **free Design to Code Playground** that consists of:
 * A **Sketch plugin** that helps you setting up the Bootstrap Grid inside of Sketch
 * From our Code App you can **export to code components**
 
-## When should I use your framework?
+## What can it do?
 
 Our framework is really great for many things, like for example:
 
-* Learning limitations of code, trying out things in a real code environment
-* We call it the **Design to Code Playground** because once you get the grips you will have lots and lots of fun!
-* Static websites like for example portfolios, landing pages, product pages
-* Fully responsive prototypes that actually are for real
-
-![Nice image that explains a few thingies](.gitbook/assets/ska-rmavbild-2019-02-15-kl.-11.03.51.png)
-
-![](.gitbook/assets/ska-rmavbild-2019-02-15-kl.-11.04.09.png)
-
-## When should I not use your framework?
-
-All things that require complex logic that we don't yet support. On the other hand, designers can set up things like the grid, colors, fonts, general layout rules and with that developers can do anything. Sky is the limit!
-
-## Do I upload my .sketchfile somehow to your web app?
-
-Nope! Everything is handled locally on your computer, nothing gets uploaded to our servers. Super safe. We promise.
+* Design and **style your own components** like text, buttons, form fields, navigation
+* You go from **design to code components** without ever leaving Sketch
+* **React Vanilla or our version?** The choice is yours…
+* Since we run Bootstrap 4 in the background you can **design and export real code grids** to your developers
+* Add custom made **CSS animations**, overrides and effects as easy as [**1-2-3**](https://medium.com/sketch2react/css-animations-inside-of-sketch-with-sketch2react-d5d248633ac0)
+* A great way to get started learning our framework is to use it for what we call [**Quick Responsive Prototyping**](https://medium.com/sketch-app-sources/how-to-use-sketch2react-for-quick-responsive-prototyping-cf02bce4e5b0)
+* Since you're working with **real code** you get real code constraints, which is a great thing
+* Pump out **Bootstrap 4 powered websites** for free like there's no tomorrow.  [Connect external CMS](https://twitter.com/Sketch2R/status/1095970041936429056) for even more awesomeness.
 
 ## What is the .sketchplugin for?
 
-You actually don’t need the plugin but it will make your workflow so much faster. It works a bit like a wizard that helps you with all of the really tedious stuff like creating containers, choosing margin and paddings etc. All of these settings can be changed afterwards in Sketchs layer panel.
+You actually don’t need the plugin but it can make your workflow faster. It works a bit like a wizard that helps you with all of the really tedious stuff like creating containers, choosing margin and paddings etc. All of these settings can be changed afterwards in Sketchs layer panel.
 
 ## Can I use web fonts like Google Fonts?
 
@@ -46,5 +38,7 @@ You use our [Code App](https://sketch2react.gitbook.io/sketch2react-io/~/edit/dr
 
 Framework, code app, layout plugin and HTML5 export will forever be free. We just released **RC1 of Sketch2React** and right now you can try out all of our Pro features \(React export, Public Preview etc\) totally for free. 
 
+## Known issues
 
+* **Microsoft One Drive** seems to have issues with our code app, somehow the design file doesn't load properly. Use Dropbox or have your design file locally on your computer.
 
