@@ -40,5 +40,5 @@ Framework, code app, layout plugin and HTML5 export will forever be free. We jus
 
 ## Known issues
 
-* **Microsoft One Drive** seems to have issues with our code app, somehow the design file doesn't load properly. Use Dropbox or have your design file locally on your computer.
+* **Microsoft One Drive** seems to have issues with our code app, somehow the Sketch-file doesn't load properly. Use Dropbox or iCloud Drive, they both work great. Or just have your design file locally on your computer, that always work 👍
 
