@@ -6,6 +6,12 @@ description: >-
 
 # 3rd Party Plugins & Apps ⚙️
 
+## [Flaticon](https://www.flaticon.com/)
+
+![](../.gitbook/assets/flaticon.gif)
+
+[Flaticon](https://www.flaticon.com/) is a great service of top notch high quality icons that work for many occasions. We use them for all of our branding imagery actually 😄👍They have something totally amazeballs - the ability to **create packs and download these as a font icon**. This gives you an amazing advantage of collecting all of your most used icons inside a font that you can share amongst your team mates.
+
 ## [Rocket](https://matthewpalmer.net/rocket/)
 
 ![Once you get used to autocomplete it&apos;s freaking amazeballs](../.gitbook/assets/rocketautocomplete.gif)
