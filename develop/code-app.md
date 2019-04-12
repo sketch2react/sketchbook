@@ -21,7 +21,7 @@ Current version of our Mac Desktop Code App is **version 0.7.2**
 
 ## How to use
 
-1. Go to **File---&gt;Open \(⌘O\)** 
+1. Go to **File---&gt;Link Sketch-file \(⌘L\)** 
 2. **Open up the .sketchfile** you are working on
 3. That same file is now linked with our **Code App** 
 4. Happy makings!
