@@ -39,7 +39,7 @@ If you have set everything up correctly inside of Sketch, the only thing you nee
 
 ## **Handy shortcuts**
 
-**⌘O** = Link to your .sketchfile
+**⌘L** = Link to your .sketchfile
 
 **⌥⌘M** = Mobile View, opens up a new responsive window with start width 576px
 
