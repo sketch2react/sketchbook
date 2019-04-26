@@ -197,5 +197,4 @@ This will give you a a margin-bottom of 10px up until medium size screens and th
 
 * {curly brackets} = **alt + shift + \( \)**
 * \[brackets\] = **alt + \( \)**
-* **Command + S** = Save your changes before dropping the _.sketch_ file in the preview app. Also you will need to _**reload the preview app**_ \(command+R\) before you drop a new version of the demo _.sketch_ file. Working on a fix for this.
 
