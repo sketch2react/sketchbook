@@ -15,8 +15,7 @@
 
 ## Develop
 
-* [Components 💎](develop/components/README.md)
-  * [Styled Components](develop/components/styled-components.md)
+* [Components 💎](develop/components.md)
 * [Exporting to Code](develop/exporting-to-code.md)
 * [Code App 👩‍💻](develop/code-app.md)
 * [Releases ✍️](develop/releases.md)

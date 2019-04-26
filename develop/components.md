@@ -16,7 +16,7 @@ These are for setting up grids and layouts in Sketch. You create all of them in 
 
 ### **{container}**
 
-![Example of a {container} element](../../.gitbook/assets/container.png)
+![Example of a {container} element](../.gitbook/assets/container.png)
 
 ```text
 {container}
@@ -46,7 +46,7 @@ Creates a Bootstrap Container element. This is the outermost element in a Bootst
 
 ### **{container-fluid}**
 
-![Example of a {container-fluid} element](../../.gitbook/assets/containerfluid.png)
+![Example of a {container-fluid} element](../.gitbook/assets/containerfluid.png)
 
 ```text
 {container-fluid}
@@ -230,7 +230,7 @@ Creates an image with fixed width and height \(taken from Sketch\).
 
 ### {rectangle}
 
-![The {rectangle} component is perfect for quick wireframing](../../.gitbook/assets/wireframes.gif)
+![The {rectangle} component is perfect for quick wireframing](../.gitbook/assets/wireframes.gif)
 
 ```text
 {rectangle}
@@ -270,7 +270,7 @@ Can be a rectangle or an image.
 **Pro tip!** Fill the {BG} with a nice linear gradient for really nice website backgrounds that are super lightweight in size. Use {container-fluid} and put the {BG} like below:
 {% endhint %}
 
-![](../../.gitbook/assets/containerfluidbg.png)
+![](../.gitbook/assets/containerfluidbg.png)
 
 **Since:** v0.0.5
 
