@@ -28,17 +28,7 @@ You actually don’t need the plugin but it can make your workflow faster. It wo
 
 ## Can I use web fonts like Google Fonts?
 
-Yes you can! Actually it’s really easy, check out our handy [Cheat Sheet](https://sketch2react.gitbook.io/sketch2react-io/~/edit/drafts/-LLAM2hl82xAVmvUkC0F/faq) for further instructions.
+Yes you can! Actually it’s really easy, check out our handy [Cheat Sheet](https://sketch2react.gitbook.io/sketch2react-io/~/edit/drafts/-LLAM2hl82xAVmvUkC0F/faq) for further instructions. We also have instructions on how to use [Typekit fonts](https://fonts.adobe.com/typekit) from Adobe. 
 
-## How do I export to code?
 
-You use our [Code App](https://sketch2react.gitbook.io/sketch2react-io/~/edit/drafts/-LWFdY0D2JIlwF8q6ksG/develop/code-app) for that. Read more[ here about exporting](https://sketch2react.gitbook.io/sketch2react-io/develop/exporting-to-code).
-
-## Does it cost money?
-
-Framework, code app, layout plugin and HTML5 export will forever be free. We just released **RC1 of Sketch2React** and right now you can try out all of our Pro features \(React export, Public Preview etc\) totally for free. 
-
-## Known issues
-
-* **Microsoft One Drive** seems to have issues with our code app, somehow the Sketch-file doesn't load properly. Use Dropbox or iCloud Drive, they both work great. Or just have your design file locally on your computer, that always work 👍
 
