@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Sketch2React 🏡](README.md)
+* [Support us on Patreon](https://medium.com/@Designforventures.co/support-sketch2react-on-patreon-b76ef1f21356)
 * [FAQ 🤓](faq.md)
 * [Pricing 💵](pricing.md)
 
