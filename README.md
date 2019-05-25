@@ -30,7 +30,6 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 * Fully responsive
 * Zero plugins
 * Visual way of learning more about code
-* No export required!
 * Treat the layers view in Sketch as a very simple **code editor**
 * Use CSS plugins
 * Offline mode
@@ -41,9 +40,9 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 52–55 \(beta\)
+* Sketch 52–55
 * Sketch2React Code App
-* Mac OSX Sierra 10.12.6–OSX Mojave 10.14.4
+* Mac OSX Sierra 10.12.6–OSX Mojave 10.14.5
 
 Sketch2React v1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
