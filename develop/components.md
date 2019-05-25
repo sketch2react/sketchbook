@@ -463,9 +463,25 @@ Creates an active-style navigation-link \(HTML \[a\] tag\). You need to use the 
 
 **Updates:** v0.0.55 - Now possible to style
 
+## Animation Components
+
+These are all of our **animation components** that really expands what you can do with our framework in forms of interactivity.
+
+### {Haiku} \(Symbol\)
+
+Enables the ability to add interactive animations made with [Haiku Animator](https://www.haikuforteams.com/) to Sketch2React.
+
+**Since:** v1.5
+
+### {Lottie} \(Symbol\)
+
+Enables the ability to add interactive animations made in the [Lottie animation](https://lottiefiles.com/) format.
+
+**Since:** v1.5
+
 ## Other
 
-Here's those that are hard to categorize 😸🌵
+Here's those that are hard to categorise 😸🌵
 
 ### **{externalasset.css}**
 
