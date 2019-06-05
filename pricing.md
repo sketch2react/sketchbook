@@ -2,6 +2,8 @@
 
 ## **Support us by purchasing DLC**
 
+![](.gitbook/assets/s2rdlc.jpg)
+
 Since our framework is free we are experimenting with different ways of supporting this project financially. A new way of supporting us is to purchase something that we call **Sketch2React DLC.** Basically it's a **super bundle** of all the things locked away on Patreon. [Read more here](https://medium.com/sketch2react/sketch2react-dlc-1-is-here-4e8055568fab) or just purchase [directly here](https://gum.co/dWfpH).
 
 ## **How much does it cost?**
