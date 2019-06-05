@@ -1,5 +1,9 @@
 # Pricing 💵
 
+## **Support us by purchasing DLC**
+
+Since our framework is free we are experimenting with different ways of supporting this project financially. A new way of supporting us is to purchase something that we call **Sketch2React DLC.** Basically it's a **super bundle** of all the things locked away on Patreon. [Read more here](https://medium.com/sketch2react/sketch2react-dlc-1-is-here-4e8055568fab) or just purchase [directly here](https://gum.co/dWfpH).
+
 ## **How much does it cost?**
 
 **Nothing.** Zero bananas. Zero dollares zero pesetas. We will continue to offer our framework and code app for free as long as we can support it. Speaking of support, **you really should think about supporting us**, we are now on Patreon. Since Patreon is taxable income and we are not a company \(just two dudes doing great stuff together\) we have one for each of us.
