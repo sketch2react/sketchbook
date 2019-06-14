@@ -8,7 +8,11 @@ Since our framework is free we are experimenting with different ways of supporti
 
 ## **How much does it cost?**
 
-**Nothing.** Zero bananas. Zero dollares zero pesetas. We will continue to offer our framework and code app for free as long as we can support it. Speaking of support, **you really should think about supporting us**, we are now on Patreon. Since Patreon is taxable income and we are not a company \(just two dudes doing great stuff together\) we have one for each of us.
+**Nothing.** Zero bananas. Zero dollares zero pesetas. We will continue to offer our framework and code app for free as long as we can support it. Speaking of support, **you really should think about supporting us**, we are now on Patreon and you can buy lovely bundles way before public release \(DLC\). 
+
+### Patreon
+
+Since Patreon is taxable income and we are not a company \(just two dudes doing great stuff together\) we have one for each of us.
 
 [Read more about it here](https://medium.com/sketch2react/support-sketch2react-on-patreon-b76ef1f21356) or just click on our links below…
 
