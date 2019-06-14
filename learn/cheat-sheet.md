@@ -10,9 +10,18 @@ The **page** \(in Sketch\) where you have your designs that you want to render i
 
 ## Images
 
-{% hint style="warning" %}
-We currently don’t support rendering SVGs directly/natively. That means that you will have to export all of your graphical assets \(photos, icons, drawings, dotted lines etc\) as either .png or .jpg and re-import them into your artboards. Also you need to rename them correctly so that our renderer 👁 ”sees” them.
+{% hint style="success" %}
+**As of version 1.5 pre-release we now support SVG’s!** Finally you will not need to export assets in and out again for them to show up in code 🥳
 {% endhint %}
+
+### How to export to SVG
+
+1. Group your vectors, make sure not to use special characters
+2. **Make exportable** and select SVG from the dropdown in Sketch
+3. Voila! Your SVG asset should now be visible in our code app
+4. If you make changes to your vectors you will need to re-link the .sketch file to our code app for them to show up in code
+
+#### We still also support
 
 * {image} = responsive 100%
 * {image-fixed} = fixed size according to what you have set up in Sketch

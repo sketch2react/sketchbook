@@ -26,7 +26,7 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 > That gives you high fidelity code right from scratch 💎
 
-* Design with code snippets that're easy to learn! It's more like **Markdown**
+* Design with code snippets that're easy to learn! It's more like [**Markdown**](https://en.wikipedia.org/wiki/Markdown)\*\*\*\*
 * Fully responsive
 * Zero plugins
 * Visual way of learning more about code
