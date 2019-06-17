@@ -4,7 +4,7 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## Release Candidate 1
+## Version 1
 
 ### Added
 
