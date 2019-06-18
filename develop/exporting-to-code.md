@@ -1,5 +1,5 @@
 ---
-description: "All you need to know about Sketch2React's code export. This assumes that you have done your homework, and learn how things need to be created and setup inside of Sketch for this to work \uD83D\uDE04"
+description: "All you need to know about Sketch2React's code export. This assumes that you have done your homework, and learn how things need to be created and setup inside of Sketch for this to work \U0001F604"
 ---
 
 # Exporting to Code

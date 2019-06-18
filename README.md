@@ -2,7 +2,7 @@
 
 ## The Design to Code Component Framework for Sketch
 
-![Hello team lets work better together!](.gitbook/assets/workbetter2gether-2x.png)
+![](.gitbook/assets/design2code.jpg)
 
 Thanks for joining our [program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our **free design to code component framework** for Sketch app.
 
@@ -40,7 +40,7 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 52–55
+* Sketch 52–55.2
 * Sketch2React Code App
 * Mac OSX Sierra 10.12.6–OSX Mojave 10.14.5
 
