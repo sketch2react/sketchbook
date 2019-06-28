@@ -7,13 +7,14 @@ description: >-
 # Code App 👩‍💻
 
 {% hint style="info" %}
-Current version of our Mac Desktop Code App is **version 0.7.2**
+Current version of our Mac Desktop Code App is **version 1.5**
 {% endhint %}
 
 ## Sketch2React Code App features
 
 * **Hot Reload** - Every time you save in Sketch it automatically reloads that file in our code app
 * **Offline Mode** - Everything that does not require an internet connection in your design file will work offline
+* **Public Preview** - Live preview of your design to code in your browsers \(desktop/mobiles\)
 * **Mobile View** = Opens up another responsive window of your design with the start width of 576px
 * It’s super fast 
 * Use **CSS plugins**
