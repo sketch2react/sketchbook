@@ -4,6 +4,15 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 1.5
+
+### Added
+
+* SVG Support
+* Lottie Animation support
+* New Lottie Symbol
+* Fix for Haiku Animation support
+
 ## Version 1
 
 ### Added
