@@ -11,7 +11,7 @@ The **page** \(in Sketch\) where you have your designs that you want to render i
 ## Images
 
 {% hint style="success" %}
-**As of version 1.5 pre-release we now support SVG’s!** Finally you will not need to export assets in and out again for them to show up in code 🥳
+**As of version 1.5 we now support SVG’s!** Finally you will not need to export assets in and out again for them to show up in code 🥳
 {% endhint %}
 
 ### How to export to SVG
