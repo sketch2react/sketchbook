@@ -164,6 +164,12 @@ This element is identical to {group} except that it always keeps the same width 
 
 **Since:** v0.6.0
 
+### {div}
+
+A generic component well suited for implementing things such as other grid systems \(e.g. MaterialUI grid\) or construct your own components!
+
+**Since:** 1.6.3 pre-release
+
 ## Design Components
 
 These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
@@ -509,6 +515,12 @@ Links to external assets such as fonts or your own custom style-sheets.
 **When in doubt, use the demo document as a reference :\)**
 
 **Since:** v0.0.5
+
+### **{externalasset.js}** <a id="5084"></a>
+
+It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
+
+**Since:** v1.6.3 pre-release
 
 ### Fluid fonts
 
