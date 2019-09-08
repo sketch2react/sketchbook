@@ -6,10 +6,6 @@ description: >-
 
 # Components 💎
 
-{% embed url="https://youtu.be/Q1jKB5CMngY" %}
-
-Everything has a beginning, please watch this tutorial if in confusion. It will help, we promise!
-
 ## **Grid & Layout Components**
 
 These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups \(⌘G\) and renaming the groups accordingly.**
@@ -462,6 +458,16 @@ Creates an active-style navigation-link \(HTML \[a\] tag\). You need to use the 
 **Since:** v0.0.5
 
 **Updates:** v0.0.55 - Now possible to style
+
+### {link}
+
+```text
+{link}
+```
+
+Link component that give you the ability to link anything to anywhere.
+
+**Since:** v1.6.3 pre-release
 
 ## Animation Components
 
