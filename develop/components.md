@@ -465,6 +465,8 @@ Creates an active-style navigation-link \(HTML \[a\] tag\). You need to use the 
 
 **Updates:** v0.0.55 - Now possible to style
 
+![{link} is awesome! Link anything to anywhere &#x1F44D;&#x1F386;](../.gitbook/assets/2019-09-08-15.14.45.gif)
+
 ### {link}
 
 ```text
