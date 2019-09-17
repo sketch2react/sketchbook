@@ -2,9 +2,11 @@
 
 ## **Support us by purchasing DLC**
 
-![](.gitbook/assets/s2rdlc.jpg)
+![](.gitbook/assets/s2rdlc2.png)
 
-Since our framework is free we are experimenting with different ways of supporting this project financially. A new way of supporting us is to purchase something that we call **Sketch2React DLC.** Basically it's a **super bundle** of all the things locked away on Patreon. [Read more here](https://medium.com/sketch2react/sketch2react-dlc-1-is-here-4e8055568fab) or just purchase [directly here](https://gum.co/dWfpH).
+Since our framework is free we are experimenting with different ways of supporting this project financially. A new way of supporting us is to purchase something that we call **Sketch2React DLC.** Basically it's a **super bundle** of all the things locked away on Patreon. 
+
+[Sketch2React DLC\#2 is now available for purchase!](https://gum.co/s2rdlc2)
 
 ## **How much does it cost?**
 
