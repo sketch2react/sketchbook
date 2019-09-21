@@ -44,5 +44,5 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 * Sketch2React Code App
 * OSX Mojave
 
-Sketch2React v1.5 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
+Sketch2React v1.6.4 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
