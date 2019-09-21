@@ -44,29 +44,5 @@ Since Patreon is taxable income and we are not a company \(just two dudes doing 
 * Design and development of our main website
 * Tweets a lot 😄
 
-## **What’s new in V1?**
-
-* Export to **HTML5, Vanilla React or React**
-* **Public Preview** lets you start a temporary web server right from our app
-* Pages now add themselves automagically to our export bundle after loading/visiting them once
-* Register & unregister license from your computer
-
-## **How long will this be free?**
-
-As long as we can support it.
-
-## **System Requirements**
-
-* Sketch 52+
-* Mac OSX Mojave
-* Code App version 0.7.2
-* RC1 License Key \(you get that when signing up via [our website](https://sketch2react.io/)\).
-
-## **How to activate your V1 license**
-
-1. Open our **Code App**
-2. Go to **Sketch2React Code App** and choose **Registration…**
-3. Enter the license key
-4. Restart our Code App
-5. Boom done! 💥
+\*\*\*\*
 
