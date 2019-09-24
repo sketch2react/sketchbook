@@ -1,6 +1,8 @@
-# Quick Guide 🚀
+---
+description: A very brief overview on how our framework works just to get you started.
+---
 
-![](https://github.com/sketch2react/sketchbook/tree/11e8cd1a7153c2b6f32a9e4ed0d008856dfa0b73/learn/S2RHowItWorks.jpg) A very brief overview on how our framework works just to get you started.
+# Quick Guide 🚀
 
 ## Step 1 - Do your design magic
 
@@ -31,7 +33,7 @@ Check our [Components](https://sketch2react.gitbook.io/sketch2react-io/develop/c
 
 👨🏻‍💻**Now comes the really fun part**, seeing your static Sketch design file starting to come alive!
 
-We recommend you using our **desktop Code App** for this. [Read here](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app) why this is like 10000% better than our web based Previewer App.
+We recommend you using our **desktop Code App** for this. 
 
 If you have done your homework of **Step 2**, you will see your design file beautifully rendered and fully responsive based on what you have set up.
 
@@ -62,10 +64,10 @@ Once you have downloaded the app you install it like any other Mac app on your c
 
 ## How to download to code
 
-First of all, as of RC1 of Sketch2React our Code App now auto-adds all pages once you visit them. _Very nea_t.
+**First of all, as of RC1 of Sketch2React our Code App now auto-adds all pages once you visit them**. _Very nea_t.
 
 1. Go to the **side bar** in our app and click **Download**
-2. Choose between HTML, React or Vanilla React
+2. Choose between **HTML, React or Vanilla React**
 3. You know have a .zip file with all of your files, assets neatly organized in separate folders
 
 If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
