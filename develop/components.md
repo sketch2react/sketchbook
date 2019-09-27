@@ -166,9 +166,9 @@ This element is identical to {group} except that it always keeps the same width 
 
 ### {div}
 
-A generic component well suited for implementing things such as other grid systems \(e.g. MaterialUI grid\) or construct your own components!
+A generic component well suited for implementing things such as other grid systems \(e.g. [MaterialUI grid](https://www.muicss.com/)\) or construct your own components!
 
-**Since:** 1.6.3 pre-release
+**Since:** 1.6.4 pre-release
 
 ## Design Components
 
