@@ -4,6 +4,46 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 1.6.4
+
+This version is at the moment a payed upgrade. We do this to sustain our framework and code app. It will be available for free in a couple of months. Don't have the stomach to wait? [Buy it now and support us.](https://gumroad.com/l/s2rdlc2)
+
+### Added
+
+#### 👉 🌋 Support for Sketch Cloud Documents
+
+Eager to use [Sketch for Teams](https://www.sketch.com/teams/) and all those new fancy ways of working together? Guess what, as of version 1.6 we now have support for working directly with Sketch Cloud Documents.
+
+#### 👉 🌋 Support for Sketch Shared Libraries
+
+You can now build up your real code component library and share it with anyone that uses Sketch. It’s as easy as 1–2–3. To get you kick-started we have included our own S2RSharedLib ⭐
+
+#### ⚙️ 👉 👩‍💻 New component {link}
+
+Link any element to anything! Like images or texts!
+
+#### ⚙️ 👉 👩‍💻 New component {div}
+
+A generic component well suited for implementing things such as other **grid systems** \(e.g. MaterialUI grid\) or construct your own components!
+
+#### ⚙️ 👉 👩‍💻 New component {externalasset.js}
+
+It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
+
+#### 👉 🤖 CSS-modules
+
+Our React export now utilizes CSS-modules. This means the dependency on Sketch2React’s package \(@sketch2react/react-components\) is gone! **No dependency on us once your React code is exported!** 🥳
+
+#### 👉 🤖 Updated React export’s dependencies
+
+We’ve updated the React export’s dependencies to remove package vulnerabilities.
+
+#### 👉 🤖 Clean-up in the React export
+
+You no longer get warnings about “unused variables” in the console because, guess what, there are none! 💪
+
+
+
 ## Version 1.5
 
 ### Added
