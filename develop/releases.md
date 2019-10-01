@@ -18,15 +18,15 @@ Eager to use [Sketch for Teams](https://www.sketch.com/teams/) and all those new
 
 You can now build up your real code component library and share it with anyone that uses Sketch. It’s as easy as 1–2–3. To get you kick-started we have included our own S2RSharedLib ⭐
 
-#### ⚙️ 👉 👩‍💻 New component {link}
+#### ⚙️ 👉 👩‍💻 New component [{link}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#link-symbol)
 
 Link any element to anything! Like images or texts!
 
-#### ⚙️ 👉 👩‍💻 New component {div}
+#### ⚙️ 👉 👩‍💻 New component[ {div}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#div)
 
 A generic component well suited for implementing things such as other **grid systems** \(e.g. MaterialUI grid\) or construct your own components!
 
-#### ⚙️ 👉 👩‍💻 New component {externalasset.js}
+#### ⚙️ 👉 👩‍💻 New component [{externalasset.js}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#5084)
 
 It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
 
