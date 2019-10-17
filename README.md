@@ -40,9 +40,9 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 56-57.1
+* Sketch 56-59
 * Sketch2React Code App
-* OSX Mojave
+* OSX Mojave or Catalina
 
-Sketch2React v1.6.5 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
+Sketch2React v1.6.6 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 

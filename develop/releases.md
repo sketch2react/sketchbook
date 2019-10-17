@@ -4,6 +4,20 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 1.6.6
+
+### Added
+
+* Support for both Sketch 58 + 59!
+* Support for Smart Layouts 🚒🔥
+* Squashed a strange {hover} bug - easy peasy 💪🤖
+
+## Version 1.6.5
+
+### Fixed
+
+Some small 🐛easy peasy
+
 ## Version 1.6.4
 
 This version is at the moment a payed upgrade. We do this to sustain our framework and code app. It will be available for free in a couple of months. Don't have the stomach to wait? [Buy it now and support us.](https://gumroad.com/l/s2rdlc2)
