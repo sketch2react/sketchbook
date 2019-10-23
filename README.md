@@ -22,9 +22,9 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## What is Sketch2React?
 
-**Sketch2React** is a tool and framework that lets you **design real code components inside of Sketch app and output them into workable code.**
+**Sketch2React** is a tool and framework that lets you **build React powered websites & components** directly from inside Sketch 💎
 
-> That gives you high fidelity code right from scratch 💎
+> That gives you high fidelity code right from scratch 💪
 
 * Design with code snippets that're easy to learn! It's more like [**Markdown**](https://en.wikipedia.org/wiki/Markdown)\*\*\*\*
 * Fully responsive
@@ -34,15 +34,15 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 * Use CSS plugins
 * Offline mode
 * Hot reload
-* Build entire static websites directly from inside of Sketch 🤯
+* Build entire static React powered websites directly from inside of Sketch 🤯
 * Export to HTML package that includes .html, css and all relevant files
 * React code & components
 
 ## Software requirements
 
-* Sketch 56-59
+* Sketch 56.3-59
 * Sketch2React Code App
 * OSX Mojave or Catalina
 
-Sketch2React v1.6.6 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
+Sketch2React v1.6.7 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
