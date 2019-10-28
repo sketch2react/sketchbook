@@ -2,9 +2,7 @@
 
 ## The Design to Code Component Framework for Sketch
 
-![](.gitbook/assets/design2code.jpg)
-
-Thanks for joining our [program](https://sketch2react.io/). We will be updating this space from time to time with new documentation regarding our **free design to code component framework** for Sketch app.
+![](.gitbook/assets/1.png)
 
 {% hint style="success" %}
 Go from .sketchfiles \(_via our framework_\) to code really fast!
@@ -12,8 +10,8 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 ### Sketch2React is:
 
 * **Framework, code app, plugin**
-* **Component HTML5 Export**
-* **Component Vanilla React + React Export** 
+* **Website HTML5 Export**
+* **Website Vanilla React + React Export** 
 {% endhint %}
 
 {% hint style="info" %}
@@ -42,7 +40,7 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 * Sketch 56.3-59
 * Sketch2React Code App
-* OSX Mojave or Catalina
+* OSX Mojave or Catalina \([requires 1.6+](https://gum.co/s2rdlc2)\)
 
 Sketch2React v1.6.7 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
