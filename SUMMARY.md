@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Sketch2React 🏡](README.md)
+* [Getting Started](getting-started.md)
 * [FAQ 🤓](faq.md)
 * [Pricing 💵](pricing.md)
 
