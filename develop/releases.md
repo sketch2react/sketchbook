@@ -4,6 +4,12 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 1.6.7
+
+### Fixed
+
+Small bug fixes, done deal 🤖👍
+
 ## Version 1.6.6
 
 ### Added
