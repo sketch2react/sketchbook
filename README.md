@@ -10,8 +10,8 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 ### Sketch2React is:
 
 * **Framework, code app, plugin**
-* **Website HTML5 Export**
-* **Website Vanilla React + React Export** 
+* **Website HTML5 project export**
+* **Website React project export** 
 {% endhint %}
 
 {% hint style="info" %}
