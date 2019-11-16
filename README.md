@@ -2,7 +2,7 @@
 
 ## The Design to Code Component Framework for Sketch
 
-![](.gitbook/assets/1.png)
+![](.gitbook/assets/1%20%281%29.png)
 
 {% hint style="success" %}
 Go from .sketchfiles \(_via our framework_\) to code really fast!
