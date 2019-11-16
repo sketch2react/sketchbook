@@ -1,6 +1,10 @@
-# Welcome to Sketch2React 🏡
+---
+description: "This is the very latest version of Sketch2React, so enhanced we needed a new name \U0001F604\U0001F44D"
+---
 
-## The Design to Code Component Framework for Sketch
+# Welcome to Stratos 🏡
+
+## The Design to Code Component Framework
 
 ![](.gitbook/assets/1.png)
 
@@ -18,9 +22,9 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 In fact, we're the only **free Sketch App to code framework** that exist ✅
 {% endhint %}
 
-## What is Sketch2React?
+## What is Stratos?
 
-**Sketch2React** is a tool and framework that lets you **build React powered websites & components** directly from inside Sketch 💎
+**Stratos** is a tool and framework that lets you **build React powered components** & websites ****directly from inside Sketch 💎\(and Figma approx spring 2020\)
 
 > That gives you high fidelity code right from scratch 💪
 
@@ -38,9 +42,9 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 56.3-60 \(Beta\)
-* Sketch2React Code App
-* OSX Mojave or Catalina \([requires 1.6+](https://gum.co/s2rdlc2)\)
+* Sketch 58-60
+* Stratos App
+* OSX Mojave or Catalina
 
-Sketch2React v1.6.7 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
+Stratos Alpha v0.4.4 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019
 
