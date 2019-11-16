@@ -4,22 +4,19 @@ description: "This is the very latest version of Sketch2React, so enhanced we ne
 
 # Welcome to Stratos 🏡
 
-## The Design to Code Component Framework
+## Stratos – The Design to Code Component Framework
 
 ![](.gitbook/assets/1.png)
 
 {% hint style="success" %}
-Go from .sketchfiles \(_via our framework_\) to code really fast!
+Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
-### Sketch2React is:
+### Stratos consists of:
 
-* **Framework, code app, plugin**
-* **Website HTML5 project export**
+* **Framework with markup language, code app, plugin**
+* **React Styled Components export with NPM export support**
+* * **Website HTML5 project export**
 * **Website React project export** 
-{% endhint %}
-
-{% hint style="info" %}
-In fact, we're the only **free Sketch App to code framework** that exist ✅
 {% endhint %}
 
 ## What is Stratos?
