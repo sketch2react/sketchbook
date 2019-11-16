@@ -13,10 +13,9 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
 ### Stratos consists of:
 
-* **Framework with markup language, code app, plugin**
-* **React Styled Components export with NPM export support**
-* * **Website HTML5 project export**
-* **Website React project export** 
+* **Framework with markup language**
+* **Code App**
+* **Plugin for Sketch** \(not required but useful in the beginning while learning\)
 {% endhint %}
 
 ## What is Stratos?
