@@ -176,6 +176,15 @@ A generic component well suited for implementing things such as other grid syste
 
 These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
 
+### **SVG's**
+
+Any graphic, illustration, icon or UI element that you have inside your design tool can be converted to an SVG with a few very simple steps.
+
+1. Group your vector layers and call it something great
+2. With the group selected go to the Inspector panel in Sketch and press **Make Exportable**
+3. Choose SVG
+4. You may need to reload inside our Stratos app for it to show up, use our reload button on the right corner of the design view \(the actual HTML view of your live Sketch file\)
+
 ### **{Text}**
 
 ```text
