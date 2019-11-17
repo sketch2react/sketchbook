@@ -128,49 +128,49 @@ Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can c
 {Group} 
 ```
 
-\`\`
-
 This is a structural component used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
 
 #### Horizontally:
 
-If you, within a {group} place X number of Sketch2React elements next to each other horizontally, {group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
+If you, within a {group} place X number of Stratos elements next to each other horizontally, {Group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
 
-The remaining space \(the difference/delta between the child-elements total width and the {group}’s own width\) will be distributed evenly **between** the children.
+The remaining space \(the difference/delta between the child-elements total width and the {Group}’s own width\) will be distributed evenly **between** the children.
 
 #### Vertically:
 
-If you, within a {group} place X number of Sketch2React elements stacked vertically in Sketch, {group} will make sure they end up vertically in code. 
+If you, within a {Group} place X number of Stratos elements stacked vertically in Sketch, {Group} will make sure they end up vertically in code. 
 
-The remaining space \(the difference/delta between the child-elements total height and the {group}’s own height\) will be distributed evenly **between** the children. 
+The remaining space \(the difference/delta between the child-elements total height and the {Group}’s own height\) will be distributed evenly **between** the children. 
 
 **Supports:**
 
 > * classes \[ \]
 
-**Since:** v0.6.0
+**Since:** v0.4.4
 
-### {group-fixed}
+### {Group-fixed}
 
-`{group-fixed}`
+```text
+{Group-fixed}
+```
 
-This element is identical to {group} except that it always keeps the same width \(taken from Sketch\) even when you resize it’s parent component \(e.g. a {col}\). 
+This element is identical to {Group} except that it always keeps the same width \(taken from Sketch\) even when you resize it’s parent component \(e.g. a {Col}\). 
 
 {% hint style="warning" %}
-**Note!** {group-fixed} is never wider that the size of it's parent element. 
+**Note!** {Group-fixed} is never wider that the size of it's parent element. 
 {% endhint %}
 
 **Supports:**
 
 > * classes \[ \]
 
-**Since:** v0.6.0
+**Since:** v0.4.4
 
-### {div}
+### {Div}
 
 A generic component well suited for implementing things such as other grid systems \(e.g. [MaterialUI grid](https://www.muicss.com/)\) or construct your own components!
 
-**Since:** 1.6.4 pre-release
+**Since:** v0.4.4
 
 ## Design Components
 
