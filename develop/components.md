@@ -10,9 +10,7 @@ description: >-
 
 These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups \(⌘G\) and renaming the groups accordingly.**
 
-### **{container}**
-
-![Example of a {container} element](../.gitbook/assets/container.png)
+### **{Container}**
 
 ```text
 {container}
@@ -27,25 +25,23 @@ Creates a Bootstrap Container element. This is the outermost element in a Bootst
 **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{container}**
+3. Rename group **{Container}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{container-fluid}**
-
-![Example of a {container-fluid} element](../.gitbook/assets/containerfluid.png)
+### **{Container-fluid}**
 
 ```text
-{container-fluid}
+{Container-fluid}
 ```
 
 Creates a Bootstrap Container-fluid element. This element \(as opposed to {container}\) always covers 100% of the available width \(screensize or, if nested, the width of the parent {col} element\)
@@ -53,23 +49,23 @@ Creates a Bootstrap Container-fluid element. This element \(as opposed to {conta
 #### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{container-fluid}**
+3. Rename group **{Container-fluid}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{row}**
+### **{Row}**
 
 ```text
-{row}
+{Row}
 ```
 
 Creates a Bootstrap Row element. A {row} is a direct child to {container} or {container-fluid}. This element's height is always at least as high as the corresponding element in the Sketch document.
@@ -77,7 +73,9 @@ Creates a Bootstrap Row element. A {row} is a direct child to {container} or {co
 #### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
+
+**Since:** v0.4.4
 
 {% hint style="info" %}
 #### **Pro tip!** 
@@ -86,47 +84,51 @@ By adding the Bootstrap 4 class _no-gutters_ you will remove gutters from child 
 
 Example:
 
-#### {row} \[no-gutters\]
+#### {Row} \[no-gutters\]
 {% endhint %}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{row}**
+3. Rename group **{Row}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{col}**
+### **{Col}**
 
 ```text
-{col}
+{Col}
 ```
 
 Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements \(Known as nesting\). It is within this element you place all your content.
 
-**Supports:**
+#### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{col}**
+3. Rename group **{Col}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{group}**
+### **{Group}**
 
-`{group}` 
+```text
+{Group} 
+```
+
+\`\`
 
 This is a structural component used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
 
