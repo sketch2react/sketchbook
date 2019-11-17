@@ -13,13 +13,13 @@ These are for setting up grids and layouts in Sketch. You create all of them in 
 ### **{Container}**
 
 ```text
-{container}
+{Container}
 ```
 
 Creates a Bootstrap Container element. This is the outermost element in a Bootstrap grid. 
 
 {% hint style="info" %}
-**Note:** You can also have {container} elements inside of {col} elements \(known as nesting\).
+**Note:** You can also have {Container} elements inside of {Col} elements \(known as nesting\).
 {% endhint %}
 
 **Supports:**
@@ -176,10 +176,10 @@ A generic component well suited for implementing things such as other grid syste
 
 These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
 
-### **{text}**
+### **{Text}**
 
 ```text
-{text}
+{Text}
 ```
 
 The text-layers created in Sketch needs to be named {text} in order for the previewer app to find them and parse them properly. By default {text} generates an HTML paragraph tag.
