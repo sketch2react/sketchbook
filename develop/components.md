@@ -499,10 +499,10 @@ Enables the ability to add interactive animations made in the [Lottie animation]
 
 Here's those that are hard to categorise 😸🌵
 
-### **{externalasset.css}**
+### **{ExternalAsset}**
 
 ```text
-{externalasset.css}
+{ExternalAsset}
 ```
 
 Links to external assets such as fonts or your own custom style-sheets.
@@ -511,14 +511,14 @@ Links to external assets such as fonts or your own custom style-sheets.
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
-2. Rename text node in the Layer List to **{externalasset.css}**
+2. Rename text node in the Layer List to **{ExternalAsset}**
 3. In the text node itself, enter the url to the external asset
 4. Copy+paste this to each page that uses the external assets 
 {% endhint %}
 
-**When in doubt, use the demo document as a reference :\)**
+**When in doubt, use our demo documents as a reference :\)**
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 ### **{externalasset.js}** <a id="5084"></a>
 
@@ -539,7 +539,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 * You have a {text} with the class _js-font-fluid-10_ 
 
 ```text
-{text} [js-font-fluid-10]
+{Text} [js-font-fluid-10]
 ```
 
 The font-size will then flow between 18px at the smallest screen-size and 28px at the largest screen-size.
@@ -551,7 +551,7 @@ The font-size will then flow between 18px at the smallest screen-size and 28px a
 * You have a {text} with the class _js-font-fluid-12_
 
 ```text
-{text} [js-font-fluid-12]
+{Text} [js-font-fluid-12]
 ```
 
 The font-size will then flow between 6px at the smallest screen-size and 18px at the largest screen-size.
@@ -560,11 +560,5 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 
 > * classes \[ \]
 
-**Since:** v0.0.5
-
-**Updates:** v0.0.55 - Fluid font support
-
-## Experimental 👨‍🔬👩‍🔬 <a id="experimental&#x1F468;&#x200D;&#x1F52C;&#x1F469;&#x200D;&#x1F52C;"></a>
-
-We have a few more components that are in the experimental stage like cards and stuff! Check out the demo document! We'll keep you updated!
+**Since:** v0.4.4
 
