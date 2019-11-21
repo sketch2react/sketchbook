@@ -20,27 +20,30 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
 ## What is Stratos?
 
-**Stratos** is a tool and framework that lets you **build React powered components** & websites ****directly from inside Sketch 💎 \(and Figma approx spring 2020\) 🤖
+**Stratos consists of two parts:**
 
-> That gives you high fidelity code right from scratch, in real-time, no plugins needed 💪
+* A Design Markup Language called **Stratos Markup**
+* Stratos App
 
-* Design with the **built-in tools in Sketch**
-* Use our markup to name layers & groups, really easy to learn
-* Create **custom React components** within our code app
+## What can I do with Stratos?
+
+* Design with the **built-in tools in Sketch** & Figma \(coming Spring 2020\)
+* Use **Stratos Markup** to name layers & groups, really easy to learn
+* Create **custom React components** within our Stratos app
 * Export **styled components** to React
-* Export to **NPM**
+* Export to **NPM** projects
 * Export to React website project & HTML5 website project
 * Fully responsive
 * Zero plugins
 * Visual way of learning more about code
-* Treat the layers view in Sketch as a very simple **code editor**
+* Treat the layers view in your design application as a very simple **code editor**
 * Use CSS plugins
 * Offline mode
 * Hot reload means real-time code previews
 
 ## Software requirements
 
-* Sketch 58-60
+* Sketch 58-60.1
 * Stratos App
 * OSX Mojave or Catalina
 * NPM & Node.js
