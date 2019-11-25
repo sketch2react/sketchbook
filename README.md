@@ -11,19 +11,13 @@ description: "This is the very latest version of Sketch2React, so enhanced we ne
 {% hint style="success" %}
 Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
-### Stratos consists of:
+### Stratos consists of two parts:
 
-* **Framework with markup language**
+* A design markup language called **Stratos Markup**
 * **Code App**
-* **Plugin for Sketch** \(not required but useful in the beginning while learning\)
 {% endhint %}
 
-## What is Stratos?
-
-**Stratos consists of two parts:**
-
-* A Design Markup Language called **Stratos Markup**
-* Stratos App
+![](.gitbook/assets/stratosis-2x.png)
 
 ## What can I do with Stratos?
 
