@@ -24,7 +24,8 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 * Design with the **built-in tools in Sketch** & Figma \(coming Spring 2020\)
 * Use **Stratos Markup** to name layers & groups, really easy to learn
 * Create **custom React components** within our Stratos app
-* Export **styled components** to React
+* Create **Design Tokens** straight from inside your design application
+* Export **styled components** to React & Vue
 * Export to **NPM** projects
 * Export to React website project & HTML5 website project
 * Fully responsive
@@ -37,7 +38,7 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
 ## Software requirements
 
-* Sketch 58-60.1
+* Sketch 60+
 * Stratos App
 * OSX Mojave or Catalina
 * NPM & Node.js
