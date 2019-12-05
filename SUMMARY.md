@@ -10,7 +10,7 @@
 
 ## Develop
 
-* [Components 💎](develop/components.md)
+* [Stratos Components 💎](develop/components.md)
 * [Exporting to Code](develop/exporting-to-code.md)
 * [Releases ✍️](develop/releases.md)
 

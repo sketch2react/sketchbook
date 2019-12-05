@@ -4,7 +4,7 @@ description: >-
   output workable code via our Sketch2React Code App.
 ---
 
-# Components 💎
+# Stratos Components 💎
 
 ## **Grid & Layout Components**
 
