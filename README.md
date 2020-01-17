@@ -1,6 +1,6 @@
 # Welcome to Sketch2React 🏡
 
-## Build React powered websites directly from Sketch
+## The Design to Code Component Framework for Sketch
 
 ![](.gitbook/assets/1%20%281%29.png)
 
