@@ -14,10 +14,6 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 * **Website React project export** 
 {% endhint %}
 
-{% hint style="info" %}
-In fact, we're the only **free Sketch App to code framework** that exist ✅
-{% endhint %}
-
 ## What is Sketch2React?
 
 **Sketch2React** is a tool and framework that lets you **build React powered websites & components** directly from inside Sketch 💎
@@ -38,9 +34,9 @@ In fact, we're the only **free Sketch App to code framework** that exist ✅
 
 ## Software requirements
 
-* Sketch 56.3-60.1 \(1.6+ is required for Sketch 59+\)
+* Sketch 60+
 * Sketch2React Code App
-* OSX Mojave or Catalina \([requires 1.6+](https://gum.co/s2rdlc2)\)
+* OSX Mojave or Catalina
 
 Sketch2React v1.6.7 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
 
