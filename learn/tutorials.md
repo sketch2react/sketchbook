@@ -2,7 +2,7 @@
 description: A diverse bunch of tutorials both from Medium and our Youtube.
 ---
 
-# Stratos Tutorials & Articles 📼 📘
+# Stratos Tutorials & Articles 📘
 
 ## Sketch Symbols = React Components?
 
