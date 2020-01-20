@@ -2,7 +2,7 @@
 description: A diverse bunch of tutorials both from Medium and our Youtube.
 ---
 
-# Stratos Tutorials & Articles 📼
+# Stratos Tutorials & Articles 📼 📘
 
 ## Sketch Symbols = React Components?
 
@@ -19,6 +19,10 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 ## How to add Storybook.js to Stratos projects
 
 {% embed url="https://www.youtube.com/watch?v=2WTSCNsO7Kw&list=PLlXDF4NEE6YnZ0hnCRg6TMeaQcmwPiv9Y&index=2" %}
+
+## Stratos Overview
+
+{% embed url="https://youtu.be/EkFDJlRBhUk" %}
 
 
 
