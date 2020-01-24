@@ -1,6 +1,6 @@
 # Welcome to Sketch2React 🏡
 
-## The Design to Code Component Framework for Sketch
+## Build React powered prototypes directly from Sketch
 
 ![](.gitbook/assets/1%20%281%29.png)
 
@@ -16,7 +16,7 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 
 ## What is Sketch2React?
 
-**Sketch2React** is a tool and framework that lets you **build React powered websites & components** directly from inside Sketch 💎
+**Sketch2React** is a tool and framework that lets you **build React powered prototypes** directly from inside Sketch 💎
 
 > That gives you high fidelity code right from scratch 💪
 
