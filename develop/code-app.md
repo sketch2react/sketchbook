@@ -52,19 +52,6 @@ If you have set everything up correctly inside of Sketch, the only thing you nee
 
 **⌘P** = Publications on our blog
 
-## Why can't I install your code app?
-
-All Mac apps that are not certified by Apple that you download from the web or distribute privately \(via your own channels\) give you a warning the very first time you open them. 
-
-Just chill and do like below and happiness will \(maybe\) come to you.
-
-1. Go to **System Preferences**
-2. Click on **Security & Privacy**
-3. It will contain a message that says "Sketch2React Code App was blocked from opening because it is not from an identified developer"
-4. Click on **Open Anyway**
-
-You been good, now go celebrate this with a great cup of the very best company coffee you can find ☕
-
 
 
 
