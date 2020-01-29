@@ -9,7 +9,7 @@ description: All of our most important milestones & releases since the very begi
 ### Added
 
 * Support for MacOS Catalina
-* Support for Sketch 62
+* Support for Sketch 62+
 
 ## Version 1.6.7
 
