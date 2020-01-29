@@ -27,6 +27,17 @@ Current version of our Mac Desktop Code App is **version 1.6.7**
 3. That same file is now linked with our **Code App** 
 4. Happy makings!
 
+## How to download HTML5
+
+1. Go to the **Side Bar** in our app and click **Add to Export**
+2. Do this for each artboard you want exported to HTML5
+3. Go to **Download** and choose where to save
+4. You know have a **.zip file** with all of your files, assets neatly organized in separate folders
+
+{% hint style="info" %}
+If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
+{% endhint %}
+
 ## **Handy shortcuts**
 
 **⌘L** = Link to your .sketchfile
@@ -40,6 +51,19 @@ Current version of our Mac Desktop Code App is **version 1.6.7**
 **⌘F** = Demo files
 
 **⌘P** = Publications on our blog
+
+## Why can't I install your code app?
+
+All Mac apps that are not certified by Apple that you download from the web or distribute privately \(via your own channels\) give you a warning the very first time you open them. 
+
+Just chill and do like below and happiness will \(maybe\) come to you.
+
+1. Go to **System Preferences**
+2. Click on **Security & Privacy**
+3. It will contain a message that says "Sketch2React Code App was blocked from opening because it is not from an identified developer"
+4. Click on **Open Anyway**
+
+You been good, now go celebrate this with a great cup of the very best company coffee you can find ☕
 
 
 
