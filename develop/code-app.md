@@ -27,17 +27,6 @@ Current version of our Mac Desktop Code App is **version 1.6.7**
 3. That same file is now linked with our **Code App** 
 4. Happy makings!
 
-## How to download HTML5
-
-1. Go to the **Side Bar** in our app and click **Add to Export**
-2. Do this for each artboard you want exported to HTML5
-3. Go to **Download** and choose where to save
-4. You know have a **.zip file** with all of your files, assets neatly organized in separate folders
-
-{% hint style="info" %}
-If you have set everything up correctly inside of Sketch, the only thing you need to do now is drag all of these files onto your own server and your done! 💥
-{% endhint %}
-
 ## **Handy shortcuts**
 
 **⌘L** = Link to your .sketchfile
