@@ -91,3 +91,17 @@ npm install — save stratos-designtokens-demo
 
 Your design tokens are now available for any codebase on any platform! And **it’s 1:1 with your Design tool’s design document!**
 
+**Feel free to download and test the design tokens example here:**
+
+```text
+npm install --save stratos-designtokens-demo
+```
+
+### Example usage <a id="dbf2"></a>
+
+#### React
+
+![](../.gitbook/assets/1-lhpat6rkwo6xtly2zg0rua.png)
+
+You can of course use this for other frameworks and platforms as well \(i.e. React native, Vue.js, Angular, Android, Swift… ****🤖💪
+
