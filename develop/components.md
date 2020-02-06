@@ -1,7 +1,7 @@
 ---
 description: >-
   Here's all of our current code components and their categories. All of these
-  output workable code via our Sketch2React Code App.
+  output production-ready React components.
 ---
 
 # Stratos Components 💎
