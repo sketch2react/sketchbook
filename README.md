@@ -35,8 +35,8 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 ## Software requirements
 
 * Sketch 60+
-* Sketch2React Code App
+* Sketch2React Code App 1.6.8
 * OSX Mojave or Catalina
 
-Sketch2React v1.6.7 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2019
+Sketch2React v1.6.8 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2020
 
