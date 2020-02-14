@@ -37,8 +37,6 @@ Check our [Components](https://sketch2react.gitbook.io/sketch2react-io/develop/c
 
 👨🏻‍💻**Now comes the really fun part**, seeing your static Sketch design file starting to come alive!
 
-You use our Mac code app for this. Either you [sign up](https://sketch2react.io) to get our current free version \(1.5\) or you [purchase our latest DLC](https://gum.co/s2rdlc2) that comes with 1.6+.
-
 If you have done your homework of **Step 2**, you will see your design file beautifully rendered and fully responsive based on what you have set up.
 
 ## How to use install & use our Code App
