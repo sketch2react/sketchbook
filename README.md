@@ -34,7 +34,7 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 
 ## Software requirements
 
-* Sketch 60+
+* Sketch 60-64 Beta
 * Sketch2React Code App 1.6.8
 * OSX Mojave or Catalina
 
