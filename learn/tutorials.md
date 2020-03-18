@@ -16,6 +16,12 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 {% embed url="https://medium.com/sketch2react/how-to-combine-design-tokens-with-material-ui-30a982c17c22" caption="We now have Figma support which we hadn\'t when writing this article" %}
 
+## How to get started with Figma projects
+
+{% embed url="https://youtu.be/wi4Sjagx10Q" %}
+
+
+
 
 
 
