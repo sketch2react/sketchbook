@@ -19,10 +19,10 @@ description: >-
 ## Software requirements
 
 * Latest versions of Sketch & Figma
-* [Stratos Tokens App](https://gumroad.com/l/stratosalphabeta)
-* OSX Mojave or Catalina
+* [Stratos Tokens App](https://gumroad.com/l/stratosalphabeta) for Mac
+* Stratos works with OSX Mojave latest or Catalina latest
 * NPM & Node.js
-* Use your preferred external code editor for more advanced features
+* Use your preferred external code editor
 
 Stratos Tokens 1.0.2 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2020
 
