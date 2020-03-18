@@ -1,7 +1,7 @@
 ---
 description: >-
-  Design tokens in Stratos is a very powerful way of working between design and
-  development.
+  Design tokens in Stratos Tokens is a very powerful way of working directly
+  from your design application with tokens and themes.
 ---
 
 # How it works
