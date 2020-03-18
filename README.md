@@ -14,7 +14,10 @@ description: >-
 
 * Use Sketch & Figma to setup and control your **design tokens & theming structure**
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
-* Use Stratos Tokens app to output your
+* Use Stratos Tokens app \(Mac only\) to output your code
+* Supports Sketch & Figma files natively, no plugins are needed
+* Export to NPM
+* Export to iOS, Android via our built-in Style Dictionary support
 
 ## Software requirements
 
