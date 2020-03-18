@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Stratos 🏡](README.md)
+* [Welcome to Stratos Components 🏡](README.md)
 
 ## Develop
 

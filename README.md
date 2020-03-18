@@ -2,7 +2,7 @@
 description: "This is the very latest version of Sketch2React, so enhanced we needed a new name \U0001F604\U0001F44D"
 ---
 
-# Welcome to Stratos 🏡
+# Welcome to Stratos Components 🏡
 
 ## Stratos – Design to production-ready code really fast
 
