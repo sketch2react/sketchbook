@@ -19,7 +19,7 @@ description: >-
 ## Software requirements
 
 * Latest versions of Sketch & Figma
-* Stratos Tokens App
+* [Stratos Tokens App](https://gumroad.com/l/stratosalphabeta)
 * OSX Mojave or Catalina
 * NPM & Node.js
 * Use your preferred external code editor for more advanced features

@@ -4,13 +4,17 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials & Articles 📘
 
-## Sketch Symbols = React Components?
+## How to work with Google Material UI
 
-{% embed url="https://medium.com/sketch2react/can-sketch-app-symbols-be-made-into-react-components-136a8464e687" caption="Fredrik shows you what comes next in Stratos Alpha 2" %}
+{% embed url="https://medium.com/sketch2react/tutorial-how-to-work-with-google-material-ui-design-tokens-sketch-app-51db8c55760e" %}
 
-## How to add custom React components to Stratos
 
-{% embed url="https://youtu.be/IiaMvvvsdJo" %}
+
+## Introducing Stratos Tokens App
+
+{% embed url="https://medium.com/sketch2react/introducing-stratos-tokens-app-9eaca96d9c22" %}
+
+
 
 ## Stratos First Look
 
