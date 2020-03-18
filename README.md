@@ -15,6 +15,7 @@ description: >-
 ## What can I do with Stratos Tokens?
 
 * Use Sketch & Figma to setup and control your **design tokens & theming structure**
+* Reads the raw design file \(Sketch or Figma\) and generates a JSON-structure based on your design data \(design tokens\)
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
 * Use Stratos Tokens app \(Mac only\) to output your code
 * Supports Sketch & Figma files natively, no plugins are needed
