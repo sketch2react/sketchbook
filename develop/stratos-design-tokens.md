@@ -4,23 +4,25 @@ description: >-
   development.
 ---
 
-# Stratos Design Tokens
+# How it works
 
-**TLDR;** _Stratos App_ reads the raw design file \(no plugins\) and generates a design token file \(JSON-format\). This file can then be either stored directly in your codebase or uploaded to repositories like _NPMjs_ to be consumed by any codebase on any platform. And it’s 1:1 with your design file!
+**TLDR;** _Stratos Tokens App_ reads the raw design file \(no plugins\) and generates a design token file \(JSON-format\). This file can then be either stored directly in your codebase or uploaded to repositories like _NPMjs_ to be consumed by any codebase on any platform. And it’s 1:1 with your design file!
 
-You visually represent your Design Tokens in a design tool \(currently only _Sketch App_ is supported, but _Figma_ is soon available as well\).
+You visually represent your Design Tokens in a design tool, Sketch or Figma is currently supported.
 
 ![Example structure in your Sketch App document](../.gitbook/assets/1-j7olob_cb_5djo49rsbo1q.png)
 
-_Stratos App_ reads your design file \(without plugins, yupp, just like that\) and generates a file with a JSON structure containing your design data. Then you either save the design data file \(Design Tokens\) or upload it to a repository like _NPMjs_.
+The **Stratos Tokens App** __\(Mac only\) reads your design file \(without plugins, yupp, just like that\) and generates a file with a JSON structure containing your design data. Then you either save the design data file \(Design Tokens\) or upload it to a repository like _NPMjs_.
 
-![Generated JSON-structure in Stratos App](../.gitbook/assets/1-terp4ife36h0fwyvxugf7a.png)
+![Generated JSON-structure in Stratos Tokens App](../.gitbook/assets/1-terp4ife36h0fwyvxugf7a.png)
 
 {% hint style="success" %}
 The structure of the output JSON is a direct reflection of the structure in your design document.
+
+_**It’s up to you to create your own structure.**_
 {% endhint %}
 
-Please note that above is just an **example** of how to structure your Design Tokens. It’s up to you to create your own structure.
+Please note that above is just an **example** of how to structure your Design Tokens & Theming. It’s up to you to create your own structure.
 
 ## A couple of rules to follow
 
