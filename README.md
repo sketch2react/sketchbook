@@ -4,7 +4,7 @@ description: "This is the very latest version of Sketch2React, so enhanced we ne
 
 # Welcome to Stratos Components 🏡
 
-## Stratos – Design to production-ready code really fast
+## Stratos Components – Design to production-ready code really fast
 
 ![](.gitbook/assets/1.png)
 
