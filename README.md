@@ -17,7 +17,7 @@ description: >-
 * Use Stratos Tokens app \(Mac only\) to output your code
 * Supports Sketch & Figma files natively, no plugins are needed
 * Export to NPM
-* Export to iOS, Android via our built-in Style Dictionary support
+* Export to iOS, Android via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)
 
 ## Software requirements
 
