@@ -1,51 +1,47 @@
 ---
 description: >-
   Here's all of our current code components and their categories. All of these
-  output workable code via our Sketch2React Code App.
+  output production-ready React components.
 ---
 
-# Components 💎
+# Stratos Components 💎
 
 ## **Grid & Layout Components**
 
 These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups \(⌘G\) and renaming the groups accordingly.**
 
-### **{container}**
-
-![Example of a {container} element](../.gitbook/assets/container.png)
+### **{Container}**
 
 ```text
-{container}
+{Container}
 ```
 
 Creates a Bootstrap Container element. This is the outermost element in a Bootstrap grid. 
 
 {% hint style="info" %}
-**Note:** You can also have {container} elements inside of {col} elements \(known as nesting\).
+**Note:** You can also have {Container} elements inside of {Col} elements \(known as nesting\).
 {% endhint %}
 
 **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{container}**
+3. Rename group **{Container}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{container-fluid}**
-
-![Example of a {container-fluid} element](../.gitbook/assets/containerfluid.png)
+### **{Container-fluid}**
 
 ```text
-{container-fluid}
+{Container-fluid}
 ```
 
 Creates a Bootstrap Container-fluid element. This element \(as opposed to {container}\) always covers 100% of the available width \(screensize or, if nested, the width of the parent {col} element\)
@@ -53,23 +49,23 @@ Creates a Bootstrap Container-fluid element. This element \(as opposed to {conta
 #### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{container-fluid}**
+3. Rename group **{Container-fluid}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{row}**
+### **{Row}**
 
 ```text
-{row}
+{Row}
 ```
 
 Creates a Bootstrap Row element. A {row} is a direct child to {container} or {container-fluid}. This element's height is always at least as high as the corresponding element in the Sketch document.
@@ -77,7 +73,9 @@ Creates a Bootstrap Row element. A {row} is a direct child to {container} or {co
 #### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
+
+**Since:** v0.4.4
 
 {% hint style="info" %}
 #### **Pro tip!** 
@@ -86,98 +84,111 @@ By adding the Bootstrap 4 class _no-gutters_ you will remove gutters from child 
 
 Example:
 
-#### {row} \[no-gutters\]
+#### {Row} \[no-gutters\]
 {% endhint %}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{row}**
+3. Rename group **{Row}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{col}**
+### **{Col}**
 
 ```text
-{col}
+{Col}
 ```
 
 Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements \(Known as nesting\). It is within this element you place all your content.
 
-**Supports:**
+#### **Supports:**
 
 > * classes \[ \]
-> * Backgrounds {BG}
+> * Backgrounds {Background}
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 {% hint style="success" %}
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
 2. Group that text node **\(⌘+G\)**
-3. Rename group **{col}**
+3. Rename group **{Col}**
 4. Delete text node _or_ name it {text} 
 {% endhint %}
 
-### **{group}**
+### **{Group}**
 
-`{group}` 
+```text
+{Group} 
+```
 
 This is a structural component used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
 
 #### Horizontally:
 
-If you, within a {group} place X number of Sketch2React elements next to each other horizontally, {group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
+If you, within a {group} place X number of Stratos elements next to each other horizontally, {Group} will make sure they end up horizontally in code. They will also be automatically centered vertically.
 
-The remaining space \(the difference/delta between the child-elements total width and the {group}’s own width\) will be distributed evenly **between** the children.
+The remaining space \(the difference/delta between the child-elements total width and the {Group}’s own width\) will be distributed evenly **between** the children.
 
 #### Vertically:
 
-If you, within a {group} place X number of Sketch2React elements stacked vertically in Sketch, {group} will make sure they end up vertically in code. 
+If you, within a {Group} place X number of Stratos elements stacked vertically in Sketch, {Group} will make sure they end up vertically in code. 
 
-The remaining space \(the difference/delta between the child-elements total height and the {group}’s own height\) will be distributed evenly **between** the children. 
+The remaining space \(the difference/delta between the child-elements total height and the {Group}’s own height\) will be distributed evenly **between** the children. 
 
 **Supports:**
 
 > * classes \[ \]
 
-**Since:** v0.6.0
+**Since:** v0.4.4
 
-### {group-fixed}
+### {Group-fixed}
 
-`{group-fixed}`
+```text
+{Group-fixed}
+```
 
-This element is identical to {group} except that it always keeps the same width \(taken from Sketch\) even when you resize it’s parent component \(e.g. a {col}\). 
+This element is identical to {Group} except that it always keeps the same width \(taken from Sketch\) even when you resize it’s parent component \(e.g. a {Col}\). 
 
 {% hint style="warning" %}
-**Note!** {group-fixed} is never wider that the size of it's parent element. 
+**Note!** {Group-fixed} is never wider that the size of it's parent element. 
 {% endhint %}
 
 **Supports:**
 
 > * classes \[ \]
 
-**Since:** v0.6.0
+**Since:** v0.4.4
 
-### {div}
+### {Div}
 
 A generic component well suited for implementing things such as other grid systems \(e.g. [MaterialUI grid](https://www.muicss.com/)\) or construct your own components!
 
-**Since:** 1.6.4 pre-release
+**Since:** v0.4.4
 
 ## Design Components
 
-These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
+These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools.** 
 
-### **{text}**
+### **SVG's**
+
+Any graphic, illustration, icon or UI element that you have inside your design tool can be converted to SVG with a few very simple steps.
+
+1. **Group your vector shape layers** and call it something great
+2. With the group selected go to the **Inspector panel** in Sketch and press **Make Exportable**
+3. Choose **SVG**
+4. You may need to **reload inside our Stratos app** for it to show up, use our reload button on the right corner of the design view \(the actual HTML view of your live Sketch file\)
+
+### **{Text}**
 
 ```text
-{text}
+{Text}
 ```
 
 The text-layers created in Sketch needs to be named {text} in order for the previewer app to find them and parse them properly. By default {text} generates an HTML paragraph tag.
@@ -497,10 +508,10 @@ Enables the ability to add interactive animations made in the [Lottie animation]
 
 Here's those that are hard to categorise 😸🌵
 
-### **{externalasset.css}**
+### **{ExternalAsset}**
 
 ```text
-{externalasset.css}
+{ExternalAsset}
 ```
 
 Links to external assets such as fonts or your own custom style-sheets.
@@ -509,14 +520,14 @@ Links to external assets such as fonts or your own custom style-sheets.
 #### How to add in Sketch:
 
 1. Create a text node **\(T\)**
-2. Rename text node in the Layer List to **{externalasset.css}**
+2. Rename text node in the Layer List to **{ExternalAsset}**
 3. In the text node itself, enter the url to the external asset
 4. Copy+paste this to each page that uses the external assets 
 {% endhint %}
 
-**When in doubt, use the demo document as a reference :\)**
+**When in doubt, use our demo documents as a reference :\)**
 
-**Since:** v0.0.5
+**Since:** v0.4.4
 
 ### **{externalasset.js}** <a id="5084"></a>
 
@@ -537,7 +548,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 * You have a {text} with the class _js-font-fluid-10_ 
 
 ```text
-{text} [js-font-fluid-10]
+{Text} [js-font-fluid-10]
 ```
 
 The font-size will then flow between 18px at the smallest screen-size and 28px at the largest screen-size.
@@ -549,7 +560,7 @@ The font-size will then flow between 18px at the smallest screen-size and 28px a
 * You have a {text} with the class _js-font-fluid-12_
 
 ```text
-{text} [js-font-fluid-12]
+{Text} [js-font-fluid-12]
 ```
 
 The font-size will then flow between 6px at the smallest screen-size and 18px at the largest screen-size.
@@ -558,11 +569,5 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 
 > * classes \[ \]
 
-**Since:** v0.0.5
-
-**Updates:** v0.0.55 - Fluid font support
-
-## Experimental 👨‍🔬👩‍🔬 <a id="experimental&#x1F468;&#x200D;&#x1F52C;&#x1F469;&#x200D;&#x1F52C;"></a>
-
-We have a few more components that are in the experimental stage like cards and stuff! Check out the demo document! We'll keep you updated!
+**Since:** v0.4.4
 

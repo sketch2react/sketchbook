@@ -10,7 +10,7 @@ Follow these instructions to the point and you’ll be exporting to React code a
 
 ### Adding things to export \(Code App\)
 
-1. Open up our **Code App**. 
+1. Open up our **Code App**. Make sure you have activated the React Export module by entering the license key from **React Export Guide - License & Code App**
 2. Go to **File, Link Sketch-file** \(⌘L\)
 3. Link to one of our demo files our your own
 4. Before anything can be exported to code, you need to **add each artboard/page to our export bundle.** You do that by visiting each page in your design, it adds itself automagically to our bundle after each page load. _Neat right?_
@@ -19,9 +19,7 @@ Follow these instructions to the point and you’ll be exporting to React code a
 
 ### Known issues
 
-**Don’t save to Dropbox, OneDrive or Google Drive.** Or use at your own risk of being really annoyed 😅
-
-Once you begin installing all the packages that are included in our React export, these services will most likely hickup. Or send you automated emails complaining you have to many files 😸
+**Don’t save to Dropbox, OneDrive or Google Drive.** Once you begin installing all the packages that are included in our React export, these services will most likely crash/hang. Or send you automated emails complaining you have to many files 😸
 
 This is because we use [Create React App](https://github.com/facebook/create-react-app) \(among other things\) and it contains an amazingly amount of really small files. Size-wise we’re talking about approx 220MB of downloaded packages.
 
@@ -31,7 +29,7 @@ This is because we use [Create React App](https://github.com/facebook/create-rea
 
 Now comes a couple of steps that first can seem very odd and very unfamiliar. Specially if you have never installed thingies via the Terminal. We have streamlined this as much as we can but hey, this is a real design to code environment, you can’t cheat your way through this 😸
 
-## 🖐️ Node.js
+### 🖐️ Node.js
 
 For anything to work you first need to install **Node.js**.
 
@@ -42,7 +40,7 @@ For anything to work you first need to install **Node.js**.
 
 Download the latest build [from here](https://nodejs.org/en/download/)
 
-## How to export to React \(Terminal\)
+### How to export to React \(Terminal\)
 
 First of all, make sure you have **admin rights** to your computer or nothing of the below things will ever work. 
 
@@ -51,18 +49,18 @@ First of all, make sure you have **admin rights** to your computer or nothing of
 3. Go to your dl Sketch2React .zip, unzip and drag drop the entire folder onto your Terminal window. Drop it precisely after the words cd + your blank space. It should look something like this cd /users/
 4. Hit Enter **↩︎**
 
-## How to install all required packages \(Terminal\)
+### How to install all required packages \(Terminal\)
 
 1.  Write **npm install** and hit enter **↩︎**
 2. Since you have entered the correct cd installation of all required packages should begin
 
-## How to start your development server \(Terminal\)
+### How to start your development server \(Terminal\)
 
 1. Write **npm start** and hit enter **↩︎**
 2. It will take up to one minute and then you will see this message in the Terminal will open up your default browser with localhost:3000
 3. Done! Now continue with your development outside of Sketch, do all changes directly in code.
 
-## How to create a build \(Terminal\)
+### How to create a build \(Terminal\)
 
 * If the server is running, press **Control+C** to stop it
 
@@ -74,13 +72,11 @@ You can’t create a build while the server is running!
 
 It will create a optimized build of your entire project. It takes a bit of time, just chill, stand up, look out your window or something 😄
 
-## Building for Relative Paths
+### Building for Relative Paths
 
 By default, **Create React App** produces a build assuming your app is hosted at the server root.
 
-{% hint style="info" %}
 Here’s how you [change that](https://facebook.github.io/create-react-app/docs/deployment#building-for-relative-paths). 
-{% endhint %}
 
 Open up **package.json** and enter this very path below version:
 
