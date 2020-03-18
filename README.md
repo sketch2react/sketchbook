@@ -6,9 +6,11 @@ description: >-
 
 # Welcome to Stratos Tokens
 
-## Stratos Tokens – Control your design tokens & themes from Sketch & Figma
+## Stratos Tokens – Build your design tokens & themes directly from Sketch & Figma
 
-![](.gitbook/assets/ska-rmklipp-2020-03-18-13.48.24.png)
+![This is how our simple Material-UI demo file looks in Figma](.gitbook/assets/ska-rmklipp-2020-03-18-13.48.24.png)
+
+![This is how the JSON structure looks in Stratos Tokens](.gitbook/assets/materialui-demo-stokens.png)
 
 ## What can I do with Stratos Tokens?
 
