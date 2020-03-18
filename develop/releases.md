@@ -4,5 +4,7 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## Alpha 1
+## 1.0.2
+
+
 
