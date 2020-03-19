@@ -38,10 +38,10 @@ There are **seven design rules** that you **need to follow.**
 
 ## What do I do next?
 
-You open _Stratos App_ and **create a new project**. To this project you link your design token design file. In this example I will name my project _stratos-designtokens-demo_. You currently need two artboards:
+You open _Stratos Tokens App_ and **create a new project**. To this project you link your design token design file. In this example I will name my project _stratos-designtokens-demo_. You currently need two artboards:
 
 1. One named _Start_ that can be really small and empty
-2. One named _Template_. It's on this artboard that you create your design token structure.
+2. One named _Template, Themes or anything else really_. It's on this artboard that you create your design token structure. You can have several tokens artboards/frames
 
 ![](../.gitbook/assets/1-ifwuca4r95khjmhkmadwlq.png)
 
