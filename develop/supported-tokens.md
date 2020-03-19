@@ -4,5 +4,5 @@ description: >-
   them inside your awesome design application
 ---
 
-# Supported Tokens
+# Supported Tokens \(WIP\)
 

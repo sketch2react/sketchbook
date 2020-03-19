@@ -5,7 +5,7 @@
 ## Develop
 
 * [How it works](develop/stratos-design-tokens.md)
-* [Supported Tokens](develop/supported-tokens.md)
+* [Supported Tokens \(WIP\)](develop/supported-tokens.md)
 
 ## Learn
 

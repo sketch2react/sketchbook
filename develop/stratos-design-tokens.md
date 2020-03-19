@@ -8,7 +8,7 @@ description: >-
 
 **TLDR;** _Stratos Tokens App_ reads the raw design file \(no plugins\) and generates a design token file \(JSON-format\). This file can then be either stored directly in your codebase or uploaded to repositories like _NPMjs_ to be consumed by any codebase on any platform. And it’s 1:1 with your design file!
 
-You visually represent your Design Tokens in a design tool, Sketch or Figma is currently supported.
+You visually represent your Design Tokens in a design tool, [Sketch](https://www.sketch.com), [Figma](https://www.figma.com) or [InVision Studio](https://www.invisionapp.com/studio) is currently supported.
 
 ![Example structure in your Sketch App document](../.gitbook/assets/1-j7olob_cb_5djo49rsbo1q.png)
 
