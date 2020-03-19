@@ -17,5 +17,5 @@ There are **five design rules** that you **need to follow.**
 4. Text layers with values within _**{ }**_ are evaluated
 5. Text layers with values within _**{ }**_ and matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 3 above\)
 
-![This is the top level structure for setting up Material-UI tokens](../.gitbook/assets/figmabasicsetupmaterialdesign.png)
+![This is the top level structure for setting up Material-UI tokens. The frame Themes can be called anything.](../.gitbook/assets/figmabasicsetupmaterialdesign.png)
 
