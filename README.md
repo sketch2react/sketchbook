@@ -25,7 +25,7 @@ description: >-
 
 ## Software requirements
 
-* Latest versions of Sketch & Figma
+* Latest versions of Sketch, Figma & InVision Studio
 * [Stratos Tokens App](https://gumroad.com/l/stratosalphabeta) for Mac
 * OSX Mojave latest or Catalina latest
 * NPM & Node.js
