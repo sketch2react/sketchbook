@@ -19,5 +19,5 @@ There are **seven design rules** that you **need to follow.**
 6. The page were the tokens are created need to be named **Start here**
 7. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
 
-![This is the top level structure for setting up Material-UI tokens. The frame Themes can be called anything.](../.gitbook/assets/figmabasicsetupmaterialdesign.png)
+![This is the top level structure for setting up Material-UI design tokens](../.gitbook/assets/figmabasicsetupmaterialdesign.png)
 
