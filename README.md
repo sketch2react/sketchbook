@@ -22,7 +22,11 @@ description: >-
 * Use [Stratos Tokens app](https://gumroad.com/l/stratosalphabeta) \(Mac only\) to output your code
 * Supports Sketch, Figma & InVision Studio files natively, no plugins are needed
 * Export to NPM
-* Export to iOS, Android, CSS via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)
+* Export to iOS, Android, CSS via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)\*
+
+{% hint style="warning" %}
+\*_Requires you to_[ _structure your design tokens_](https://amzn.github.io/style-dictionary/#/properties?id=examples) _in your design application as Style Dictonary needs them to be or the export will not work_
+{% endhint %}
 
 ## Software requirements
 
