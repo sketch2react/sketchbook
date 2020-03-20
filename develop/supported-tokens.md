@@ -16,8 +16,9 @@ There are **seven design rules** that you **need to follow.**
 3. Text layers represent text formatting
 4. Text layers with values within _**{ }**_ are evaluated
 5. Text layers with values within _**{ }**_ and matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 3 above\)
-6. The page were the tokens are created need to be named **Start here**
-7. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
+6. Text layers with values within double curly brackets **{{ }}** are evaluated like so: {{color.primary.value}} becomes {color.primary.value} in the generated JSON. This is used for **reusable values** \(variables\) in **Style Dictionary**
+7. The page were the tokens are created need to be named **Start here**
+8. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
 
 ![This is the top level structure for setting up Material-UI design tokens](../.gitbook/assets/figmabasicsetupmaterialdesign.png)
 
