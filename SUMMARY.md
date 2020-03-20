@@ -4,7 +4,6 @@
 
 ## Develop
 
-* [Stratos Design Tokens](develop/stratos-design-tokens.md)
 * [Stratos Components 💎](develop/components.md)
 * [Exporting to Code](develop/exporting-to-code.md)
 * [Releases ✍️](develop/releases.md)

@@ -1,5 +1,5 @@
 ---
-description: "This is the very latest version of Sketch2React, so enhanced we needed a new name \U0001F604\U0001F44D"
+description: Stratos Components is Styled Components directly from your design application
 ---
 
 # Welcome to Stratos Components 🏡
@@ -19,12 +19,11 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
 ![](.gitbook/assets/stratosis-2x.png)
 
-## What can I do with Stratos?
+## What can I do with Stratos Components?
 
-* Design with the **built-in tools in Sketch** & Figma \(coming Spring 2020\)
+* Design with the **built-in tools in Sketch**
 * Use **Stratos Markup** to name layers & groups, really easy to learn
 * Create **custom React components** within our Stratos app
-* Create **Design Tokens** straight from inside your design application
 * Export **styled components** to React & Vue
 * Export to **NPM** projects
 * Export to React website project & HTML5 website project
@@ -39,10 +38,10 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 ## Software requirements
 
 * Sketch 60+
-* Stratos App
+* Stratos Components App
 * OSX Mojave or Catalina
 * NPM & Node.js
 * Use your preferred external code editor for more advanced features
 
-Stratos Alpha v0.4.4 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019
+Stratos Alpha v0.5.1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019-2020
 
