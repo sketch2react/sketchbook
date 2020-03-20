@@ -2,7 +2,7 @@
 description: All of our most important milestones & releases since the very beginning
 ---
 
-# Releases
+# Releases ✍️
 
 ## 0.5.1 - 2020-03-20
 
