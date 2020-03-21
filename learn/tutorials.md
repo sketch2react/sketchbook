@@ -18,7 +18,7 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 ## How to get started with Figma projects
 
-{% embed url="https://youtu.be/wi4Sjagx10Q" %}
+{% embed url="https://medium.com/sketch2react/tutorial-how-to-get-started-with-figma-projects-and-design-tokens-ea3f4a28c9ac" %}
 
 
 
