@@ -38,7 +38,7 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 ## Software requirements
 
 * Sketch 60+
-* Stratos Components App
+* [Stratos Components App](https://gumroad.com/l/stratoswfh)
 * OSX Mojave or Catalina
 * NPM & Node.js
 * Use your preferred external code editor for more advanced features
