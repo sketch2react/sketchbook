@@ -69,7 +69,7 @@ npm install — save stratos-designtokens-demo
 
 ### Downloading
 
-1. On the _Download_ tab in _Stratos App_, expand the _Design tokens NPM project_ and hit the _Download NPM_ button
+1. On the _Download_ tab in _Stratos Tokens App_, expand the _Design tokens NPM project_ and hit the _Download NPM_ button
 2. Store the project anywhere you like
 
 ![Your downloaded NPM project&#x2019;s package.json](../.gitbook/assets/1-qehtjbacmtze_rxvh8hmmg.png)
