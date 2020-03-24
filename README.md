@@ -43,5 +43,5 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 * NPM & Node.js
 * Use your preferred external code editor for more advanced features
 
-Stratos Alpha v0.5.1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019-2020
+Stratos Components Alpha v0.5.1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019-2020
 
