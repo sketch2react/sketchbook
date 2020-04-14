@@ -9,7 +9,7 @@ description: >-
 
 ## Stratos Tokens – Build your design tokens & themes directly from Sketch, Figma & InVision Studio
 
-![Overview how Stratos Tokens works](.gitbook/assets/stratos-tokens-workflow.001.jpeg)
+![Overview of how Stratos Tokens works. We&apos;re also adding Adobe XD support further down the road.](.gitbook/assets/stratos-tokens-workflow.001.jpeg)
 
 ## What can I do with Stratos Tokens?
 
