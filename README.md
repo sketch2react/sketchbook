@@ -11,10 +11,6 @@ description: >-
 
 ![Overview how Stratos Tokens works](.gitbook/assets/stratos-tokens-workflow.001.jpeg)
 
-![This is how our simple Material-UI demo file looks in Figma](.gitbook/assets/ska-rmklipp-2020-03-18-13.48.24.png)
-
-![This is how the JSON structure looks in Stratos Tokens](.gitbook/assets/materialui-demo-stokens.png)
-
 ## What can I do with Stratos Tokens?
 
 * Use Sketch, Figma or InVision Studio to setup and control your **design tokens & theming structure**
@@ -25,6 +21,8 @@ description: >-
 * Supports Sketch, Figma & InVision Studio files natively, no plugins are needed
 * Export to NPM
 * Export to iOS, Android, CSS via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)\*
+
+![Our basic MaterialUI design tokens demo that is included](.gitbook/assets/figmabasicsetupmaterialdesign.png)
 
 {% hint style="warning" %}
 \*_Requires you to_[ _structure your design tokens_](https://amzn.github.io/style-dictionary/#/properties?id=examples) _in your design application as Style Dictonary needs them to be or the export will not work_
