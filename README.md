@@ -9,6 +9,8 @@ description: >-
 
 ## Stratos Tokens – Build your design tokens & themes directly from Sketch, Figma & InVision Studio
 
+![Overview how Stratos Tokens works](.gitbook/assets/stratos-tokens-workflow.001.jpeg)
+
 ![This is how our simple Material-UI demo file looks in Figma](.gitbook/assets/ska-rmklipp-2020-03-18-13.48.24.png)
 
 ![This is how the JSON structure looks in Stratos Tokens](.gitbook/assets/materialui-demo-stokens.png)
