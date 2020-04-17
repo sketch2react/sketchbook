@@ -20,6 +20,8 @@ description: All of our most important milestones & releases since the very begi
 
 This change is made to better match the expected input of Style Dictionary.
 
+
+
 * All values defined in px such as font size, line height etc in _Sketch_, _Figma_ and _InVision Studio_ is now translated into unitless values \(with a [base of 16px](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)\). E.g. 72px / 16 = 4.5 This will be translated by Style Dictionary into platform specific units during Style Dictionary's build process. You can change to another base value by, in the ._stratosproject_ file, change the property _baseFontSizeInPx_
 
 ![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-15.55.45.png)
