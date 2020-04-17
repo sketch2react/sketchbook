@@ -10,13 +10,13 @@ description: All of our most important milestones & releases since the very begi
 
 * The Stratos Tokens output of _Texts_ and _Rectangles_ which have names matching a CSS property is changed **from** displaying the property name e.g. _fontSize_
 
-![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.17.44.png)
+![In Sketch / Figma / InVision Studio](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.17.44.png)
 
-![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.12.00.png)
+![Previously generated output in Stratos Tokens ](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.12.00.png)
 
 **to** displaying _value_
 
-![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.06.35.png)
+![New generated output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.06.35.png)
 
 This change is made to better match the expected input of Style Dictionary.
 
