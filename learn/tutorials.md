@@ -4,6 +4,10 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials & Articles 📘
 
+## How to work with our Style Dictionary support
+
+{% embed url="https://medium.com/sketch2react/alter-your-stratos-tokens-projects-configuration-to-supercharge-your-design-tokens-addef8e952f3" %}
+
 ## How to work with Google Material UI
 
 {% embed url="https://medium.com/sketch2react/tutorial-how-to-work-with-google-material-ui-design-tokens-sketch-app-51db8c55760e" caption="We now have Figma support which we hadn\'t when writing this article" %}
