@@ -26,7 +26,9 @@ This change is made to better match the expected input of Style Dictionary.
 
 ![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-15.55.45.png)
 
-\*\*\*\*
+### **Added:**
+
+* New demo file \(.sketch, .fig, .studio\) for getting started with [Ant Design System ](https://ant.design)to work with our Style Dictionary support
 
 ## 1.0.2 - 2020-03-20
 
