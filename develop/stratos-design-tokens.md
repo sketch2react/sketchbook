@@ -26,15 +26,16 @@ Please note that above is just an **example** of how to structure your Design To
 
 ## A couple of rules to follow
 
-There are **seven design rules** that you **need to follow.**
+There are **eight design rules** that you **need to follow.**
 
 1. The structure of nested Groups in the design document defines the structure of the output JSON data
 2. Rectangles represent a color value based of the rectangle’s fill value
-3. Text layers represent text formatting
-4. Text layers with values within _**{ }**_ are evaluated
-5. Text layers with values within _**{ }**_ and matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 3 above\)
-6. The page were the tokens are created need to be named **Start here**
-7. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
+3. Rectangles without a fill results in border formatting.
+4. Text layers represent text formatting
+5. Text layers with values within _**{ }**_ are evaluated
+6. Text nodes with values within **{{ }}** are considered as Style Dictionary references / variables to be able to reuse values. 
+7. Text layers with names that matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 4 above\)
+8. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
 
 ## What do I do next?
 

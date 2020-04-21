@@ -4,7 +4,7 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## 1.0.5 - 2020-04-20
+## 1.0.4 - 2020-04-20
 
 ### Changes:
 

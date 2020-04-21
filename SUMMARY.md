@@ -5,6 +5,7 @@
 ## Develop
 
 * [How it works](develop/stratos-design-tokens.md)
+* [The basics](develop/the-basics.md)
 * [Releases ✍️](develop/releases.md)
 
 ## Learn
