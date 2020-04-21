@@ -4,6 +4,17 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 1.0.5 - 2020-04-22
+
+### Changes:
+
+_Explorer view_ is now visible from the start.
+
+FIxes:
+
+* Updated in-app documentation links.
+* Artboards in _Explorer view_ are now sorted alphabetically.
+
 ## 1.0.4 - 2020-04-20
 
 ### Changes:
