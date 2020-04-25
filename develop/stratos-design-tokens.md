@@ -26,7 +26,7 @@ Please note that above is just an **example** of how to structure your Design To
 
 ## A couple of rules to follow
 
-There are **eight design rules** that you **need to follow.**
+There are **nine design rules** that you **need to follow.**
 
 1. The structure of nested Groups in the design document defines the structure of the output JSON data
 2. Rectangles represent a color value based of the rectangle’s fill value
@@ -36,6 +36,7 @@ There are **eight design rules** that you **need to follow.**
 6. Text nodes with values within **{{ }}** are considered as Style Dictionary references / variables to be able to reuse values. 
 7. Text layers with names that matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 4 above\)
 8. You need to have a frame/artboard named **Start.** It can be empty but it needs to be there for our app to work its magic
+9. You need to place all of your design token artboards/frames on a **page** named **Start here**.
 
 ## What do I do next?
 
