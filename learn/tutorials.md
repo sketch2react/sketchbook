@@ -4,6 +4,10 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials & Articles 📘
 
+## The Nine Rules of Stratos Tokens
+
+{% embed url="https://medium.com/sketch2react/the-nine-rules-of-stratos-tokens-8ed208f38ba9" %}
+
 ## How to work with our Style Dictionary support
 
 {% embed url="https://medium.com/sketch2react/alter-your-stratos-tokens-projects-configuration-to-supercharge-your-design-tokens-addef8e952f3" %}
