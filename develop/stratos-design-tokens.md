@@ -10,7 +10,7 @@ description: >-
 
 You visually represent your Design Tokens in a design tool, [Sketch](https://www.sketch.com), [Figma](https://www.figma.com) or [InVision Studio](https://www.invisionapp.com/studio) is currently supported.
 
-![Example structure in your design application document, in this case Figma](../.gitbook/assets/ska-rmklipp-2020-04-28-09.32.15.png)
+![Example structure in your design application &#x2013; in this case Figma](../.gitbook/assets/ska-rmklipp-2020-04-28-09.32.15.png)
 
 The **Stratos Tokens App** __\(Mac only\) reads your design file \(without plugins, yupp, just like that\) and generates a file with a JSON structure containing your design data. Then you either save the design data file \(Design Tokens\) or upload it to a repository like _NPMjs_.
 
