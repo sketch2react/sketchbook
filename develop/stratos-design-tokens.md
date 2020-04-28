@@ -45,7 +45,7 @@ You open _Stratos Tokens App_ and **create a new project**. To this project you 
 1. One named _Start_ that can be really small and empty
 2. One named _Light, Dark or anything else really_. It's on this artboard that you create your design token structure. You can have several tokens artboards/frames
 
-![](../.gitbook/assets/1-ifwuca4r95khjmhkmadwlq.png)
+![](../.gitbook/assets/ska-rmklipp-2020-04-28-09.37.24.png)
 
 You click on the _file explorer_ and select the artboard named _Light._
 
