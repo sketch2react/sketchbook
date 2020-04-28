@@ -55,7 +55,7 @@ This design data structure is now available from **three places**:
 
 * Direct copy/paste
 * As a stand-alone file in the project’s _data_ folder.
-* Downloadable as _NPM-project \(new feature coming in alpha 2!\)_
+* Downloadable as _NPM-project_
 
 ## NPM project? Oooh, tell me more…
 
