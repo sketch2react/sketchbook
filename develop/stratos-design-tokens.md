@@ -67,7 +67,7 @@ If you don’t have the time/patience to read through all the steps; here’s th
 npm install — save stratos-designtokens-demo
 ```
 
-![It&#x2019;s a big button, you can&#x2019;t miss it.](../.gitbook/assets/1-78zpbmomzb6sij8auwb_ca.png)
+![It&#x2019;s a big button, you can&#x2019;t miss it. &#x1F63A;&#x1F44D;](../.gitbook/assets/ska-rmklipp-2020-04-28-09.39.41.png)
 
 ### Downloading
 
