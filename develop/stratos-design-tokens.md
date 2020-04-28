@@ -10,11 +10,11 @@ description: >-
 
 You visually represent your Design Tokens in a design tool, [Sketch](https://www.sketch.com), [Figma](https://www.figma.com) or [InVision Studio](https://www.invisionapp.com/studio) is currently supported.
 
-![Example structure in your Sketch App document](../.gitbook/assets/1-j7olob_cb_5djo49rsbo1q.png)
+![Example structure in your design application document, in this case Figma](../.gitbook/assets/ska-rmklipp-2020-04-28-09.32.15.png)
 
 The **Stratos Tokens App** __\(Mac only\) reads your design file \(without plugins, yupp, just like that\) and generates a file with a JSON structure containing your design data. Then you either save the design data file \(Design Tokens\) or upload it to a repository like _NPMjs_.
 
-![Generated JSON-structure in Stratos Tokens App](../.gitbook/assets/1-terp4ife36h0fwyvxugf7a.png)
+![Generated JSON-structure in Stratos Tokens App](../.gitbook/assets/ska-rmklipp-2020-04-28-09.30.24.png)
 
 {% hint style="success" %}
 The structure of the output JSON is a direct reflection of the structure in your design document.
@@ -43,13 +43,13 @@ There are **nine design rules** that you **need to follow.**
 You open _Stratos Tokens App_ and **create a new project**. To this project you link your design token design file. In this example I will name my project _stratos-designtokens-demo_. You currently need two artboards:
 
 1. One named _Start_ that can be really small and empty
-2. One named _Template, Themes or anything else really_. It's on this artboard that you create your design token structure. You can have several tokens artboards/frames
+2. One named _Light, Dark or anything else really_. It's on this artboard that you create your design token structure. You can have several tokens artboards/frames
 
 ![](../.gitbook/assets/1-ifwuca4r95khjmhkmadwlq.png)
 
-You click on the _file explorer_ and select the artboard named _Template_.
+You click on the _file explorer_ and select the artboard named _Light._
 
-![](../.gitbook/assets/1-4tkj9mtpzplf1ladwikghg.png)
+![](../.gitbook/assets/ska-rmklipp-2020-04-28-09.35.25.png)
 
 This design data structure is now available from **three places**:
 
