@@ -11,7 +11,7 @@ Go from .sketchfiles \(_via our framework_\) to code really fast!
 
 * **Framework, code app, plugin**
 * **Website HTML5 project export**
-* **Website React project export** 
+* **Website React project export** \(via create-react-app\)
 {% endhint %}
 
 ## What is Sketch2React?
