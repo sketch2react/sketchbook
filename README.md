@@ -19,7 +19,7 @@ description: >-
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
 * Use [Stratos Tokens app](https://gumroad.com/l/stratoswfh) \(Mac only\) to output your code
 * Supports Sketch, Figma & InVision Studio files natively, no plugins are needed
-* Support for Sketch Shared Libraries - manage several brands remotely for your clients
+* Support for **Sketch Shared Libraries** - manage several brands remotely for your clients
 * Export to NPM
 * Export to iOS, Android, CSS via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)\*
 
