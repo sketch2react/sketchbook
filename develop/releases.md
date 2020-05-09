@@ -4,13 +4,25 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 1.0.7 - 2020-05-05
+
+### Added:
+
+* Support for Sketch symbols
+* Previously, in Stratos Tokens, you were "bounced back" to _**Start**_ artboard every time your design file changed/updated. This is no longer the case. 
+
+### Fixes:
+
+* Sketch, Figma and InVision projects are now displayed on the start screen
+* Fixed minor type-o:s
+
 ## 1.0.5 - 2020-04-22
 
 ### Changes:
 
 _Explorer view_ is now visible from the start.
 
-FIxes:
+### FIxes:
 
 * Updated in-app documentation links.
 * Artboards in _Explorer view_ are now sorted alphabetically.
