@@ -16,6 +16,10 @@ description: All of our most important milestones & releases since the very begi
 * Sketch, Figma and InVision projects are now displayed on the start screen
 * Fixed minor type-o:s
 
+## 1.0.6 - Never
+
+This is not the version your looking for... \*Jedi hand move\*
+
 ## 1.0.5 - 2020-04-22
 
 ### Changes:
