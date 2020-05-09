@@ -37,5 +37,5 @@ description: >-
 * NPM & Node.js
 * Use your preferred external code editor
 
-Stratos Tokens 1.0.6 - Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2020
+Stratos Tokens 1.0.7 - Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2020
 
