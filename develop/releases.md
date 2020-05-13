@@ -4,6 +4,18 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 1.0.8 - 2020-05-13
+
+### Added:
+
+* A 10:th rule to Stratos Tokens. You can now name a Text Layer _style-dictionary-value_ to get the following output in Stratos Tokens App:
+
+![Example in your design tool](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.11.10.png)
+
+![Output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.08.30.png)
+
+![Result when building for scss with Style Dictionary](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.28.51%20%281%29.png)
+
 ## 1.0.7 - 2020-05-05
 
 ### Added:
