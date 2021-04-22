@@ -5,19 +5,17 @@ description: >-
   needed.
 ---
 
-# Welcome to Stratos Tokens
-
-## Stratos Tokens – Design tokens made easy
-
-![Overview of how Stratos Tokens works. We&apos;re also adding Adobe XD support further down the road.](.gitbook/assets/stratos-tokens-workflow.001.jpeg)
+# Welcome to Stratos Tokens pre-release
 
 ## What can I do with Stratos Tokens?
+
+![](.gitbook/assets/tokensworkflow.png)
 
 * Use Sketch, Figma or InVision Studio to setup and control your **design tokens & theming structure**
 * A single place to create and edit your styles
 * Reads the raw design file \(Sketch, Figma or InVision Studio\) and generates a JSON-structure based on your design data \(design tokens\)
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
-* Use [Stratos Tokens app](https://gumroad.com/l/stratoswfh) \(Mac only\) to output your code
+* Use [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) app \(Mac only\) to output your code
 * Supports Sketch, Figma & InVision Studio files natively, no plugins are needed
 * Support for **Sketch Shared Libraries** - manage several brands remotely for your clients
 * Export to NPM
@@ -32,10 +30,10 @@ description: >-
 ## Software requirements
 
 * Latest versions of Sketch, Figma & InVision Studio
-* [Stratos Tokens App](https://gumroad.com/l/stratoswfh) for Mac
-* OSX Mojave latest or Catalina latest
+* [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App for Mac
+* macOS Catalina or Big Sur
 * NPM & Node.js
 * Use your preferred external code editor
 
-Stratos Tokens 1.0.7 - Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2020
+Stratos Tokens 1.0.10 - Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2020
 

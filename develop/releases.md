@@ -4,6 +4,12 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 1.0.10 - 2020-11-30
+
+### Added
+
+* Big Sur support
+
 ## 1.0.8 - 2020-05-13
 
 ### Added:

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Stratos Tokens](README.md)
+* [Welcome to Stratos Tokens pre-release](README.md)
 
 ## Develop
 
