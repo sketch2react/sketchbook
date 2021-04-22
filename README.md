@@ -37,11 +37,11 @@ Go from .sketchfiles \(_and soon Figma files_\) to code really fast!
 
 ## Software requirements
 
-* Sketch 60–64
-* [Stratos Components App](https://gumroad.com/l/stratoswfh)
+* Sketch 66+
+* [Stratos Components App](https://gumroad.com/l/stratosapps)
 * OSX Mojave or Catalina
 * NPM & Node.js
 * Use your preferred external code editor for more advanced features
 
-Stratos Components Alpha v0.5.1 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2019-2020
+Stratos Components Alpha v0.5.2 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2019-2020
 
