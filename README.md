@@ -1,42 +1,39 @@
-# Welcome to Sketch2React 🏡
+---
+description: >-
+  Stratos Tokens is a companion app for Mac & PC that outputs design tokens &
+  theming code. Currently only supports Sketch app but we are adding Figma in a
+  free update 2021 Q2.
+---
 
-## Build React powered prototypes directly from Sketch
+# Welcome to Stratos Tokens 2021
 
-![](.gitbook/assets/1%20%281%29.png)
+![](.gitbook/assets/tokens2021-hero.jpg)
 
-{% hint style="success" %}
-Go from .sketchfiles \(_via our framework_\) to code really fast!
+## What can I do with Stratos Tokens 2021?
 
-### Sketch2React is:
+![Figma support coming later Q2 2021](.gitbook/assets/stratos-tokens-presentation-2020-shorter.001.jpeg)
 
-* **Framework, code app, plugin**
-* **Website HTML5 project export**
-* **Website React project export** \(via create-react-app\)
+* Use Sketch \(and soon also Figma\) to create, update and distribute your **design tokens & theming code**
+* A single place to create and edit your styles
+* Reads the raw design file \(Sketch\) and generates a JSON-structure based on your design data \(design tokens\)
+* You can use **any setup you want**, you have 100% control over your design token & theming structure
+* Use [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) app to output your code
+* Supports Sketch files natively, no plugins are needed
+* Support for **Sketch Shared Libraries** & **Sketch Symbols** - manage several brands remotely for your clients
+* Export to NPM
+* Export to iOS, Android, CSS via our built-in [Style Dictionary support](https://amzn.github.io/style-dictionary/#/)\*
+
+{% hint style="warning" %}
+\*_Requires you to_[ _structure your design tokens_](https://amzn.github.io/style-dictionary/#/properties?id=examples) _in your design application as Style Dictonary needs them to be or the export will not work_
 {% endhint %}
-
-## What is Sketch2React?
-
-**Sketch2React** is a tool and framework that lets you **build React powered prototypes** directly from inside Sketch 💎
-
-> That gives you high fidelity code right from scratch 💪
-
-* Design with code snippets that're easy to learn! It's more like [**Markdown**](https://en.wikipedia.org/wiki/Markdown)\*\*\*\*
-* Fully responsive
-* Zero plugins
-* Visual way of learning more about code
-* Treat the layers view in Sketch as a very simple **code editor**
-* Use CSS plugins
-* Offline mode
-* Hot reload
-* Build entire static React powered websites directly from inside of Sketch 🤯
-* Export to HTML package that includes .html, css and all relevant files
-* React code & components
 
 ## Software requirements
 
-* Sketch 66+
-* Sketch2React Code App 1.6.8
-* OSX Catalina
+* Sketch v68–71.2 \(Figma support coming in a free update Q2 2021\)
+* [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App
+* macOS Catalina or Big Sur \| Windows 10
+* NPM & [Node.js](https://nodejs.org/en/download/)
+* Use your preferred external code editor
 
-Sketch2React v1.6.8 - Designed and developed in Stockholm with 💗 by Team Sketch2React ©2018–2020
+Stratos Tokens 2021.1.10 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
 

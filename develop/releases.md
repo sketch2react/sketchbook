@@ -4,156 +4,138 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## Version 1.6.8
+## 2021.2.0 2021-04-20
 
 ### Added
 
-* Support for MacOS Catalina
-* Support for Sketch 62+
+* You can now name your **Texts** and **Rectangles** as css properties \(e.g. fontSize\) and only that value will be displayed in Stratos Tokens App. 
 
-## Version 1.6.7
+![Note that the names are in camelCase e.g. fontSize](../.gitbook/assets/image.png)
 
-### Fixed
+_Please note that the matching css property will be named "value" in Stratos Tokens App. This is to better match the expected input of Style Dictionary._
 
-Small bug fixes, done deal 🤖👍
+Supported css properties for **Text layers** are:
 
-## Version 1.6.6
+* * color
+  *  fill \(is always transparent for text layers\)
+  *  fontFamily 
+  * fontSize 
+  * fontWeight 
+  * lineHeight 
+  * letterSpacing 
+  * opacity
 
-### Added
+![E.g. weight outputs only the weight/width of the border](../.gitbook/assets/image%20%282%29.png)
 
-* Support for both Sketch 58 + 59!
-* Support for Smart Layouts 🚒🔥
-* Squashed a strange {hover} bug - easy peasy 💪🤖
+_Please note that the matching css property will be named "value" in Stratos Tokens App. This is to better match the expected input of Style Dictionary._
 
-## Version 1.6.5
+Supported css properties for **Rectangles with borders** are:
 
-### Fixed
+* * weight
+  * color 
+  * radius
 
-Some small 🐛easy peasy
-
-## Version 1.6.4
-
-This version is at the moment a payed upgrade. We do this to sustain our framework and code app. It will be available for free in a couple of months. Don't have the stomach to wait? [Buy it now and support us.](https://gumroad.com/l/s2rdlc2)
-
-### Added
-
-#### 👉 🌋 Support for Sketch Cloud Documents
-
-Eager to use [Sketch for Teams](https://www.sketch.com/teams/) and all those new fancy ways of working together? Guess what, as of version 1.6 we now have support for working directly with Sketch Cloud Documents.
-
-#### 👉 🌋 Support for Sketch Shared Libraries
-
-You can now build up your real code component library and share it with anyone that uses Sketch. It’s as easy as 1–2–3. To get you kick-started we have included our own S2RSharedLib ⭐
-
-#### ⚙️ 👉 👩‍💻 New component [{link}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#link-symbol)
-
-Link any element to anything! Like images or texts!
-
-#### ⚙️ 👉 👩‍💻 New component[ {div}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#div)
-
-A generic component well suited for implementing things such as other **grid systems** \(e.g. MaterialUI grid\) or construct your own components!
-
-#### ⚙️ 👉 👩‍💻 New component [{externalasset.js}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#5084)
-
-It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
-
-#### 👉 🤖 CSS-modules
-
-Our React export now utilizes CSS-modules. This means the dependency on Sketch2React’s package \(@sketch2react/react-components\) is gone! **No dependency on us once your React code is exported!** 🥳
-
-#### 👉 🤖 Updated React export’s dependencies
-
-We’ve updated the React export’s dependencies to remove package vulnerabilities.
-
-#### 👉 🤖 Clean-up in the React export
-
-You no longer get warnings about “unused variables” in the console because, guess what, there are none! 💪
-
-
-
-## Version 1.5
+## 2021.1.10 - 2021-04-08
 
 ### Added
 
-* SVG Support
-* Lottie Animation support
-* New Lottie Symbol
-* Fix for Haiku Animation support
+* Support for a more visual way of outputting design tokens for **breakpoints**, **spacing**, **padding** etc - use the width of the line tool
+* Support for multiple **shadows** - just add shadows to rectangles
+* No more need for a page named Start here and an artboard named Start
+* [Demo version](https://marketplace.sketch2react.io/product/stratos-tokens-demo/) of Stratos Tokens
+* Windows version
+* Dark mode support
+* We now have a little 🕵️‍♀️ that helps you re-link your designfile if you have moved it 
+* Possibility to register a bug from within the app
+* Extended help menu containing links to documentation, tutorials and more
 
-## Version 1
+### Breaking changes
 
-### Added
+* **Use { } for all your design tokens \(artboards + layer + group names\)** – mix them with regular design elements
 
-* Code App version **0.7.2**
-* **React & Vanilla React Export**
-* **Public Preview** lets you start a temporary web server right from our app
-* Pages now **add themselves automagically** to our export bundle after loading/visiting them once
-* Register & Unregister License functionality added
-
-## Beta
-
-We are now in beta mode - woooppieedoo.
-
-* Brand new Code App, [read more here](https://sketch2react.gitbook.io/sketch2react-io/develop/code-app)
-* New component: Group and Group-fixed
-* Lots and lots of improvements in the background
-* Paving ground for React export
-
-## 0.60
+## 1.0.10 - 2020-11-30
 
 ### Added
 
-* New element: Oval
-* Shadows and inner shadows
-* Layer blend modes: We now support Sketch blend modes - experiment away!
-* Sketch 52 support
-* Mojave support
-* Hotspots as links: Use the Add Link to Artboard \(W\) to link buttons and the navigation to other artboards
-* Downloaded HTML files now get the names of the artboards which makes publishing to servers much easier
+* Big Sur support
 
-## 0.56
+## 1.0.8 - 2020-05-13
 
-### Added
+### Added:
 
-* New element: Haiku animations - [Download demo file here](https://www.dropbox.com/s/dtdfqd8gjgiti4l/Haiku%20Demo%20Super%20Hero.sketch?dl=0)
-* Updated the UI of the previewer app
-* Complete rewrite of the previewer app's React view
+* A 10:th rule to Stratos Tokens. You can now name a Text Layer _style-dictionary-value_ to get the following output in Stratos Tokens App:
 
-## 0.55
+![Example in your design tool](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.11.10.png)
 
-### Added
+![Output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.08.30.png)
 
-* New element: Forms
-* New element: Rectangle
-* Complete rewrite of navigation-implementation. It now supports styling
-* Fluid fonts
-* The Previewer app now generates cleaner code
-* HTML generated by {row} is always at least as high as the corresponding element in the Sketch document. 
+![Result when building for scss with Style Dictionary](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.28.51%20%281%29.png)
 
-### Bugfixes
+## 1.0.7 - 2020-05-05
 
-* Fixed bug related to nested symbol overrides.  
+### Added:
 
-### **Breaking changes**
+* Support for Sketch symbols
+* Previously, in Stratos Tokens, you were "bounced back" to _**Start**_ artboard every time your design file changed/updated. This is no longer the case. 
 
-* The structure of the Navigation has been changed. Please see the demo-document for reference!
+### Fixes:
 
-## 0.0.50
+* Sketch, Figma and InVision projects are now displayed on the start screen
+* Fixed minor type-o:s
 
-### Added
+## 1.0.6 - Never
 
-* Design with code that's easy to learn!
-* Fully responsive
-* No export required!
-* Treat the layers view in Sketch as a **code editor**
-* Use the popular Bootstrap grid
-* Super awesomeness to the Sketch community
-* Design with code directly inside of Sketch
-* Export to HTML
+This is not the version your looking for... \*Jedi hand move\*
 
-{% hint style="success" %}
-> The biggest difference between this and other prototyping tools is that you **design with real code**. That gives you high fidelity HTML prototypes right from scratch.
-{% endhint %}
+## 1.0.5 - 2020-04-22
+
+### Changes:
+
+_Explorer view_ is now visible from the start.
+
+### FIxes:
+
+* Updated in-app documentation links.
+* Artboards in _Explorer view_ are now sorted alphabetically.
+
+## 1.0.4 - 2020-04-20
+
+### Changes:
+
+* The Stratos Tokens output of _Texts_ and _Rectangles_ which have names matching a CSS property is changed **from** displaying the property name e.g. _fontSize_
+
+![In Sketch / Figma / InVision Studio](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.17.44.png)
+
+![Previously generated output in Stratos Tokens ](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.12.00.png)
+
+**to** displaying _value_
+
+![New generated output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.06.35.png)
+
+This change is made to better match the expected input of Style Dictionary.
 
 
+
+* All values defined in px such as font size, line height etc in _Sketch_, _Figma_ and _InVision Studio_ is now translated into unitless values \(with a [base of 16px](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)\). E.g. 72px / 16 = 4.5 This will be translated by Style Dictionary into platform specific units during Style Dictionary's build process. You can change to another base value by, in the ._stratosproject_ file, change the property _baseFontSizeInPx_
+
+![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-15.55.45.png)
+
+### **Added:**
+
+* New demo file \(.sketch, .fig, .studio\) for getting started with [Ant Design System ](https://ant.design)to work with our Style Dictionary support
+
+## 1.0.2 - 2020-03-20
+
+### Added:
+
+* Style Dictionary integration to support export to web, mobile and desktop
+* Support for Figma
+* Support for InVision Studio
+* Support for variables in text nodes **{**color.base.primary.value**}** \(specified as **{{**color.base.primary.value**}}**\) in your design tool. This is used to reuse values in Style Dictionary
+* New menu item “File &gt; Open project in Terminal”
+* Artboards can now be named anything and will still be considered as “Token artboards”. Previously only artboards named “Template” were considered for design token generation. \(You still need an artboard named _**Start**_\)
+
+### **Fixes:**
+
+* Bugfixes to the _Explorer view_.
 

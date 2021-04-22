@@ -1,20 +1,17 @@
 # Table of contents
 
-* [Welcome to Sketch2React 🏡](README.md)
-
-## Learn
-
-* [Cheat Sheet 📓](learn/cheat-sheet.md)
-* [Tutorials 📼](learn/tutorials.md)
-* [3rd Party Plugins & Apps ⚙️](learn/3rd-party-plugins.md)
-* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared_invite/enQtNTM0MDUzOTIzODI1LTk2ZWQ2NmE4ZDliNDJlZmVjMThjMDlmMTI2ODdjYTU3MDQzZDJhOWNjOGJlNzZlNzRiODIyODY1OTY2YzIzZTQ)
-* [Download Resources 🎁](https://sketch2react.io/resources.php)
+* [Welcome to Stratos Tokens 2021](README.md)
 
 ## Develop
 
-* [Components 💎](develop/components.md)
-* [Exporting to Code](develop/exporting-to-code.md)
-* [Code App 👩‍💻](develop/code-app.md)
+* [How it works](develop/stratos-design-tokens/README.md)
+  * [Migrating from the pre-release](develop/stratos-design-tokens/migrating-from-the-pre-release.md)
+* [The basics](develop/the-basics.md)
 * [Releases ✍️](develop/releases.md)
-* [Support us on Patreon](https://medium.com/@Designforventures.co/support-sketch2react-on-patreon-b76ef1f21356)
+
+## Learn
+
+* [Tutorials & Articles 📘](learn/tutorials.md)
+* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared_invite/enQtNTM0MDUzOTIzODI1LTk2ZWQ2NmE4ZDliNDJlZmVjMThjMDlmMTI2ODdjYTU3MDQzZDJhOWNjOGJlNzZlNzRiODIyODY1OTY2YzIzZTQ)
+* [Download Resources 🎁](https://sketch2react.io/resources.php)
 
