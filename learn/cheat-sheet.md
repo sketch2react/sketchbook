@@ -1,6 +1,10 @@
-# Cheat Sheet 📓
+# Sketch2React Markup Cheat Sheet 📓
 
-We use our own version of **Atomic CSS** to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of our .sketch file. And a few nifty shortcuts!
+We use our own markup based on **Atomic CSS,** to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of your .sketch file. And a few nifty shortcuts!
+
+{% hint style="success" %}
+Use our brand new 🤖👍[Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), a helping hand for remembering all those important framework rules 🙌
+{% endhint %}
 
 ## Pages & Artboards
 

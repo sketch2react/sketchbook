@@ -4,6 +4,20 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials 📼
 
+## More tutorials
+
+Check out all of our tutorials on our[ Youtube](https://www.youtube.com/c/Sketch2React/featured). 😺👍
+
+## Tutorial👉From Sketch to Xcode using Capacitor.js
+
+Did you know that you can start in Sketch + Sketch2React and then use something amazing called Capacitor to build cross-platform apps? Neither did we until a few weeks back. 
+
+{% embed url="https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-using-capacitorjs/" %}
+
+## Tutorial👉From Sketch to Xcode using Cordova
+
+{% embed url="https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-the-no-code-way/" %}
+
 ## Beginner Tutorial - How to setup in Sketch and create your first Code Component
 
 {% embed url="https://youtu.be/Q1jKB5CMngY" %}

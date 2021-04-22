@@ -4,6 +4,63 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2021.2.1 \(2021-04-21\)
+
+### Added
+
+* Export to [Capacitor.js](https://capacitorjs.com) 😺🧡
+
+### Fixed
+
+* The simulator menu bar no longer covers the top content
+* Updated React export dependencies
+* Updated some of the Sketch2React app core dependencies
+
+## Version 2021.0.1
+
+### Added
+
+* New way of reporting issues 👉 Help 👉 Report an issue
+
+### Fixed
+
+* A change in the underlying Electron API caused the function for using File 👉 Link to Sketch-file to stop working. We fixed that 😺💪
+
+## Version 2020.1.5
+
+### Added
+
+* Dark mode for all those late night Sketch2React sessions ☀️🌛
+* Simulators to quickly try out the different breakpoints in your design 🤖 💪
+
+### Fixed
+
+* Nasty export 🐛 that we had in v2020.1.4 – the version we don't speak off 😆
+
+## Version 2020.1.3
+
+### Fixed
+
+* Some visual bugs in Big Sur
+* Updated the logo, made it huuuuuge
+* Drank lots of coffee and ate pepparkakor during the process
+
+## Version 2020.1.2
+
+### Added
+
+* New fresh UI 🎨
+* Drag and drop support 🙌
+* ⌘R to hard reload the entire Sketch file 💎 🚀
+* The license supports installation on four different computers 💵
+* Supports Sketch v68–70
+* Supports macOS Catalina & Big Sur
+
+### Fixed
+
+* Update of our React export ⚛️
+* Some small 🐛easy peasy
+
 ## Version 1.6.8
 
 ### Added

@@ -6,6 +6,14 @@ description: >-
 
 # 3rd Party Plugins & Apps ⚙️
 
+## [DropPages](https://droppages.com)
+
+![](../.gitbook/assets/ska-rmavbild-2020-10-13-kl.-11.41.34.png)
+
+[DropPages](https://droppages.com) is an awesome way to really quickly publish and host your Sketch2React exported HTML pages 100% for free to your own Dropbox. Here's a [demo](https://s2rdemo.droppages.com/index.html), and here's a [tutorial](https://sketch2react.io/blog/tutorial-how-to-publish-host-your-website-on-dropbox/) on how to get this working.
+
+
+
 ## [Flaticon](https://www.flaticon.com/)
 
 ![](../.gitbook/assets/flaticon.gif)

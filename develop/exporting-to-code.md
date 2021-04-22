@@ -1,20 +1,65 @@
 ---
-description: "All you need to know about Sketch2React's code export. This assumes that you have done your homework, and learn how things need to be created and setup inside of Sketch for this to work \U0001F604"
+description: All you need to know about Sketch2React's different ways of exporting to code.
 ---
 
-# Exporting to Code
+# Exporting to Code 🚚
+
+## Export to Capacitor.js 
+
+![Wanna go directly to iOS &amp; Android? Who wouldn&apos;t &#x1F63A;&#x1F4AA;](../.gitbook/assets/s2r202121-update-2.png)
+
+You now also can export directly to iOS & Android project via something awesome called [Capacitor.js](https://capacitorjs.com)
+
+1. Make sure you have [all links between pages](https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-the-no-code-way/) working and that you have visited each page once \(it gets added to our export bundle that way\)
+2. Click on the Download button 👉 **Download Capacitor project**
+3. Unzip the folder we created for you
+4. Make sure you compress the images, we 🧡 [TinyPNG](https://tinypng.com/)
+5. Drag the entire folder onto e.g., Visual Studio Code
+6. Open up a New Terminal in VSC
+7. Type `npm install` and hit enter
+8. Done!
+
+### Install Xcode Command Line Tools & CocoaPods
+
+This is **crucial** to do before you go to the next step of installing either the iOS or Android platforms.
+
+* Download and install the **Xcode Command Line tools**. You can do this directly from [within Xcode](https://capacitorjs.com/docs/v3/getting-started/environment-setup) or you can just fire up the mighty Terminal app and add this installation snippet:
+
+```text
+xcode-select —install
+```
+
+* Download and install [CocoaPods](https://cocoapods.org/), easiest is just by adding this snippet directly in the Terminal:
+
+```text
+sudo gem install cocoapods
+```
+
+### Choose between iOS or Android
+
+Now comes the part where you choose which platform to install for use with Capacitor. You can choose between iOS or Android, we have added both to the config.json file. 
+
+#### **For iOS**
+
+Just follow [these instructions](https://capacitorjs.com/docs/v3/ios#adding-the-ios-platform).
+
+#### **For Android**
+
+Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-the-android-platform).
+
+
 
 ## How to export to React
 
 Follow these instructions to the point and you’ll be exporting to React code and components in super little time. We promise 👍
 
-### Adding things to export \(Code App\)
+### Adding things to export
 
-1. Open up our **Code App**. 
-2. Go to **File, Link Sketch-file** \(⌘L\)
-3. Link to one of our demo files our your own
+1. Open up **Sketch2React** app. 
+2. Go to **File, Link Sketch-file** \(⌘L\) or just **drag and drop** the Sketch file
+3. Your Sketch file needs to have our markup rules \(components etc\)
 4. Before anything can be exported to code, you need to **add each artboard/page to our export bundle.** You do that by visiting each page in your design, it adds itself automagically to our bundle after each page load. _Neat right?_
-5. Press **Download** icon. If everything worked when activating you should see **React** below HTML.
+5. Press **Download** icon
 6. Press React and save the .zip somewhere locally on your computer.
 
 ### Known issues
@@ -33,7 +78,7 @@ Now comes a couple of steps that first can seem very odd and very unfamiliar. Sp
 
 ## 🖐️ Node.js
 
-For anything to work you first need to install **Node.js**.
+For our **React export** to work you first need to install **Node.js**.
 
 * Node.js is an open source server environment
 * Node.js is free

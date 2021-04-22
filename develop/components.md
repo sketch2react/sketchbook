@@ -18,7 +18,7 @@ These are for setting up grids and layouts in Sketch. You create all of them in 
 {container}
 ```
 
-Creates a Bootstrap Container element. This is the outermost element in a Bootstrap grid. 
+Creates a Bootstrap **Container** element. This is the outermost element in a Bootstrap grid. 
 
 {% hint style="info" %}
 **Note:** You can also have {container} elements inside of {col} elements \(known as nesting\).
@@ -48,7 +48,7 @@ Creates a Bootstrap Container element. This is the outermost element in a Bootst
 {container-fluid}
 ```
 
-Creates a Bootstrap Container-fluid element. This element \(as opposed to {container}\) always covers 100% of the available width \(screensize or, if nested, the width of the parent {col} element\)
+Creates a Bootstrap **Container-fluid** element. This element \(as opposed to {container}\) always covers 100% of the available width \(screensize or, if nested, the width of the parent {col} element\)
 
 #### **Supports:**
 
@@ -72,7 +72,7 @@ Creates a Bootstrap Container-fluid element. This element \(as opposed to {conta
 {row}
 ```
 
-Creates a Bootstrap Row element. A {row} is a direct child to {container} or {container-fluid}. This element's height is always at least as high as the corresponding element in the Sketch document.
+Creates a Bootstrap **Row** element. A {row} is a direct child to {container} or {container-fluid}. This element's height is always at least as high as the corresponding element in the Sketch document.
 
 #### **Supports:**
 
@@ -106,7 +106,7 @@ Example:
 {col}
 ```
 
-Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements \(Known as nesting\). It is within this element you place all your content.
+Creates a Bootstrap **Column** element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements \(Known as nesting\). It is within this element you place all your content.
 
 **Supports:**
 
@@ -128,7 +128,7 @@ Creates a Bootstrap Col element. A {col} is a direct child to {row}. {col} can c
 
 `{group}` 
 
-This is a structural component used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
+This is a **structural component** used as a helper to align it’s child-elements \(vertically or horizontally\). It supports classes, but not Sketch-styling.
 
 #### Horizontally:
 
@@ -170,7 +170,7 @@ A generic component well suited for implementing things such as other grid syste
 
 **Since:** 1.6.4 pre-release
 
-## Design Components
+## Basic Components
 
 These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
 
@@ -180,7 +180,7 @@ These are for common design tasks such as texts, images & backgrounds. You creat
 {text}
 ```
 
-The text-layers created in Sketch needs to be named {text} in order for the previewer app to find them and parse them properly. By default {text} generates an HTML paragraph tag.
+The text-layers created in Sketch needs to be named {text} in order for the code app to find them and parse them properly. By default {text} generates an HTML paragraph tag.
 
 You can set which kind of HTML element should be created by specifying e.g. _{text.span}_. Available types are:
 
@@ -527,7 +527,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 ### Fluid fonts
 
 {% hint style="success" %}
-**Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part \(12\) refers to the number of px the font will span between. This is also dependent of the artboart size.
+**Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part \(12\) refers to the number of px the font will span between. This is also dependent of the artboard size.
 {% endhint %}
 
 #### First example
@@ -562,7 +562,5 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 
 **Updates:** v0.0.55 - Fluid font support
 
-## Experimental 👨‍🔬👩‍🔬 <a id="experimental&#x1F468;&#x200D;&#x1F52C;&#x1F469;&#x200D;&#x1F52C;"></a>
 
-We have a few more components that are in the experimental stage like cards and stuff! Check out the demo document! We'll keep you updated!
 
