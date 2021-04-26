@@ -35,5 +35,5 @@ description: >-
 * NPM & [Node.js](https://nodejs.org/en/download/)
 * Use your preferred external code editor
 
-Stratos Tokens 2021.1.10 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
+Stratos Tokens 2021.2.0 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
 
