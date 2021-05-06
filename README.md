@@ -31,7 +31,7 @@ description: >-
 
 * Sketch v68–72 \(Figma support coming in a free update Q2 2021\)
 * [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App
-* Stratos Tokens 2021 [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) \(not required but nice to have\)
+* Our [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) \(not required but nice to have\)
 * macOS Catalina or Big Sur \| Windows 10
 * NPM & [Node.js](https://nodejs.org/en/download/)
 * Use your preferred external code editor
