@@ -5,7 +5,7 @@ description: The fundamental basics of Stratos Tokens
 # The basics
 
 {% hint style="success" %}
-We now have a splendin [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) for the most important rules
+We now have a [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) for the most important rules
 {% endhint %}
 
 ## The basic rules
