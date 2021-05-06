@@ -27,6 +27,10 @@ description: >-
 \*_Requires you to_[ _structure your design tokens_](https://amzn.github.io/style-dictionary/#/properties?id=examples) _in your design application as Style Dictonary needs them to be or the export will not work_
 {% endhint %}
 
+### Example of Style Dictionary naming and structure conventions
+
+{% embed url="https://sketch.cloud/s/cbcda2f0-04f6-481f-a7b4-8d12d66faf56" %}
+
 ## Software requirements
 
 * Sketch v68–72 \(Figma support coming in a free update Q2 2021\)
