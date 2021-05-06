@@ -29,7 +29,7 @@ description: >-
 
 ### Example of Style Dictionary naming and structure conventions
 
-{% embed url="https://sketch.cloud/s/cbcda2f0-04f6-481f-a7b4-8d12d66faf56" %}
+{% embed url="https://sketch.cloud/s/cbcda2f0-04f6-481f-a7b4-8d12d66faf56" caption="Click on the Sketch icon to download it from our Sketch Cloud 🤖👍" %}
 
 ## Software requirements
 
