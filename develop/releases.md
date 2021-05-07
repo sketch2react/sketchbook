@@ -4,6 +4,19 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 2021.3.0 2021-05-08
+
+### Added
+
+* Support for Style Dictionary 3.0
+* Link to our Sketch assistant in the help menu
+
+### Fixes
+
+* Cleaned up the design token view
+* Cleaned up README view
+* Minor UI improvements
+
 ## 2021.2.0 2021-04-20
 
 ### Added
