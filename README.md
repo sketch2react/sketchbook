@@ -31,6 +31,12 @@ description: >-
 
 {% embed url="https://sketch.cloud/s/cbcda2f0-04f6-481f-a7b4-8d12d66faf56" caption="Click on the Sketch icon to download it from our Sketch Cloud 🤖👍" %}
 
+## Enhance your design systems with design tokens
+
+**Design tokens are design decisions.** With our app you create **real code design decisions** directly inside your design application, where most of these are actually made. 
+
+Here's [an example](https://www.notion.so/Style-Dictionary-Design-System-Inc-3cfa229455854cc29e35734b76349b85) of how you could document your design system with design tokens.
+
 ## Software requirements
 
 * Sketch v68–72 \(Figma support coming in a free update Q2 2021\)
