@@ -8,12 +8,12 @@ description: All of our most important milestones & releases since the very begi
 
 ### Added
 
-* Support for Style Dictionary 3.0
-* Link to our Sketch assistant in the help menu
+* Support for [Style Dictionary 3.0](https://amzn.github.io/style-dictionary/#/version_3)
+* Download link to our Sketch assistant in the Help menu
 
 ### Fixes
 
-* Cleaned up the design token view
+* Cleaned up the Design Token view
 * Cleaned up README view
 * Minor UI improvements
 
