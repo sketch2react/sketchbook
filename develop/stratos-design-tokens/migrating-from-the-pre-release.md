@@ -2,7 +2,7 @@
 description: "Since we introduced breaking changes in Stratos Tokens 2021 this is how you get those pre-release projects up and running again \U0001F916\U0001F4AA"
 ---
 
-# Migrating from the pre-release
+# Migrating from the pre-release 🥏
 
 ## What's the breaking change?
 

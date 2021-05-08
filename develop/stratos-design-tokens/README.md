@@ -4,7 +4,7 @@ description: >-
   application with design tokens and themes.
 ---
 
-# How it works
+# How it works 🧰
 
 ![](../../.gitbook/assets/tokens2021workflow.png)
 

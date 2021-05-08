@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Welcome to Stratos Tokens 2021](README.md)
+* [Welcome to Stratos Tokens 2021 🏡](README.md)
 
 ## Develop
 
-* [How it works](develop/stratos-design-tokens/README.md)
-  * [Migrating from the pre-release](develop/stratos-design-tokens/migrating-from-the-pre-release.md)
-* [The basics](develop/the-basics.md)
+* [How it works 🧰](develop/stratos-design-tokens/README.md)
+  * [Migrating from the pre-release 🥏](develop/stratos-design-tokens/migrating-from-the-pre-release.md)
+* [The basics 🔤](develop/the-basics.md)
 * [Releases ✍️](develop/releases.md)
 
 ## Learn

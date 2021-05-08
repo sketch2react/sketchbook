@@ -5,7 +5,7 @@ description: >-
   a free update 2021 Q2.
 ---
 
-# Welcome to Stratos Tokens 2021
+# Welcome to Stratos Tokens 2021 🏡
 
 ![](.gitbook/assets/tokens2021-hero.jpg)
 
