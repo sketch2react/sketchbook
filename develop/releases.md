@@ -4,7 +4,7 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## 2021.3.0 2021-05-08
+## 2021.3.0 \| 2021-05-08
 
 ### Added
 
@@ -17,7 +17,7 @@ description: All of our most important milestones & releases since the very begi
 * Cleaned up README view
 * Minor UI improvements
 
-## 2021.2.0 2021-04-20
+## 2021.2.0 \| 2021-04-20
 
 ### Added
 
@@ -48,7 +48,7 @@ Supported css properties for **Rectangles with borders** are:
   * color 
   * radius
 
-## 2021.1.10 - 2021-04-08
+## 2021.1.10 \| 2021-04-08
 
 ### Added
 
@@ -66,13 +66,13 @@ Supported css properties for **Rectangles with borders** are:
 
 * **Use { } for all your design tokens \(artboards + layer + group names\)** – mix them with regular design elements
 
-## 1.0.10 - 2020-11-30
+## 1.0.10 \| 2020-11-30
 
 ### Added
 
 * Big Sur support
 
-## 1.0.8 - 2020-05-13
+## 1.0.8 \| 2020-05-13
 
 ### Added:
 
@@ -96,11 +96,11 @@ Supported css properties for **Rectangles with borders** are:
 * Sketch, Figma and InVision projects are now displayed on the start screen
 * Fixed minor type-o:s
 
-## 1.0.6 - Never
+## 1.0.6 \| Never
 
 This is not the version your looking for... \*Jedi hand move\*
 
-## 1.0.5 - 2020-04-22
+## 1.0.5 \| 2020-04-22
 
 ### Changes:
 
@@ -111,7 +111,7 @@ _Explorer view_ is now visible from the start.
 * Updated in-app documentation links.
 * Artboards in _Explorer view_ are now sorted alphabetically.
 
-## 1.0.4 - 2020-04-20
+## 1.0.4 \| 2020-04-20
 
 ### Changes:
 
@@ -137,7 +137,7 @@ This change is made to better match the expected input of Style Dictionary.
 
 * New demo file \(.sketch, .fig, .studio\) for getting started with [Ant Design System ](https://ant.design)to work with our Style Dictionary support
 
-## 1.0.2 - 2020-03-20
+## 1.0.2 \| 2020-03-20
 
 ### Added:
 
