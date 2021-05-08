@@ -8,6 +8,8 @@ description: All of our most important milestones & releases since the very begi
 
 ### Added
 
+![Boooya!](../.gitbook/assets/styledictionary-3.png)
+
 * Support for [Style Dictionary 3.0](https://amzn.github.io/style-dictionary/#/version_3)
 * Download link to our Sketch assistant in the Help menu
 
