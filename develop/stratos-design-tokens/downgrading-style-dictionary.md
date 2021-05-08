@@ -2,7 +2,7 @@
 description: "Say that you for some unknown reason want to downgrade the built-in version of Style Dictionary that we ship our app with? No probs dude, just follow these very simple steps\U0001F447"
 ---
 
-# Downgrading Style Dictionary
+# Downgrading Style Dictionary 🔙
 
 ## In Stratos Tokens
 
