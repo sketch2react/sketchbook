@@ -15,6 +15,7 @@ _So this sucks of course_. Here's a few things you can check before throwing out
 5. Have you **activated your Sketch2React license**?
 6. If you use any cloud services \(Dropbox, iCloud, OneDrive etc\) make sure you actually have the Sketch files downloaded locally on your computer machine
 7. For troubleshooting make sure you use one of our [newer free demo files](https://marketplace.sketch2react.io/product/portfolio-website-template/), it can be that something is broken in older versions of them
+8. Use our Sketch assistant to debug your Sketch files
 
 ☕
 
