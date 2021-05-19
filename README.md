@@ -39,7 +39,7 @@ Here's [an example](https://www.notion.so/Style-Dictionary-Design-System-Inc-3cf
 
 ## Software requirements
 
-* Sketch v68–72 \(Figma support coming in a free update Q2 2021\)
+* Sketch v68–72.2 \(Figma support coming in a free update Q2 2021\)
 * [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App
 * Our [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) \(not required but nice to have\)
 * macOS Catalina or Big Sur \| Windows 10
