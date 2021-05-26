@@ -32,7 +32,7 @@ There are **a couple of great rules** that you need to follow.
 
 ![Here we have different border formatting values such as radius, weight and color](../.gitbook/assets/ska-rmavbild-2021-04-14-kl.-10.35.56.png)
 
-* Text layers with names that matches a **CSS property** will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 4 above\). Please note that the CSS property names need to be camel case \(i.e. fontSize or fontFamily\)
+* Text layers with names that matches a **CSS property** will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 4 above\). Please note that the layer names need to be camel case \(i.e. {fontSize} or {fontFamily}\)
 
 ![How this looks in code](../.gitbook/assets/ska-rmavbild-2021-04-14-kl.-10.37.38.png)
 
