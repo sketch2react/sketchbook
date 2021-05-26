@@ -38,7 +38,7 @@ Basically you use **shapes, lines, layer groups & text nodes** to output design 
 6. Text layers represent **text formatting**
 7. **Text layers with values within { }** are evaluated. Perfect for defining things like **font families, transitions & animation timing**
 8. Text nodes with values within **{{ }}** are considered as Style Dictionary references / variables to be able to reuse values. 
-9. Text layers with names that matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 4 above\)
+9. Text layers with names that matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 6 above\)
 
 ## What do I do next?
 
@@ -117,5 +117,5 @@ npm install --save stratos-designtokens-demo
 
 ![](../../.gitbook/assets/1-lhpat6rkwo6xtly2zg0rua.png)
 
-You can of course use this for other frameworks and platforms as well \(i.e. React native, Vue.js, Angular, Android, Swift… ****🤖💪
+You can of course use this for other frameworks and platforms as well  \(i.e. React native, Vue.js, Angular...\). And with a little help from our built-in Style Dictionary support you can also use your tokens for Android, Swift… ****🤖💪
 
