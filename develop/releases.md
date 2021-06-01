@@ -4,7 +4,7 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## 2021.4.0 \| 2021-06-01
+## 2021.4.5 \| 2021-06-01
 
 ### Added
 

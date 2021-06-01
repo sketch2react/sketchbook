@@ -46,5 +46,5 @@ Here's [an example](https://www.notion.so/Style-Dictionary-Design-System-Inc-3cf
 * NPM & [Node.js](https://nodejs.org/en/download/)
 * Use your preferred external code editor
 
-Stratos Tokens 2021.2.0 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
+Stratos Tokens 2021.4.5 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
 
