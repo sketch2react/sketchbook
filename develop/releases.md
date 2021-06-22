@@ -4,6 +4,20 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## 2021.7.0 \| 2021-06-22
+
+### Added
+
+Figma support 🥳 
+
+Please note that _Figma_ files does not support hot-reload like _Sketch_-files do. Instead you need to press the refresh button next on the far right on the _Artboards_ header in the _Explorer_ panel.
+
+![](../.gitbook/assets/ska-rmavbild-2021-06-22-kl.-15.18.57.png)
+
+### Fixes
+
+Minor UI improvements
+
 ## 2021.4.5 \| 2021-06-01
 
 ### Added
