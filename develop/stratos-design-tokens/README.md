@@ -10,7 +10,7 @@ description: >-
 
 **TLDR;** _Stratos Tokens App_ reads the **raw design file** \(no plugins\) and **generates a design token file** \(JSON-format\). This file can then be either stored directly in your codebase or uploaded to repositories like _NPMjs_ to be consumed by any codebase on any platform. And it’s **1:1 with your design file!**
 
-You visually represent your Design Tokens in a design tool, [Sketch](https://www.sketch.com) is currently supported. Figma support + a Windows app coming in a free update Q2 2021. 
+You visually represent your **Design Tokens** in a design tool, [Sketch](https://www.sketch.com) and [Figma](https://www.figma.com/) are currently supported and we have macOS and Windows versions of our app.
 
 ![](../../.gitbook/assets/tokens-2021-sketch.png)
 

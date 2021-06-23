@@ -11,9 +11,7 @@ description: >-
 
 ## What can I do with Stratos Tokens 2021?
 
-![Figma support coming later Q2 2021](.gitbook/assets/stratos-tokens-presentation-2020-shorter.001.jpeg)
-
-* Use Sketch \(and soon also Figma\) to create, update and distribute your **design tokens & theming code**
+* Use Sketch or Figma to create, update and distribute your **design tokens & theming code**
 * A single place to create and edit your styles
 * Reads the raw design file \(Sketch\) and generates a JSON-structure based on your design data \(design tokens\)
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
@@ -39,12 +37,12 @@ Here's [an example](https://www.notion.so/Style-Dictionary-Design-System-Inc-3cf
 
 ## Software requirements
 
-* Sketch v68–72+ \(Figma support coming in a free update Q2 2021\)
+* Sketch v68–72+ or latest Figma
 * [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App
 * Our [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) \(not required but nice to have\)
 * macOS Catalina or Big Sur \| Windows 10
 * NPM & [Node.js](https://nodejs.org/en/download/)
 * Use your preferred external code editor
 
-Stratos Tokens 2021.4.5 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
+Stratos Tokens 2021.7.0 ****- Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2021
 
