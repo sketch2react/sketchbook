@@ -44,6 +44,8 @@ Basically you use **shapes, lines, layer groups & text nodes** to output design 
 
 Easiest way to get started with a blank Stratos Tokens project is
 
+### For Sketch
+
 1. Start **Sketch app** and **Create a New document**
 2. Create **one artboard**, the size does not matter
 3. Give your artboard a simple name, **lower case only, no blank spaces between words** e.g {great-artboard-name}
