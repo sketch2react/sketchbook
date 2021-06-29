@@ -26,6 +26,15 @@ The structure of the output JSON is a direct reflection of the structure in your
 
 Please note that above is just an **example** of how to structure your design tokens & theming. It’s up to you to create your own structure.
 
+## About Style Dictionary
+
+We support Style Dictionary which is a great build system for outputting design tokens to a wide range of different formats. **Support does not mean you can set this up however you want.** You will need to follow Style Dictionary's structure and naming conventions for the auto-translation to do its magic.   
+A great article to get you started understanding Style Dictionary is this one.
+
+{% embed url="https://sketch2react.io/blog/lets-get-practical-with-design-tokens-part-1/" %}
+
+
+
 ## How to create design tokens
 
 Basically you use **shapes, lines, layer groups & text nodes** to output design token data. Here's a few great things to know 🤖👇
