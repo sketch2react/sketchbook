@@ -113,6 +113,10 @@ Figma files work differently than Sketch files in the sense that Figma doesn’t
 
 In a future update, we’ll introduce time-saving shortcuts for this and other semi annoying things. Who doesn’t want extra seconds in life?
 
+### Don't use Auto Layout
+
+We haven't tested Auto Layout yet with Stratos Tokens 2021, so please don't use it. Simple as that.
+
 ## So, now what?
 
 Now you need to learn **how our app and design token framework works**, what rules you need to follow, how you can set up things, if you’re going to follow our built-in Style Dictionary support or not. We give you the choice.
