@@ -116,7 +116,7 @@ Now we are ready to get going! Press **Create Figma project**
 
 ## Important thing about Figma files
 
-Figma files work differently than Sketch files in the sense that Figma doesn’t offer so called _hot-reloading_. Every time you do changes inside Figma you will need to press the **little reload icon**.
+Figma files work differently than Sketch files in the sense that Figma doesn’t offer so called _hot-reloading_. Every time you do changes inside Figma you will need to press the **little reload icon** to update the **design token tree**.
 
 ![To update the design token tree you will need to press this one](../../.gitbook/assets/figma-refresh.png)
 
