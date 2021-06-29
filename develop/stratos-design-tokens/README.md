@@ -78,13 +78,7 @@ This design data structure is now available from **three places**:
 
 ### For Figma
 
-Figma fans rejoice! When we released the rebuilt from scratch **Stratos Tokens 2021**, we promised to bring ”back” Figma support. Back because we had it in the pre-release version of our design token companion app.
-
-The cool thing about this update is that we now, for the first time also offer Windows users the whole workflow going from Figma out to code.
-
 ![](../../.gitbook/assets/figma-stratos-tokens.png)
-
-Meanwhile, we **simplified** the way you create Figma design token projects in Stratos Tokens.
 
 ### Get your Figma Access Token
 
