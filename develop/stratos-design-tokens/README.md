@@ -67,6 +67,58 @@ This design data structure is now available from **three places**:
 * As a stand-alone file in the project’s _data_ folder.
 * Downloadable as _NPM-project_
 
+### For Figma
+
+Figma fans rejoice! When we released the rebuilt from scratch **Stratos Tokens 2021**, we promised to bring ”back” Figma support. Back because we had it in the pre-release version of our design token companion app.
+
+The cool thing about this update is that we now, for the first time also offer Windows users the whole workflow going from Figma out to code.
+
+![](../../.gitbook/assets/figma-stratos-tokens.png)
+
+Meanwhile, we **simplified** the way you create Figma design token projects in Stratos Tokens.
+
+### Get your Figma Access Token
+
+1. Go to your **Figma Account Settings**
+2. Scroll down to the bit where it says **Personal access tokens**
+3. Create a **new personal access token**
+4. **Copy** the access token to notes or something similar
+
+### In Stratos Tokens 2021
+
+1. Go to **Create New Project** and select Figma
+
+![](../../.gitbook/assets/figma-start-here.png)
+
+2. Paste your newly created Figma access token, no worries you only **need to do this once**, and it can be revoked if needed, more on that later.
+
+![](../../.gitbook/assets/figma-access-token.png)
+
+1. Jump back to Figma and **create a new file**
+2. Copy the URL of that Figma file 
+
+![](../../.gitbook/assets/figma-copy-url.png)
+
+3. Paste the Figma file URL in our app 👉 **Figma project url**
+
+![](../../.gitbook/assets/figma-paste-url.png)
+
+Now we are ready to get going! Press **Create Figma project** 
+
+## Important thing about Figma files
+
+Figma files work differently than Sketch files in the sense that Figma doesn’t offer so called _hot-reloading_. Every time you do changes inside Figma you will need to press the **little reload icon**.
+
+![To update the design token tree you will need to press this one](../../.gitbook/assets/figma-refresh.png)
+
+In a future update, we’ll introduce time-saving shortcuts for this and other semi annoying things. Who doesn’t want extra seconds in life?
+
+## So, now what?
+
+Now you need to learn **how our app and design token framework works**, what rules you need to follow, how you can set up things, if you’re going to follow our built-in Style Dictionary support or not. We give you the choice.
+
+A great starting point is reading [this article](https://sketch2react.io/blog/the-different-levels-of-design-token-designing/). If you’re curious about learning how to setup for Style Dictionary we suggest you read [this article](https://sketch2react.io/blog/lets-get-practical-with-design-tokens-part-1/).
+
 ## NPM project? Oooh, tell me more…
 
 Ok, sure. There are a few steps, but stay with us, it’s worth it. In the example below our new **design tokens NPM package** is named _stratos-designtokens-demo_. You can name yours whatever you like.👍😄
