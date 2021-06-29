@@ -113,9 +113,13 @@ Figma files work differently than Sketch files in the sense that Figma doesn’t
 
 In a future update, we’ll introduce time-saving shortcuts for this and other semi annoying things. Who doesn’t want extra seconds in life?
 
-### Don't use Auto Layout
+### When using Auto Layout
 
-We haven't tested Auto Layout yet with Stratos Tokens 2021, so please don't use it. Simple as that.
+If you're using the awesome Auto Layout function in Figma make sure not to break the naming chain or you will break the design token output in Stratos Tokens. 
+
+Do Auto Layout like this👇
+
+![Make sure to never ever break the {designtoken} curly brackets chain or it will stop working](../../.gitbook/assets/cleanshot-2021-06-29-at-15.42.20.gif)
 
 ## So, now what?
 
