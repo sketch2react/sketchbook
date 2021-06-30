@@ -120,6 +120,10 @@ In a future update, we’ll introduce time-saving shortcuts for this and other s
 
 If you're using the awesome Auto Layout function in Figma make sure not to break the naming chain or you will break the design token output in Stratos Tokens. 
 
+{% hint style="info" %}
+Design token names must be wrapped in **{ }** – including your **design token artboards**
+{% endhint %}
+
 #### Do Auto Layout like this👇
 
 ![Make sure to never ever break the {designtoken} curly brackets chain or it will stop working](../../.gitbook/assets/cleanshot-2021-06-29-at-15.42.20.gif)
