@@ -10,7 +10,8 @@ description: All of our most important milestones & releases since the very begi
 
 Figma support 🥳 
 
-Please note that _Figma_ files does not support hot-reload like _Sketch_-files do. Instead you need to press the refresh button next on the far right on the _Artboards_ header in the _Explorer_ panel.
+* Please note that _Figma_ files does not support hot-reload like _Sketch_-files do. Instead you need to press the refresh button next on the far right on the _Artboards_ header in the _Explorer_ panel.
+* Please note that we currently **don't support creating shadow tokens via Figma**.
 
 ![](../.gitbook/assets/ska-rmavbild-2021-06-22-kl.-15.18.57.png)
 
