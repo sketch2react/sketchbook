@@ -28,7 +28,7 @@ There are **a couple of great rules** that you need to follow.
 
 ![](../.gitbook/assets/cleanshot-2021-04-06-at-09.21.32-2x.png)
 
-* Text nodes with values within **{{ }}** are considered as Style Dictionary references / shortcuts to be able to reuse values. 
+* Text nodes with values within **{{ }}** are considered as Style Dictionary references / shortcuts to be able to reuse values. These are also known as **alias tokens**.
 
 ![Here we have different border formatting values such as radius, weight and color](../.gitbook/assets/ska-rmavbild-2021-04-14-kl.-10.35.56.png)
 
