@@ -20,7 +20,7 @@ A Sketch plugin for exporting and importing fill presets. It supports colors, gr
 
 ![](../.gitbook/assets/sketchrunner.png)
 
-What would this list be without the most awesome time-saving Sketch plugin of all time? Exactly.
+What would this list be without the most awesome time-saving Sketch & Figma plugin of all time? Exactly.
 
 
 
