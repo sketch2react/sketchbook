@@ -1,8 +1,7 @@
 ---
 description: >-
   Stratos Tokens is a companion app for Sketch & Figma on Mac & PC that outputs
-  design tokens & theming code. Currently only supports Sketch files but we are
-  adding Figma in a free update 2021 Q2.
+  design tokens & theming code.
 ---
 
 # Welcome to Stratos Tokens 2021 🏡
