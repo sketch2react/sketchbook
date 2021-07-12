@@ -4,8 +4,6 @@ description: The fundamental basics of the Stratos Tokens design token framework
 
 # The basics 🔤
 
-![](../.gitbook/assets/stratostokens2021.jpg)
-
 ## Introduction
 
 We have a few essential framework rules to get started using our app with Sketch or Figma. **It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for** [**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need. We promise 😺👍

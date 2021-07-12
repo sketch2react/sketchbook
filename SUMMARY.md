@@ -4,10 +4,10 @@
 
 ## Develop
 
+* [The basics 🔤](develop/the-basics.md)
 * [How it works 🧰](develop/stratos-design-tokens/README.md)
   * [Migrating from the pre-release 🥏](develop/stratos-design-tokens/migrating-from-the-pre-release.md)
   * [Downgrading Style Dictionary 🔙](develop/stratos-design-tokens/downgrading-style-dictionary.md)
-* [The basics 🔤](develop/the-basics.md)
 * [Releases ✍️](develop/releases.md)
 
 ## Learn
