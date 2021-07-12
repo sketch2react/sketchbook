@@ -6,7 +6,9 @@ description: The fundamental basics of the Stratos Tokens design token framework
 
 ## Introduction
 
-We have a few essential framework rules to get started using our app with Sketch or Figma. **It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for** [**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need. We promise 😺👍
+We have a few essential framework rules to get started using our app with Sketch or Figma. **It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for** [**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need. 
+
+Or you can skip Style Dictionary altogether. This depends solely on how your team wants to implement design tokens into the code base.
 
 ## The raw output is json
 
