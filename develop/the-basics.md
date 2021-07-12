@@ -24,6 +24,8 @@ When you apply our **basic framework rules** on layers in Sketch and Figma what 
 
 The main reason is that many design systems actually use something called **theming** where you can do lots of magical things with "just" exporting json design tokens. [Material-UI](https://material-ui.com/customization/theming/) is one example and we even built a very [simple demo](https://marketplace.sketch2react.io/product/material-ui-demo/) for it.
 
+Also you don't even need a big fancy design system or theme provider to use the design tokens that comes out of Stratos Tokens. Here's a great read about [styling React components](https://medium.com/sketch2react/styling-react-components-using-stratos-design-tokens-dfe0e4e10247). Please advice that this article is from 2020 before we introduced our [breaking](https://sketch2react.gitbook.io/sketch2react-io/v/stratos-tokens-2021/develop/stratos-design-tokens/migrating-from-the-pre-release) framework change. 
+
 ## What if I need to do more?
 
 That's the whole reason we also have built in support for Style Dictionary.
