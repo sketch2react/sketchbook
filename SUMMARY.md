@@ -1,6 +1,6 @@
 # Table of contents
 
-* [hello](README.md)
+* [Welcome to Stratos Tokens 🏡](README.md)
 
 ## Develop
 
