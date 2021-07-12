@@ -62,18 +62,6 @@ Basically you use **shapes, lines, layer groups & text nodes** to output design 
 
 {% embed url="https://youtu.be/usPnN\_VBc6s" %}
 
-
-
-You click on the _file explorer_ and select the artboard named _Light._
-
-![](../../.gitbook/assets/ska-rmklipp-2020-04-28-09.35.25.png)
-
-This design data structure is now available from **three places**:
-
-* Direct copy/paste
-* As a stand-alone file in the project’s _data_ folder.
-* Downloadable as _NPM-project_
-
 ### For Figma
 
 ![](../../.gitbook/assets/figma-stratos-tokens.png)
