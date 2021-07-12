@@ -49,9 +49,7 @@ Basically you use **shapes, lines, layer groups & text nodes** to output design 
 8. Text nodes with values within **{{ }}** are considered as Style Dictionary references / variables to be able to reuse values. 
 9. Text layers with names that matches a CSS property will have only that CSS property’s value \(as opposed to plain Text layers which will contain all CSS properties; see bullet 6 above\)
 
-## What do I do next?
-
-Easiest way to get started with a blank Stratos Tokens project is
+## Getting started with Sketch & Figma
 
 ### For Sketch
 
