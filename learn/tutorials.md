@@ -4,6 +4,14 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials & Articles 📘
 
+## Download our free ebook 📚✅
+
+We just released our Stratos Tokens Pocket Guide ebook that that contains many of below articles and tutorials, rewritten for a better offline experience.
+
+{% embed url="https://marketplace.sketch2react.io/product/stratos-tokens-pocket-guide/" %}
+
+## Tutorials and articles
+
 {% embed url="https://sketch2react.io/blog/how-to-get-started-with-style-dictionary-stratos-tokens/" %}
 
 
