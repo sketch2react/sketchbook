@@ -39,7 +39,7 @@ Also download our brand new [Sketch Assistant](https://www.sketch.com/extensions
 
 ## Software requirements
 
-* [Sketch](https://sketch.com) 68–76
+* [Sketch](https://sketch.com) 68–77
 * [Sketch2React 2021](https://marketplace.sketch2react.io/product/sketch2react/)
 * OSX Catalina or Big Sur \(requires v70+ of Sketch app\)
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) \(not required but nice to have\)
