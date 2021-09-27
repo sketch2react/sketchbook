@@ -1,4 +1,4 @@
-# Welcome to Sketch2React 🏡
+# Welcome to Sketch2React Beta 🏡
 
 ## Build responsive prototypes and simple websites straight from Sketch 😺 💎
 

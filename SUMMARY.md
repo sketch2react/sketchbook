@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Sketch2React 🏡](README.md)
+* [Welcome to Sketch2React Beta 🏡](README.md)
 
 ## Learn
 
