@@ -1,3 +1,9 @@
+---
+description: >-
+  A place to read everything about the next version of Sketch2React, currently
+  in beta
+---
+
 # Welcome to Sketch2React Beta 🏡
 
 ## Build responsive prototypes and simple websites straight from Sketch 😺 💎
