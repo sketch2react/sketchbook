@@ -4,6 +4,17 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2021.2.7 \(2021-10-05\)
+
+### Added
+
+* New component! You can now host images, GIFs and even SVG animations with **{image-external}** 🎉
+* Two new demo files 👉**Demos & Libraries** folder 👉 _Image External_
+
+### Fixed
+
+* We squeezed a nasty little 🐛that prevented the app from being activated
+
 ## Version 2021.2.1 \(2021-04-21\)
 
 ### Added
