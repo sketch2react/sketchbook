@@ -9,7 +9,7 @@ description: All of our most important milestones & releases since the very begi
 ### Added
 
 * New component! You can now host images, GIFs and even SVG animations with **{image-external}** 🎉
-* Two new demo files 👉**Demos & Libraries** folder 👉 _Image External_
+* Two new demo files 👉 **Demos & Libraries** folder 👉 _Image External_
 
 ### Fixed
 

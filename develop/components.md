@@ -222,6 +222,14 @@ Creates an image with a responsive size. It scales according to available width.
 {image-fixed}
 ```
 
+Host images, GIFs and even animated SVGs externally. Download [these .sketchfiles](https://www.dropbox.com/sh/6c4bs8f9tv45ckg/AAAJtI44NWsmbBhXie1KO1P0a?dl=0) and grab the component
+
+**Supports:**
+
+* classes \[ \]
+
+**Since:** v2021.2.7
+
 Creates an image with fixed width and height \(taken from Sketch\).
 
 **Supports:**
@@ -229,6 +237,12 @@ Creates an image with fixed width and height \(taken from Sketch\).
 > * classes \[ \]
 
 **Since:** v0.0.5
+
+### {image-external}
+
+```text
+{image-external}
+```
 
 ### {rectangle}
 
