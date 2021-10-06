@@ -236,6 +236,8 @@ Creates an image with fixed width and height \(taken from Sketch\).
 {image-external}
 ```
 
+{% embed url="https://youtu.be/TASvmDR6JJI" %}
+
 Host images, GIFs and even animated SVGs externally. Download [these .sketchfiles](https://www.dropbox.com/sh/6c4bs8f9tv45ckg/AAAJtI44NWsmbBhXie1KO1P0a?dl=0) and grab the component
 
 **Supports:**
