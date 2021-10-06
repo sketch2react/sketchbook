@@ -44,5 +44,5 @@ Also download our brand new [Sketch Assistant](https://www.sketch.com/extensions
 * OSX Catalina or Big Sur \(requires v70+ of Sketch app\)
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) \(not required but nice to have\)
 
-Sketch2React 2021.2.1 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2021
+Sketch2React 2021.2.7 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2021
 
