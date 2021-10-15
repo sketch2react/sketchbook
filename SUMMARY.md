@@ -15,9 +15,9 @@
 
 * [Components 💎](develop/components.md)
 * [Exporting to Code 🚚](develop/exporting-to-code.md)
+* [Code snippets 👩‍💻](develop/code-snippets.md)
 * [Releases ✍️](develop/releases.md)
 
 ## Support
 
 * [FAQ❓](support/faq.md)
-
