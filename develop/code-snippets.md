@@ -31,7 +31,9 @@ coverY: 0
 
 ![](<../.gitbook/assets/CleanShot 2021-10-15 at 22.40.20@2x.png>)
 
-## Text Hover Animate Bottom Border
+## CSS snippets
+
+### Text Hover Animate Bottom Border
 
 ![](../.gitbook/assets/animated-text-hover-line.gif)
 
