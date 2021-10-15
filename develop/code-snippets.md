@@ -37,7 +37,7 @@ coverY: 0
 
 ![](../.gitbook/assets/animated-text-hover-line.gif)
 
-### CSS 👇
+
 
 ```css
  .link::after {
