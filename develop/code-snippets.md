@@ -29,7 +29,9 @@ coverY: 0
 6. Make sure to copy the text layer to all of the artboards using your custom code
 7. You can add as many {externalasset} layers as you need
 
-![](<../.gitbook/assets/CleanShot 2021-10-15 at 22.40.20@2x.png>)
+![Here we dragged the gradienta.css document onto Terminal to get the correct file path](<../.gitbook/assets/CleanShot 2021-10-15 at 22.40.20@2x.png>)
+
+![You can add both local and remote {externalasset} files](<../.gitbook/assets/CleanShot 2021-10-16 at 09.26.51@2x (1).png>)
 
 ## CSS snippets
 
