@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/12@2x.png
-coverY: 0
+coverY: -681.2433661865049
 ---
 
 # Sketch2React Markup Cheat Sheet 📓

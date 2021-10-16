@@ -2,6 +2,8 @@
 description: >-
   Here are some really great plugins and apps that work really well with our
   framework.
+cover: ../.gitbook/assets/frame-horizontal-1920x1080 (1).png
+coverY: -304.2304776345716
 ---
 
 # 3rd Party Plugins & Apps ⚙️

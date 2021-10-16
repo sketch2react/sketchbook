@@ -1,10 +1,12 @@
 ---
 description: All of our most important milestones & releases since the very beginning
+cover: ../.gitbook/assets/purple-hazew.png
+coverY: 0
 ---
 
 # Releases ✍️
 
-## Version 2021.2.7 \(2021-10-05\)
+## Version 2021.2.7 (2021-10-05)
 
 ### Added
 
@@ -15,7 +17,7 @@ description: All of our most important milestones & releases since the very begi
 
 * We squeezed a nasty little 🐛that prevented the app from being activated
 
-## Version 2021.2.1 \(2021-04-21\)
+## Version 2021.2.1 (2021-04-21)
 
 ### Added
 
@@ -119,7 +121,7 @@ Link any element to anything! Like images or texts!
 
 #### ⚙️ 👉 👩‍💻 New component[ {div}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#div)
 
-A generic component well suited for implementing things such as other **grid systems** \(e.g. MaterialUI grid\) or construct your own components!
+A generic component well suited for implementing things such as other **grid systems** (e.g. MaterialUI grid) or construct your own components!
 
 #### ⚙️ 👉 👩‍💻 New component [{externalasset.js}](https://sketch2react.gitbook.io/sketch2react-io/develop/components#5084)
 
@@ -127,7 +129,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 
 #### 👉 🤖 CSS-modules
 
-Our React export now utilizes CSS-modules. This means the dependency on Sketch2React’s package \(@sketch2react/react-components\) is gone! **No dependency on us once your React code is exported!** 🥳
+Our React export now utilizes CSS-modules. This means the dependency on Sketch2React’s package (@sketch2react/react-components) is gone! **No dependency on us once your React code is exported!** 🥳
 
 #### 👉 🤖 Updated React export’s dependencies
 
@@ -176,7 +178,7 @@ We are now in beta mode - woooppieedoo.
 * Layer blend modes: We now support Sketch blend modes - experiment away!
 * Sketch 52 support
 * Mojave support
-* Hotspots as links: Use the Add Link to Artboard \(W\) to link buttons and the navigation to other artboards
+* Hotspots as links: Use the Add Link to Artboard (W) to link buttons and the navigation to other artboards
 * Downloaded HTML files now get the names of the artboards which makes publishing to servers much easier
 
 ## 0.56
@@ -222,6 +224,4 @@ We are now in beta mode - woooppieedoo.
 {% hint style="success" %}
 > The biggest difference between this and other prototyping tools is that you **design with real code**. That gives you high fidelity HTML prototypes right from scratch.
 {% endhint %}
-
-
 

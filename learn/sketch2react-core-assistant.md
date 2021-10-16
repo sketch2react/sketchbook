@@ -1,5 +1,7 @@
 ---
 description: Here's all of our awesome Sketch assistant rules explained. For normal humans.
+cover: ../.gitbook/assets/frame-horizontal-1920x1080.png
+coverY: 0
 ---
 
 # Sketch Assistant Rules Explained 📐

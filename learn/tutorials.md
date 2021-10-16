@@ -1,5 +1,7 @@
 ---
 description: A diverse bunch of tutorials both from Medium and our Youtube.
+cover: ../.gitbook/assets/epic-milstone.png
+coverY: -49.49203942380591
 ---
 
 # Tutorials 📼
