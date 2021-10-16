@@ -2,6 +2,7 @@
 description: >-
   Here's a collection of great code snippets that we have found on the internets
   that work great with Sketch2React.
+cover: ../.gitbook/assets/image-external.png
 coverY: 0
 ---
 

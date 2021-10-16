@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/12@2x.png
+coverY: 0
+---
+
 # Sketch2React Markup Cheat Sheet 📓
 
 We use our own markup based on **Atomic CSS, **to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of your .sketch file. And a few nifty shortcuts!

@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/whats-cooking-teams2r.png
+coverY: 0
+---
+
 # Welcome to Sketch2React 🏡
 
 ## Build responsive prototypes and simple websites straight from Sketch 😺 💎
