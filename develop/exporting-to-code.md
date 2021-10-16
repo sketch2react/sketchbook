@@ -1,5 +1,7 @@
 ---
 description: All you need to know about Sketch2React's different ways of exporting to code.
+cover: ../.gitbook/assets/s2rbeta-new.png
+coverY: 0
 ---
 
 # Exporting to Code 🚚

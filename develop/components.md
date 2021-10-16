@@ -1,7 +1,9 @@
 ---
 description: >-
   Here's all of our current code components and their categories. All of these
-  output workable code via our Sketch2React Code App.
+  output workable code via Sketch and Sketch2React.
+cover: ../.gitbook/assets/image-external@2x.png
+coverY: 0
 ---
 
 # Components 💎
