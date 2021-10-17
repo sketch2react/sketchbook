@@ -18,7 +18,7 @@
 ## Support
 
 * [FAQ❓](support/faq.md)
-* [Releases ✍️](support/releases/README.md)
+* [Releases ✍️](support/releases.md)
   * [Beta releases](support/releases/beta-releases.md)
 * [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared_invite/zt-6tc9x0xd-sQs14w3aQ8JNcSVAaY17Hw)
 * [Download free resources 🧡](support/download-free-resources.md)

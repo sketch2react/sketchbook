@@ -1,5 +1,7 @@
 ---
 description: Follow our work with the next version of Sketch2React 2021, currently in beta
+cover: ../../.gitbook/assets/s2rbeta-new.png
+coverY: -1103.3813495072025
 ---
 
 # Beta releases
