@@ -1,6 +1,6 @@
 ---
 description: All of our most important milestones & releases since the very beginning
-cover: ../.gitbook/assets/purple-hazew.png
+cover: ../../.gitbook/assets/purple-hazew.png
 coverY: 0
 ---
 
