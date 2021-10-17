@@ -14,6 +14,7 @@ coverY: -1103.3813495072025
 * Artboard Explorer
 * Automagical HTML links between artboards
 * Documents side panel with latest documents
+* New shortcut for closing the side panel 👉**ESC**
 
 ### Fixed
 
