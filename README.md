@@ -5,7 +5,7 @@ coverY: 0
 
 # Welcome to Sketch2React 🏡
 
-## Build responsive prototypes and simple websites straight from Sketch 😺 💎
+## Create custom code and simple websites straight from Sketch 😺 💎
 
 ![](.gitbook/assets/builtforsketchbigsur.jpg)
 
