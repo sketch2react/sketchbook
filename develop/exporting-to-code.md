@@ -6,7 +6,7 @@ coverY: 0
 
 # Exporting to Code 🚚
 
-## Export to Capacitor.js 
+## Export to Capacitor.js&#x20;
 
 ![Wanna go directly to iOS & Android? Who wouldn't 😺💪](../.gitbook/assets/s2r202121-update-2.png)
 
@@ -37,15 +37,23 @@ xcode-select —install
 sudo gem install cocoapods
 ```
 
-### Choose between iOS or Android
+### How to install for iOS
 
-Now comes the part where you choose which platform to install for use with Capacitor. You can choose between iOS or Android, we have added both to the config.json file. 
+1. **Drag the entire exported folder** onto your preferred code editor, we always use [Visual Studio Code](https://code.visualstudio.com/Download) since it’s really nice (and free 🍬)
+2. In VSC 👉  **Terminal** 👉  **New Terminal**
+3. Just type `npm install`_` `_and hit enter key
+4. You have now installed Capacitor.js onto your project folder 👉 Yes! 💪  Not ready yet though, a couple of easy steps left, carry on soldier
+5. Type `npx cap init` and hit enter key. Capacitor will ask you a bunch of stuff, like what you want to call the app, where the www folder is etc. Do what is forced upon you and just be a happy camper 🏕️
+6. Now it’s time to do the real magic, installing all the files Xcode needs to automagically convert this to a **.xcode project**
+7. Type `npm install @capacitor/ios`_ _and hit enter
+8. One would assume you would be ready by now. You are assuming wrong dear Watson
+9. Type `npx cap add ios`_ _and hit enter key
 
-#### **For iOS**
+Now comes the best command ever, hold on to your shorts or skirts 👇
 
-Just follow [these instructions](https://capacitorjs.com/docs/v3/ios#adding-the-ios-platform).
+1. Type `npx cap open ios`_ _and like magic mushrooms Xcode will open up in the background and also open up the very same project you just created 👉  Huzzah!
 
-#### **For Android**
+### How to install for Android
 
 Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-the-android-platform).
 
@@ -57,7 +65,7 @@ Follow these instructions to the point and you’ll be exporting to React code a
 
 ### Adding things to export
 
-1. Open up **Sketch2React** app. 
+1. Open up **Sketch2React** app.&#x20;
 2. Go to **File, Link Sketch-file** (⌘L) or just **drag and drop** the Sketch file
 3. Your Sketch file needs to have our markup rules (components etc)
 4. Before anything can be exported to code, you need to **add each artboard/page to our export bundle.** You do that by visiting each page in your design, it adds itself automagically to our bundle after each page load. _Neat right?_
@@ -91,7 +99,7 @@ Download the latest build [from here](https://nodejs.org/en/download/)
 
 ## How to export to React (Terminal)
 
-First of all, make sure you have **admin rights** to your computer or nothing of the below things will ever work. 
+First of all, make sure you have **admin rights** to your computer or nothing of the below things will ever work.&#x20;
 
 1. Open **Terminal app**. You know that weird little app you maybe have been in contact with when doing funky stuff to your Mac 😆 It’s actually really friendly, don’t be afraid. But weird yes.
 2. Write **cd **and do a blank space
@@ -100,7 +108,7 @@ First of all, make sure you have **admin rights** to your computer or nothing of
 
 ## How to install all required packages (Terminal)
 
-1.  Write **npm install** and hit enter **↩︎**
+1. &#x20;Write **npm install** and hit enter **↩︎**
 2. Since you have entered the correct cd installation of all required packages should begin
 
 ## How to start your development server (Terminal)
@@ -126,7 +134,7 @@ It will create a optimized build of your entire project. It takes a bit of time,
 By default, **Create React App** produces a build assuming your app is hosted at the server root.
 
 {% hint style="info" %}
-Here’s how you [change that](https://facebook.github.io/create-react-app/docs/deployment#building-for-relative-paths). 
+Here’s how you [change that](https://facebook.github.io/create-react-app/docs/deployment#building-for-relative-paths).&#x20;
 {% endhint %}
 
 Open up** package.json** and enter this very path below version:
