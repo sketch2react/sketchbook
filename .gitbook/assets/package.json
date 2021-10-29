@@ -1,0 +1,18 @@
+{
+  "name": "capacitor-demo",
+  "version": "1.0.0",
+  "description": "Let's create a capacitor demo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Sketch2React",
+  "license": "ISC",
+  "devDependencies": {
+    "@capacitor/android": "^3.2.5",
+    "@capacitor/cli": "^3.2.5",
+    "@capacitor/core": "^3.2.5",
+    "@capacitor/ios": "^3.2.5",
+    "cordova-res": "^0.15.3"
+  }
+}

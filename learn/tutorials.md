@@ -12,7 +12,7 @@ Check out all of our tutorials on our[ Youtube](https://www.youtube.com/c/Sketch
 
 ## Tutorial👉From Sketch to Xcode using Capacitor.js
 
-Did you know that you can start in Sketch + Sketch2React and then use something amazing called Capacitor to build cross-platform apps? Neither did we until a few weeks back. 
+Did you know that you can start in Sketch + Sketch2React and then use something amazing called Capacitor to build cross-platform apps? Neither did we until a few weeks back.&#x20;
 
 {% embed url="https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-using-capacitorjs/" %}
 
@@ -70,7 +70,9 @@ Did you know that you can start in Sketch + Sketch2React and then use something 
 
 {% embed url="https://youtu.be/6_BTuHVfRaA" %}
 
-##  How the Plugin Works
+\
+How the Plugin Works
+--------------------
 
 {% embed url="https://youtu.be/1JA2PUsJlN4" %}
 
