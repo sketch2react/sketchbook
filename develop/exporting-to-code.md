@@ -63,9 +63,23 @@ Now comes the best command ever, hold on to your shorts or skirts 👇
 
 ### How to install for Android
 
+![](../.gitbook/assets/sketch-to-android.png)
+
 Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-the-android-platform).
 
+### Updating the HTML
 
+Say that you have exported from Sketch2React and later add new things/change stuff. Of course you want them updated inside Capacitor also. The easiest workflow is:
+
+1. Update inside Sketch/Lunacy&#x20;
+2. Make sure you see those changes inside Sketch2React
+3. Export as HTML
+4. Copy the entire HTML export and overwrite inside the _www_ folder in your Capacitor project
+5. Jump back to your code editor (we use VSC) open up a new Terminal and run the following command. Make a happy 👯‍♀️
+
+```
+npx cap sync
+```
 
 ## How to export to React
 
