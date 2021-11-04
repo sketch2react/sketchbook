@@ -11,7 +11,7 @@
 
 ## Develop
 
-* [Components 💎](develop/components.md)
+* [Basic components 💎](develop/components.md)
 * [Exporting to Code 🚚](develop/exporting-to-code.md)
 * [Code snippets 👩‍💻](develop/code-snippets.md)
 
@@ -20,5 +20,5 @@
 * [FAQ❓](support/faq.md)
 * [Releases ✍️](support/releases.md)
   * [Beta releases](support/releases/beta-releases.md)
-* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared_invite/zt-6tc9x0xd-sQs14w3aQ8JNcSVAaY17Hw)
+* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared\_invite/zt-6tc9x0xd-sQs14w3aQ8JNcSVAaY17Hw)
 * [Download free resources 🧡](support/download-free-resources.md)

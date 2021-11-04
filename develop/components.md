@@ -1,12 +1,13 @@
 ---
 description: >-
-  Here's all of our current code components and their categories. All of these
-  output workable code via Sketch and Sketch2React.
+  Combine these to create your own, it's a bit like having Lego pieces to play
+  with. Save as Sketch Symbols and reuse locally or share with anyone in your
+  team.
 cover: ../.gitbook/assets/image-external@2x.png
 coverY: 0
 ---
 
-# Components 💎
+# Basic components 💎
 
 ## **Grid & Layout Components**
 
@@ -20,7 +21,7 @@ These are for setting up grids and layouts in Sketch. You create all of them in 
 {container}
 ```
 
-Creates a Bootstrap **Container **element. This is the outermost element in a Bootstrap grid. 
+Creates a Bootstrap **Container **element. This is the outermost element in a Bootstrap grid.&#x20;
 
 {% hint style="info" %}
 **Note:** You can also have {container} elements inside of {col} elements (known as nesting).
@@ -39,7 +40,7 @@ Creates a Bootstrap **Container **element. This is the outermost element in a Bo
 1. Create a text node **(T)**
 2. Group that text node **(⌘+G)**
 3. Rename group **{container}**
-4. Delete text node _or_ name it {text} 
+4. Delete text node _or_ name it {text}&#x20;
 {% endhint %}
 
 ### **{container-fluid}**
@@ -65,7 +66,7 @@ Creates a Bootstrap **Container-fluid** element. This element (as opposed to {co
 1. Create a text node **(T)**
 2. Group that text node **(⌘+G)**
 3. Rename group** {container-fluid}**
-4. Delete text node _or_ name it {text} 
+4. Delete text node _or_ name it {text}&#x20;
 {% endhint %}
 
 ### **{row}**
@@ -84,7 +85,7 @@ Creates a Bootstrap **Row** element. A {row} is a direct child to {container} or
 {% hint style="info" %}
 #### **Pro tip! **
 
-By adding the Bootstrap 4 class_ no-gutters_ you will remove gutters from child {col}. 
+By adding the Bootstrap 4 class_ no-gutters_ you will remove gutters from child {col}.&#x20;
 
 Example:
 
@@ -99,7 +100,7 @@ Example:
 1. Create a text node **(T)**
 2. Group that text node **(⌘+G)**
 3. Rename group **{row}**
-4. Delete text node _or_ name it {text} 
+4. Delete text node _or_ name it {text}&#x20;
 {% endhint %}
 
 ### **{col}**
@@ -123,7 +124,7 @@ Creates a Bootstrap** Column** element. A {col} is a direct child to {row}. {col
 1. Create a text node **(T)**
 2. Group that text node **(⌘+G)**
 3. Rename group **{col}**
-4. Delete text node _or_ name it {text} 
+4. Delete text node _or_ name it {text}&#x20;
 {% endhint %}
 
 ### **{group}**
@@ -140,9 +141,9 @@ The remaining space (the difference/delta between the child-elements total width
 
 #### Vertically:
 
-If you, within a {group} place X number of Sketch2React elements stacked vertically in Sketch, {group} will make sure they end up vertically in code. 
+If you, within a {group} place X number of Sketch2React elements stacked vertically in Sketch, {group} will make sure they end up vertically in code.&#x20;
 
-The remaining space (the difference/delta between the child-elements total height and the {group}’s own height) will be distributed evenly **between** the children. 
+The remaining space (the difference/delta between the child-elements total height and the {group}’s own height) will be distributed evenly **between** the children.&#x20;
 
 **Supports:**
 
@@ -154,10 +155,10 @@ The remaining space (the difference/delta between the child-elements total heigh
 
 `{group-fixed}`
 
-This element is identical to {group} except that it always keeps the same width (taken from Sketch) even when you resize it’s parent component (e.g. a {col}). 
+This element is identical to {group} except that it always keeps the same width (taken from Sketch) even when you resize it’s parent component (e.g. a {col}).&#x20;
 
 {% hint style="warning" %}
-**Note! **{group-fixed} is never wider that the size of it's parent element. 
+**Note! **{group-fixed} is never wider that the size of it's parent element.&#x20;
 {% endhint %}
 
 **Supports:**
@@ -284,7 +285,7 @@ This is a Sketch "Rectangle"-Shape
 {BG}
 ```
 
-Can be a rectangle or an image. 
+Can be a rectangle or an image.&#x20;
 
 {% hint style="info" %}
 **Pro tip!** Fill the {BG} with a nice linear gradient for really nice website backgrounds that are super lightweight in size. Use {container-fluid} and put the {BG} like below:
@@ -406,7 +407,7 @@ Creates an HTML text-input field.
 {navbar-light}
 ```
 
-Creates a Bootstrap Navbar element. 
+Creates a Bootstrap Navbar element.&#x20;
 
 **contains:** {nav}
 
@@ -529,7 +530,7 @@ Links to external assets such as fonts or your own custom style-sheets.
 1. Create a text node **(T)**
 2. Rename text node in the Layer List to **{externalasset.css}**
 3. In the text node itself, enter the url to the external asset
-4. Copy+paste this to each page that uses the external assets 
+4. Copy+paste this to each page that uses the external assets&#x20;
 {% endhint %}
 
 **When in doubt, use the demo document as a reference :)**
@@ -552,7 +553,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 
 * You have a mobile-size artboard (576px wide).
 * You have a {text} with font-size 18px.
-* You have a {text} with the class _js-font-fluid-10_ 
+* You have a {text} with the class _js-font-fluid-10_&#x20;
 
 ```
 {text} [js-font-fluid-10]
