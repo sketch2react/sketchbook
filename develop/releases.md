@@ -4,6 +4,24 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2021.3.10 (?)
+
+### Fixed
+
+* Artboard list is no longer cleared while loading
+* Left panel is now hidden when drag-and-drop:ing a design file onto the app
+* Fix for css classnames for {group} component
+* Border radius now works in Lunacy Sketch files
+* Reload now works as intended
+* The app now "remembers" your design file when switching between design- and settings.
+* Fix for "Artboard added" message
+* Simulator now works for Start artboard again
+* Artboards no longer reload when clicking on the currently active artboard in the explorer view
+* Fix for bug which caused the artboard render to crash while calculating stacking of { groups}
+* Minor UI fixes
+
+
+
 ## Version 2021.3.9 (?)
 
 ### **Added**
