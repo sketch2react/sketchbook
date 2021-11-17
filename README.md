@@ -26,10 +26,10 @@ Go from .sketchfiles (_via our framework_) to code really fast!
 
 > That gives you high fidelity code right from scratch 💪
 
-* Design with code snippets that're easy to learn! It's more like [**Markdown**](https://en.wikipedia.org/wiki/Markdown)****
+* Design with markup that's easy to learn! It's more like [**Markdown**](https://en.wikipedia.org/wiki/Markdown)****
 * Fully responsive
 * Zero plugins
-* Treat the layers view in Sketch as a very simple **code editor**
+* Treat the layers view in Sketch or Lunacy as a very simple **code editor**
 * Use CSS plugins
 * Offline mode
 * Hot reload
