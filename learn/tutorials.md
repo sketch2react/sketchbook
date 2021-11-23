@@ -22,15 +22,17 @@ We just released our Stratos Tokens Pocket Guide ebook that that contains many o
 
 {% embed url="https://medium.com/sketch2react/alter-your-stratos-tokens-projects-configuration-to-supercharge-your-design-tokens-addef8e952f3" %}
 
-{% embed url="https://medium.com/sketch2react/tutorial-how-to-work-with-google-material-ui-design-tokens-sketch-app-51db8c55760e" caption="We now have Figma support which we hadn\'t when writing this article" %}
+{% embed url="https://medium.com/sketch2react/tutorial-how-to-work-with-google-material-ui-design-tokens-sketch-app-51db8c55760e" %}
+We now have Figma support which we hadn't when writing this article
+{% endembed %}
 
 {% embed url="https://medium.com/sketch2react/introducing-stratos-tokens-app-9eaca96d9c22" %}
 
-{% embed url="https://medium.com/sketch2react/how-to-combine-design-tokens-with-material-ui-30a982c17c22" caption="We now have Figma support which we hadn\'t when writing this article" %}
+{% embed url="https://medium.com/sketch2react/how-to-combine-design-tokens-with-material-ui-30a982c17c22" %}
+We now have Figma support which we hadn't when writing this article
+{% endembed %}
 
 {% embed url="https://medium.com/sketch2react/tutorial-how-to-get-started-with-figma-projects-and-design-tokens-ea3f4a28c9ac" %}
-
-
 
 
 

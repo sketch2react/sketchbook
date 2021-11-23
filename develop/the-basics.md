@@ -6,13 +6,13 @@ description: The fundamental basics of the Stratos Tokens design token framework
 
 ## Introduction
 
-We have a few essential framework rules to get started using our app with Sketch or Figma. **It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for** [**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need. 
+We have a few essential framework rules to get started using our app with Sketch or Figma.** It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for **[**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need.&#x20;
 
 Or you can skip Style Dictionary altogether. This depends solely on how your team wants to implement design tokens into the code base.
 
 ## The raw output is json
 
-When you apply our **basic framework rules** on layers in Sketch and Figma what you see in our app is the raw design token **json data** 👇 
+When you apply our **basic framework rules** on layers in Sketch and Figma what you see in our app is the raw design token **json data **👇&#x20;
 
 ![](../.gitbook/assets/rawjsondata-tokens.png)
 
@@ -26,7 +26,7 @@ When you apply our **basic framework rules** on layers in Sketch and Figma what 
 
 The main reason is that many design systems actually use something called **theming** where you can do lots of magical things with "just" exporting json design tokens. [Material-UI](https://material-ui.com/customization/theming/) is one example and we even built a very [simple demo](https://marketplace.sketch2react.io/product/material-ui-demo/) for it.
 
-Also you don't even need a big fancy design system or theme provider to use the design tokens that comes out of Stratos Tokens. Here's a great read about [styling React components](https://medium.com/sketch2react/styling-react-components-using-stratos-design-tokens-dfe0e4e10247). Please advice that this article is from 2020 before we introduced our [breaking](https://sketch2react.gitbook.io/sketch2react-io/v/stratos-tokens-2021/develop/stratos-design-tokens/migrating-from-the-pre-release) framework change. 
+Also you don't even need a big fancy design system or theme provider to use the design tokens that comes out of Stratos Tokens. Here's a great read about [styling React components](https://medium.com/sketch2react/styling-react-components-using-stratos-design-tokens-dfe0e4e10247). Please advice that this article is from 2020 before we introduced our [breaking](https://sketch2react.gitbook.io/sketch2react-io/v/stratos-tokens-2021/develop/stratos-design-tokens/migrating-from-the-pre-release) framework change.&#x20;
 
 ## What if I need to do more?
 
@@ -64,7 +64,7 @@ The cool thing with Style Dictionary is that you can add even more so-called [Tr
 
 ![](../.gitbook/assets/rectangle-colors.png)
 
-* Rectangles without a fill results in border formatting. \(you get color, radius, and weight\). Pro-tip: Name your rectangle {\_color}_, {\_radius}_ or {\_weight}\_ to get **only** that value.
+* Rectangles without a fill results in border formatting. (you get color, radius, and weight). Pro-tip: Name your rectangle {\_color}_, {\_radius}_ or {\_weight}\_ to get **only** that value.
 * Text layers represent text formatting
 * Text layers with values within _**{ }**_ are evaluated👇
 
@@ -72,9 +72,11 @@ The cool thing with Style Dictionary is that you can add even more so-called [Tr
 
 * Text nodes with values within are considered as Style Dictionary references / shortcuts to be able to reuse values. These are also known as **alias tokens**.
 
-![Text layers with names that matches a CSS property will have only that CSS property&#x2019;s value](../.gitbook/assets/css-properties.png)
+![Text layers with names that matches a CSS property will have only that CSS property’s value](../.gitbook/assets/css-properties.png)
 
-* Text layers with names that matches a **CSS property** will have only that CSS property’s value \(as opposed to plain text layers, which will contain all CSS properties; see bullet 4 above\). Kindly note that the layer names need to be camel case \(i.e., {fontSize} or {fontFamily}\)
+*   Text layers with names that matches a **CSS property** will have only that CSS property’s value (as opposed to plain text layers, which will contain all CSS properties; see bullet 4 above). Kindly note that the layer names need to be camel case (i.e., {fontSize} or {fontFamily})
+
+
 
 ![](../.gitbook/assets/json-view.png)
 
@@ -91,4 +93,3 @@ We strongly recommend you reading our articles about how to get started with Sty
 When you feel comfortable, you can jump ahead and dive deep into Style Dictionary’s own [website](https://amzn.github.io/style-dictionary/#/). It’s not the easiest thing to grasp, specially if you have no code experience. That's one of the strongest reasons we actually built Stratos Tokens, we felt there is a gap here we can fill.
 
 No worries, we’ll keep writing easy-to-follow articles on all of these topics for a very long time. Keep tuned.
-

@@ -21,7 +21,7 @@ Figma support 🥳&#x20;
 * Please note that _Figma_ files does not support hot-reload like _Sketch_-files do. Instead you need to press the refresh button next on the far right on the _Artboards_ header in the _Explorer_ panel.
 * Please note that we currently **don't support creating shadow tokens via Figma**.
 
-![](../.gitbook/assets/ska-rmavbild-2021-06-22-kl.-15.18.57.png)
+![](<../.gitbook/assets/Skärmavbild 2021-06-22 kl. 15.18.57.png>)
 
 ### Fixes
 
@@ -127,11 +127,11 @@ Supported css properties for **Rectangles with borders** are:
 
 * A 10:th rule to Stratos Tokens. You can now name a Text Layer _style-dictionary-value_ to get the following output in Stratos Tokens App:
 
-![Example in your design tool](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.11.10.png)
+![Example in your design tool](<../.gitbook/assets/Skärmavbild 2020-05-13 kl. 10.11.10.png>)
 
-![Output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.08.30.png)
+![Output in Stratos Tokens](<../.gitbook/assets/Skärmavbild 2020-05-13 kl. 10.08.30.png>)
 
-![Result when building for scss with Style Dictionary](<../.gitbook/assets/ska-rmavbild-2020-05-13-kl.-10.28.51 (1).png>)
+![Result when building for scss with Style Dictionary](<../.gitbook/assets/Skärmavbild 2020-05-13 kl. 10.28.51 (1).png>)
 
 ## 1.0.7 - 2020-05-05
 
@@ -166,13 +166,13 @@ _Explorer view_ is now visible from the start.
 
 * The Stratos Tokens output of _Texts_ and _Rectangles_ which have names matching a CSS property is changed **from** displaying the property name e.g. _fontSize_
 
-![In Sketch / Figma / InVision Studio](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.17.44.png)
+![In Sketch / Figma / InVision Studio](<../.gitbook/assets/Skärmavbild 2020-04-17 kl. 16.17.44.png>)
 
-![Previously generated output in Stratos Tokens ](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.12.00.png)
+![Previously generated output in Stratos Tokens ](<../.gitbook/assets/Skärmavbild 2020-04-17 kl. 16.12.00.png>)
 
 **to** displaying _value_
 
-![New generated output in Stratos Tokens](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-16.06.35.png)
+![New generated output in Stratos Tokens](<../.gitbook/assets/Skärmavbild 2020-04-17 kl. 16.06.35.png>)
 
 This change is made to better match the expected input of Style Dictionary.
 
@@ -180,7 +180,7 @@ This change is made to better match the expected input of Style Dictionary.
 
 * All values defined in px such as font size, line height etc in _Sketch_, _Figma_ and _InVision Studio_ is now translated into unitless values (with a [base of 16px](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)). E.g. 72px / 16 = 4.5 This will be translated by Style Dictionary into platform specific units during Style Dictionary's build process. You can change to another base value by, in the ._stratosproject_ file, change the property _baseFontSizeInPx_
 
-![](../.gitbook/assets/ska-rmavbild-2020-04-17-kl.-15.55.45.png)
+![](<../.gitbook/assets/Skärmavbild 2020-04-17 kl. 15.55.45.png>)
 
 ### **Added:**
 
