@@ -6,7 +6,7 @@
 
 * [The basics 🔤](develop/the-basics.md)
 * [How it works 🧰](develop/stratos-design-tokens/README.md)
-  * [Going from demo to licensed product](develop/stratos-design-tokens/going-from-demo-to-licensed-product.md)
+  * [Going from demo to licensed product 💵](develop/stratos-design-tokens/going-from-demo-to-licensed-product.md)
   * [Migrating from the pre-release 🥏](develop/stratos-design-tokens/migrating-from-the-pre-release.md)
   * [Downgrading Style Dictionary 🔙](develop/stratos-design-tokens/downgrading-style-dictionary.md)
 * [Releases ✍️](develop/releases.md)

@@ -2,7 +2,7 @@
 description: So you still don't see our famous Style Dictionary support?
 ---
 
-# Going from demo to licensed product
+# Going from demo to licensed product 💵
 
 1. Make sure you have actually activated your license in Stratos Tokens
 2. Drag and drop the .sketch file and create a new Stratos Tokens project

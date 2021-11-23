@@ -16,7 +16,7 @@ You visually represent your **Design Tokens** in a design tool, [Sketch](https:/
 
 The **Stratos Tokens App**_ _reads your design file (without plugins, yupp, just like that) and generates a file with a JSON structure containing your design data. Then you either save the design data file (Design Tokens) or upload it to a repository like _NPMjs_.
 
-![Generated JSON-structure in Stratos Tokens App](<../../.gitbook/assets/Skärmklipp 2020-04-28 09.30.24.png>)
+![Generated JSON-structure in Stratos Tokens App](../../.gitbook/assets/ska-rmklipp-2020-04-28-09.30.24.png)
 
 {% hint style="success" %}
 The structure of the output JSON is a direct reflection of the structure in your design document.
@@ -130,7 +130,7 @@ If you don’t have the time/patience to read through all the steps; here’s th
 npm install — save stratos-designtokens-demo
 ```
 
-![It’s a big button, you can’t miss it. 😺👍](<../../.gitbook/assets/Skärmklipp 2020-04-28 09.39.41.png>)
+![It’s a big button, you can’t miss it. 😺👍](../../.gitbook/assets/ska-rmklipp-2020-04-28-09.39.41.png)
 
 ### Downloading
 
