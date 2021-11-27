@@ -12,7 +12,7 @@ description: >-
 
 * Use Sketch or Figma to create, update and distribute your **design tokens & theming code**
 * A single place to create and edit your styles
-* Reads the raw design file (Sketch) and generates a JSON-structure based on your design data (design tokens)
+* Reads the raw design file and generates a JSON-structure based on your design data (design tokens)
 * You can use **any setup you want**, you have 100% control over your design token & theming structure
 * Use [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens/) app to output your code
 * Supports Sketch & Figma files natively, no plugins are needed
