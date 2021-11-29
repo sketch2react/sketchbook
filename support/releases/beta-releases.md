@@ -6,6 +6,12 @@ coverY: -1103.3813495072025
 
 # Beta releases
 
+## Version 2021.3.15 (2021-11-29 public)
+
+### Added
+
+* All the below things that say _internal _😺💪
+
 ## Version 2021.3.11 (internal)
 
 ### Fixed
