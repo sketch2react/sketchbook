@@ -6,7 +6,7 @@ coverY: -1103.3813495072025
 
 # Beta releases
 
-## Version 2021.3.15 (2021-11-29 public)
+## [Version 2021.3.15](https://marketplace.sketch2react.io/product/sketch2react-demo/) (2021-11-29 public)
 
 ### Added
 
