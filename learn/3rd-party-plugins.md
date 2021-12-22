@@ -81,21 +81,21 @@ Here's a[ demo Sketch project](https://www.dropbox.com/sh/wnxnfk3ismaymad/AAC0CF
 
 ![Using Anima's Stacks works really well](../.gitbook/assets/animastackssnippet.gif)
 
-[Anima](https://www.animaapp.com) is a set of totally awesome plugins for Sketch that takes care of really tedious things such as making sure you have same padding and margins everywhere. Best thing, it works really well with our framework. The new feature **Group Padding **works great with our buttons and Stacks is perfect for keeping things neat inside of Sketch. Here's a [simple tutorial](https://medium.com/sketch2react/how-to-use-animas-group-padding-with-our-bootstrap-buttons-ee53fe81faf1).
+[Anima](https://www.animaapp.com) is a set of totally awesome plugins for Sketch that takes care of really tedious things such as making sure you have same padding and margins everywhere. Best thing, it works really well with our framework. The new feature **Group Padding** works great with our buttons and Stacks is perfect for keeping things neat inside of Sketch. Here's a [simple tutorial](https://medium.com/sketch2react/how-to-use-animas-group-padding-with-our-bootstrap-buttons-ee53fe81faf1).
 
 {% hint style="info" %}
 Download [this button](https://www.dropbox.com/s/ip005iknbvxyzy3/Anima%20Testing.sketch?dl=0) to see how this needs to be setup.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-**Important! **Using Anima does not take care of the actual settings in code, you still need to set everything up accordingly to our framework requirements. But it saves tons of time inside of Sketch, giving you a faster workflow.
+**Important!** Using Anima does not take care of the actual settings in code, you still need to set everything up accordingly to our framework requirements. But it saves tons of time inside of Sketch, giving you a faster workflow.
 {% endhint %}
 
 ![Anima Group Padding in action working with our buttons](../.gitbook/assets/animagrouppaddingsnippet.gif)
 
 ## [Rename it](https://github.com/rodi01/renameit)
 
-Naming layers correctly is a huge part of making sure our framework outputs code at all. Use [Rename it](https://github.com/rodi01/renameit)** **to batch rename things like text nodes into {text} components.
+Naming layers correctly is a huge part of making sure our framework outputs code at all. Use [Rename it](https://github.com/rodi01/renameit) **** to batch rename things like text nodes into {text} components.
 
 ![Rename It saves you time! ](../.gitbook/assets/capto\_capture-2018-10-03\_03-02-07\_pm.gif)
 

@@ -11,7 +11,8 @@
 
 ## Develop
 
-* [Basic components 💎](develop/components.md)
+* [Our components 💎](develop/components/README.md)
+  * [Beta components](develop/components/beta-components.md)
 * [Exporting to Code 🚚](develop/exporting-to-code.md)
 * [Code snippets 👩‍💻](develop/code-snippets.md)
 

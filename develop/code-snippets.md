@@ -16,16 +16,16 @@ coverY: 0
 
 1. Copy the code to a **blank new text document**, we usually use [Visual Studio Code](https://code.visualstudio.com/download) or [Sublime Text](https://www.sublimetext.com/3)
 2. You can use all of these snippets in the same document just don't forget when saving to add .css or .js to the name of the document e.g. _**mycustomcode.css**_ or _**mycustomcode.js**_
-3. Use the class name e.g _**.link **_and enter it like this \[link] on any of our components 👇
+3. Use the class name e.g _**.link**_ and enter it like this \[link] on any of our components 👇
 
 ![Here we're using our custom .link CSS attached to a reusable component aka symbol \[link\]](<../.gitbook/assets/CleanShot 2021-10-15 at 22.24.51@2x.png>)
 
 ### Linking to the external asset inside Sketch
 
 1. Drag the newly created .css or .js file to the Macs Terminal app, you will need the correct file path for linking this inside Sketch
-2. Copy the file entire file path to clipboard, it usually starts with_ /Users/…_
+2. Copy the file entire file path to clipboard, it usually starts with _/Users/…_
 3. In Sketch use the Text tool and copy the file path from clipboard into your artboard
-4. Add _file:// _just before _/Users/etcetc_ ending up with _**file:///Users/etcetc…**_
+4. Add _file://_ just before _/Users/etcetc_ ending up with _**file:///Users/etcetc…**_
 5. In the Side Panel name the text layer **{externalasset.css}** or **{externalasset.js}**
 6. Make sure to copy the text layer to all of the artboards using your custom code
 7. You can add as many {externalasset} layers as you need

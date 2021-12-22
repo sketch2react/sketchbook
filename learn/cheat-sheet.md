@@ -5,7 +5,7 @@ coverY: -681.2433661865049
 
 # Sketch2React Markup Cheat Sheet 📓
 
-We use our own markup based on **Atomic CSS, **to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of your .sketch file. And a few nifty shortcuts!
+We use our own markup based on **Atomic CSS,** to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of your .sketch file. And a few nifty shortcuts!
 
 {% hint style="success" %}
 Use our brand new 🤖👍[Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), a helping hand for remembering all those important framework rules 🙌
@@ -59,7 +59,7 @@ We also support popular **icon fonts** such as Ion Icons, Material Icons, Fontaw
 
 🎓⭐️**ProTip:** Use this awesome Sketch plugin called [Icon Font](https://github.com/keremciu/sketch-iconfont) for installing icon bundles.
 
-#### Example  <a href="example" id="example"></a>
+#### Example  <a href="#example" id="example"></a>
 
 ![](https://sketch2react.io/resources/LinkingFonts.png)
 
@@ -115,7 +115,7 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 * mb = margin bottom
 * mr = margin right
 
-#### Example  <a href="example" id="example"></a>
+#### Example  <a href="#example" id="example"></a>
 
 > mr78 = margin right 78px
 >
@@ -129,7 +129,7 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 * pb = padding bottom
 * pr = padding right
 
-#### Example  <a href="example" id="example"></a>
+#### Example  <a href="#example" id="example"></a>
 
 > pr78 = padding right 78px
 >
@@ -171,7 +171,7 @@ Non the less we do support xs-break point:
 
 > xs: Extra small devices (portrait phones, less than 576px)
 
-#### Example  <a href="example" id="example"></a>
+#### Example  <a href="#example" id="example"></a>
 
 > {col} sm:12 lg:6 - A Column covers 12 columns at the sm-breakpoint (576px+) and 6 columns at the lg-breakpoint (992px+)
 
@@ -179,7 +179,7 @@ Non the less we do support xs-break point:
 
 css-classes on elements are written within \[ ]. See chapter ”Paddings”, ”Margins” and ”Alignment”.
 
-#### Example  <a href="example" id="example"></a>
+#### Example  <a href="#example" id="example"></a>
 
 > {col} \[m20]
 

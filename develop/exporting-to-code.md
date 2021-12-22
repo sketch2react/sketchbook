@@ -49,17 +49,17 @@ sudo gem install cocoapods
 
 1. **Drag the entire exported folder** onto your preferred code editor, we always use [Visual Studio Code](https://code.visualstudio.com/Download) since it’s really nice (and free 🍬)
 2. In VSC 👉  **Terminal** 👉  **New Terminal**
-3. Just type `npm install`_` `_and hit enter key
+3. Just type `npm install`` `_``_ and hit enter key
 4. You have now installed Capacitor.js onto your project folder 👉 Yes! 💪  Not ready yet though, a couple of easy steps left, carry on soldier
 5. Type `npx cap init` and hit enter key. Capacitor will ask you a bunch of stuff, like what you want to call the app, where the www folder is etc. Do what is forced upon you and just be a happy camper 🏕️
 6. Now it’s time to do the real magic, installing all the files Xcode needs to automagically convert this to a **.xcode project**
-7. Type `npm install @capacitor/ios`_ _and hit enter
+7. Type `npm install @capacitor/ios` __ and hit enter
 8. One would assume you would be ready by now. You are assuming wrong dear Watson
-9. Type `npx cap add ios`_ _and hit enter key
+9. Type `npx cap add ios` __ and hit enter key
 
 Now comes the best command ever, hold on to your shorts or skirts 👇
 
-1. Type `npx cap open ios`_ _and like magic mushrooms Xcode will open up in the background and also open up the very same project you just created 👉  Huzzah!
+1. Type `npx cap open ios` __ and like magic mushrooms Xcode will open up in the background and also open up the very same project you just created 👉  Huzzah!
 
 ### How to install for Android
 
@@ -124,7 +124,7 @@ Download the latest build [from here](https://nodejs.org/en/download/)
 First of all, make sure you have **admin rights** to your computer or nothing of the below things will ever work.&#x20;
 
 1. Open **Terminal app**. You know that weird little app you maybe have been in contact with when doing funky stuff to your Mac 😆 It’s actually really friendly, don’t be afraid. But weird yes.
-2. Write **cd **and do a blank space
+2. Write **cd** and do a blank space
 3. Go to your dl Sketch2React .zip, unzip and drag drop the entire folder onto your Terminal window. Drop it precisely after the words cd + your blank space. It should look something like this cd /users/
 4. Hit Enter **↩︎**
 
@@ -159,7 +159,7 @@ By default, **Create React App** produces a build assuming your app is hosted at
 Here’s how you [change that](https://facebook.github.io/create-react-app/docs/deployment#building-for-relative-paths).&#x20;
 {% endhint %}
 
-Open up** package.json** and enter this very path below version:
+Open up **package.json** and enter this very path below version:
 
 ```
 "homepage": "http://mywebsite.com/relativepath",
@@ -171,7 +171,7 @@ Open up** package.json** and enter this very path below version:
 
 ![](../.gitbook/assets/2019-09-10-13.38.52.gif)
 
-1. First of all, make sure you _visit each and every page_ within our code app that you want to be included in your **Export Bundle. **Wait for the **Your Artboard was added to the export bundle **message to appear, it will take a few seconds per artboard, we're just making sure all the good stuff gets included 😺
+1. First of all, make sure you _visit each and every page_ within our code app that you want to be included in your **Export Bundle.** Wait for the **Your Artboard was added to the export bundle** message to appear, it will take a few seconds per artboard, we're just making sure all the good stuff gets included 😺
 2. Go to the **Side Bar** in our app and click **Download**
 3. Save to great place
 4. You know have a **.zip file** with all of your files, assets neatly organized in separate folders

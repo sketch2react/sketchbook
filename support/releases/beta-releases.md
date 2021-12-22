@@ -10,7 +10,7 @@ coverY: -1103.3813495072025
 
 ### Added
 
-* All the below things that say _internal _😺💪
+* All the below things that say _internal_ 😺💪
 
 ## Version 2021.3.11 (internal)
 

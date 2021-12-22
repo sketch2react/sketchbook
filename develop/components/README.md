@@ -3,25 +3,25 @@ description: >-
   Combine these to create your own, it's a bit like having Lego pieces to play
   with. Save as Sketch Symbols and reuse locally or share with anyone in your
   team.
-cover: ../.gitbook/assets/image-external@2x.png
+cover: ../../.gitbook/assets/image-external@2x.png
 coverY: 0
 ---
 
-# Basic components 💎
+# Our components 💎
 
 ## **Grid & Layout Components**
 
-These are for setting up grids and layouts in Sketch. You create all of them in Sketch** by creating Groups (⌘G) and renaming the groups accordingly.**
+These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups (⌘G) and renaming the groups accordingly.**
 
 ### **{container}**
 
-![Example of a {container} element](../.gitbook/assets/container.png)
+![Example of a {container} element](../../.gitbook/assets/container.png)
 
 ```
 {container}
 ```
 
-Creates a Bootstrap **Container **element. This is the outermost element in a Bootstrap grid.&#x20;
+Creates a Bootstrap **Container** element. This is the outermost element in a Bootstrap grid.&#x20;
 
 {% hint style="info" %}
 **Note:** You can also have {container} elements inside of {col} elements (known as nesting).
@@ -45,7 +45,7 @@ Creates a Bootstrap **Container **element. This is the outermost element in a Bo
 
 ### **{container-fluid}**
 
-![Example of a {container-fluid} element](../.gitbook/assets/containerfluid.png)
+![Example of a {container-fluid} element](../../.gitbook/assets/containerfluid.png)
 
 ```
 {container-fluid}
@@ -65,7 +65,7 @@ Creates a Bootstrap **Container-fluid** element. This element (as opposed to {co
 
 1. Create a text node **(T)**
 2. Group that text node **(⌘+G)**
-3. Rename group** {container-fluid}**
+3. Rename group **{container-fluid}**
 4. Delete text node _or_ name it {text}&#x20;
 {% endhint %}
 
@@ -83,9 +83,9 @@ Creates a Bootstrap **Row** element. A {row} is a direct child to {container} or
 > * Backgrounds {BG}
 
 {% hint style="info" %}
-#### **Pro tip! **
+#### **Pro tip!**&#x20;
 
-By adding the Bootstrap 4 class_ no-gutters_ you will remove gutters from child {col}.&#x20;
+By adding the Bootstrap 4 class _no-gutters_ you will remove gutters from child {col}.&#x20;
 
 Example:
 
@@ -109,7 +109,7 @@ Example:
 {col}
 ```
 
-Creates a Bootstrap** Column** element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements (Known as nesting). It is within this element you place all your content.
+Creates a Bootstrap **Column** element. A {col} is a direct child to {row}. {col} can contain {container} or {container-fluid} elements (Known as nesting). It is within this element you place all your content.
 
 **Supports:**
 
@@ -129,7 +129,7 @@ Creates a Bootstrap** Column** element. A {col} is a direct child to {row}. {col
 
 ### **{group}**
 
-`{group} `
+`{group}`&#x20;
 
 This is a **structural component** used as a helper to align it’s child-elements (vertically or horizontally). It supports classes, but not Sketch-styling.
 
@@ -158,7 +158,7 @@ The remaining space (the difference/delta between the child-elements total heigh
 This element is identical to {group} except that it always keeps the same width (taken from Sketch) even when you resize it’s parent component (e.g. a {col}).&#x20;
 
 {% hint style="warning" %}
-**Note! **{group-fixed} is never wider that the size of it's parent element.&#x20;
+**Note!** {group-fixed} is never wider that the size of it's parent element.&#x20;
 {% endhint %}
 
 **Supports:**
@@ -175,7 +175,7 @@ A generic component well suited for implementing things such as other grid syste
 
 ## Basic Components
 
-These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch** by using the Shape Tools. Images you import.**
+These are for common design tasks such as texts, images & backgrounds. You create all of them in Sketch **by using the Shape Tools. Images you import.**
 
 ### **{text}**
 
@@ -199,7 +199,7 @@ You can set which kind of HTML element should be created by specifying e.g. _{te
 {text.span}
 ```
 
-**Supports: **Text styles
+**Supports:** Text styles
 
 ### **{image}**
 
@@ -216,7 +216,7 @@ Creates an image with a responsive size. It scales according to available width.
 **Since:** v0.0.5
 
 {% hint style="success" %}
-**ProTip! **Make sure to export/reimport your assets at the @2x resolution so that you don't get fuzzy edges on retina resolution screens.
+**ProTip!** Make sure to export/reimport your assets at the @2x resolution so that you don't get fuzzy edges on retina resolution screens.
 {% endhint %}
 
 ### **{image-fixed}**
@@ -247,11 +247,11 @@ Host images, GIFs and even animated SVGs externally. Download [these .sketchfile
 
 * classes \[ ]
 
-**Since: **v2021.2.7
+**Since:** v2021.2.7
 
 ### {rectangle}
 
-![The {rectangle} component is perfect for quick wireframing](../.gitbook/assets/wireframes.gif)
+![The {rectangle} component is perfect for quick wireframing](../../.gitbook/assets/wireframes.gif)
 
 ```
 {rectangle}
@@ -270,7 +270,7 @@ By adding the Bootstrap class \[rounded-circle] to the {rectangle} you'll get a 
 This is a Sketch "Rectangle"-Shape
 
 {% hint style="success" %}
-**Pro tip! **This is an awesome way to create responsive wireframes 🎉
+**Pro tip!** This is an awesome way to create responsive wireframes 🎉
 {% endhint %}
 
 **Supports:**
@@ -291,11 +291,11 @@ Can be a rectangle or an image.&#x20;
 **Pro tip!** Fill the {BG} with a nice linear gradient for really nice website backgrounds that are super lightweight in size. Use {container-fluid} and put the {BG} like below:
 {% endhint %}
 
-![](../.gitbook/assets/containerfluidbg.png)
+![](../../.gitbook/assets/containerfluidbg.png)
 
 **Since:** v0.0.5
 
-**Supports: **Layer styles
+**Supports:** Layer styles
 
 ### {oval}
 
@@ -313,7 +313,7 @@ Using the **O** inside of Sketch you can create an oval element.
 
 ## **Interactive Components**
 
-These are all of our interactive components like buttons, navigation, forms. These are a bit more complex but still use only native Sketch tools.** Please refer to our many demo files and study our interactive components.**
+These are all of our interactive components like buttons, navigation, forms. These are a bit more complex but still use only native Sketch tools. **Please refer to our many demo files and study our interactive components.**
 
 ### **{button-primary} (Symbol)**
 
@@ -336,7 +336,7 @@ Creates a Bootstrap primary button element. You need to use the symbol _Primary-
 {button-secondary} 
 ```
 
-Creates a Bootstrap secondary button element. You need to use the symbol _Secondary-button _from the Sketch demo-document!
+Creates a Bootstrap secondary button element. You need to use the symbol _Secondary-button_ from the Sketch demo-document!
 
 **Supports:**
 
@@ -370,7 +370,7 @@ Creates an HTML-form. Use the Form-symbol from the demo-document as reference.
 
 Use the Form-symbol from the demo-document as reference.
 
-**contains: **{button-submit}, {form-group}, {attribute.action}, {attribute.method}
+**contains:** {button-submit}, {form-group}, {attribute.action}, {attribute.method}
 
 ```
 {form}
@@ -478,13 +478,13 @@ Creates a navigation-link (HTML \[a] tag). You need to use the symbol _nav-item_
 {nav-item-active}
 ```
 
-Creates an active-style navigation-link (HTML \[a] tag). You need to use the symbol _nav-item-active _from the Sketch demo-document!
+Creates an active-style navigation-link (HTML \[a] tag). You need to use the symbol _nav-item-active_ from the Sketch demo-document!
 
 **Since:** v0.0.5
 
 **Updates:** v0.0.55 - Now possible to style
 
-![{link} is awesome! Link anything to anywhere 👍🎆](../.gitbook/assets/2019-09-08-15.14.45.gif)
+![{link} is awesome! Link anything to anywhere 👍🎆](../../.gitbook/assets/2019-09-08-15.14.45.gif)
 
 ### {link} (Symbol)
 
@@ -537,7 +537,7 @@ Links to external assets such as fonts or your own custom style-sheets.
 
 **Since:** v0.0.5
 
-### **{externalasset.js}** <a href="5084" id="5084"></a>
+### **{externalasset.js}** <a href="#5084" id="5084"></a>
 
 It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
 
@@ -546,7 +546,7 @@ It is now possible to add your own javascript-files to your HTML-exports. This a
 ### Fluid fonts
 
 {% hint style="success" %}
-**Pro tip! **By adding the class_ js-font-fluid-12_ you will have fluid font-size. The last part (12) refers to the number of px the font will span between. This is also dependent of the artboard size.
+**Pro tip!** By adding the class _js-font-fluid-12_ you will have fluid font-size. The last part (12) refers to the number of px the font will span between. This is also dependent of the artboard size.
 {% endhint %}
 
 #### First example
