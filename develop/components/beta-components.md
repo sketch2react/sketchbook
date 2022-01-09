@@ -16,3 +16,4 @@ These are for setting up a quick prototype workflow. You create all of them in S
 {prototype}
 ```
 
+{% embed url="https://youtu.be/mVmEC-xXdiE" %}
