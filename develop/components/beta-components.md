@@ -6,7 +6,7 @@ description: New components only available in the beta of Sketch2React 2021
 
 ## Prototype components
 
-These are for setting up a quick prototype workflow. You create all of them in Sketch **by creating Groups (⌘G) and renaming the groups accordingly.**
+These are for setting up a [quick prototype workflow.](https://sketch2react.io/blog/introducing-prototype-for-sketch-and-lunacy/) You create all of them in Sketch **by creating Groups (⌘G) and renaming the groups accordingly.**
 
 ### **{prototype}**
 
