@@ -1,7 +1,5 @@
 ---
-description: >-
-  A place to read everything about the next version of Sketch2React, currently
-  in beta
+description: Breath in the air of knowledge dear scholar!
 ---
 
 # Welcome to Marcode Docs 🏡
@@ -11,7 +9,7 @@ description: >-
 ![](.gitbook/assets/builtforsketchbigsur.jpg)
 
 {% hint style="success" %}
-Go from .sketchfiles (_via our framework_) to code really fast!
+Go from .sketchfiles to code really fast!
 
 ### Marcode is:
 
