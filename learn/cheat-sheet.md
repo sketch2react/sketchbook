@@ -1,9 +1,9 @@
 # Markup cheat sheet 📓
 
-We use our own markup based on **Atomic CSS,** to tell Sketch what it needs to tell the React app of how things are positioned. Here’s a few guidelines on how to write code inside of your .sketch file. And a few nifty shortcuts!
+We use our own markup based on **Atomic CSS,** to tell Sketch and Lunacy what it needs to tell Marcode of how things are positioned and what they are. Here are a few guidelines on how to write the markup inside of your .sketch file, and a few nifty shortcuts!
 
 {% hint style="success" %}
-Use our brand new 🤖👍[Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), a helping hand for remembering all those important framework rules 🙌
+Use our 🤖👍[Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), a helping hand for remembering all those important framework rules 🙌 Works with both Sketch2React and Marcode ✅
 {% endhint %}
 
 ## Pages & Artboards
