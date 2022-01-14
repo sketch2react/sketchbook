@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Sketch2React Beta 🏡](README.md)
+* [Welcome to Marcode Docs 🏡](README.md)
 
 ## Learn
 
@@ -8,7 +8,7 @@
 * [Sketch Assistant Rules Explained 📐](learn/sketch2react-core-assistant.md)
 * [Tutorials 📼](learn/tutorials.md)
 * [3rd Party Plugins & Apps ⚙️](learn/3rd-party-plugins.md)
-* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared_invite/zt-6tc9x0xd-sQs14w3aQ8JNcSVAaY17Hw)
+* [Join our Slack 👯‍♂️](https://join.slack.com/t/sketch2react/shared\_invite/zt-6tc9x0xd-sQs14w3aQ8JNcSVAaY17Hw)
 * [Download Resources 🎁](https://sketch2react.io/resources.php)
 
 ## Develop
@@ -20,4 +20,3 @@
 ## Support
 
 * [FAQ❓](support/faq.md)
-

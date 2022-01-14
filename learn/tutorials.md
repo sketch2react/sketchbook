@@ -10,7 +10,7 @@ Check out all of our tutorials on our[ Youtube](https://www.youtube.com/c/Sketch
 
 ## Tutorial👉From Sketch to Xcode using Capacitor.js
 
-Did you know that you can start in Sketch + Sketch2React and then use something amazing called Capacitor to build cross-platform apps? Neither did we until a few weeks back. 
+Did you know that you can start in Sketch + Sketch2React and then use something amazing called Capacitor to build cross-platform apps? Neither did we until a few weeks back.&#x20;
 
 {% embed url="https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-using-capacitorjs/" %}
 
@@ -34,19 +34,19 @@ Did you know that you can start in Sketch + Sketch2React and then use something 
 
 {% embed url="https://medium.com/sketch2react/best-of-twitter-pro-tips-part-1-2386b64924fd" %}
 
-## How to use Sketch2React for Quick Responsive Prototyping <a id="089e"></a>
+## How to use Sketch2React for Quick Responsive Prototyping <a href="#089e" id="089e"></a>
 
 {% embed url="https://medium.com/sketch-app-sources/how-to-use-sketch2react-for-quick-responsive-prototyping-cf02bce4e5b0" %}
 
-## How to add CSS Plugins - Step by Step Tutorial <a id="7b59"></a>
+## How to add CSS Plugins - Step by Step Tutorial <a href="#7b59" id="7b59"></a>
 
 {% embed url="https://medium.com/sketch2react/css-animations-inside-of-sketch-with-sketch2react-d5d248633ac0" %}
 
 ## How To Add Custom CSS Plugins
 
-{% embed url="https://youtu.be/erHTK\_dRD24" %}
+{% embed url="https://youtu.be/erHTK_dRD24" %}
 
-{% embed url="https://www.youtube.com/watch?v=Hm6TvA8q9\_c" %}
+{% embed url="https://www.youtube.com/watch?v=Hm6TvA8q9_c" %}
 
 ## Images as Links with Hover Effects Tutorial
 
@@ -66,15 +66,17 @@ Did you know that you can start in Sketch + Sketch2React and then use something 
 
 ## How to add margins between {col}umns
 
-{% embed url="https://youtu.be/6\_BTuHVfRaA" %}
+{% embed url="https://youtu.be/6_BTuHVfRaA" %}
 
-##  How the Plugin Works
+\
+How the Plugin Works
+--------------------
 
 {% embed url="https://youtu.be/1JA2PUsJlN4" %}
 
 ## Layer ordering
 
-{% embed url="https://youtu.be/EYD0zJh\_0So" %}
+{% embed url="https://youtu.be/EYD0zJh_0So" %}
 
 ## How To Change Button Color
 
@@ -88,11 +90,11 @@ Did you know that you can start in Sketch + Sketch2React and then use something 
 
 {% embed url="https://medium.com/sketch2react/how-to-add-haiku-animations-to-sketch2react-5b921c8ab11b" %}
 
-## How to create image links with hover effects <a id="a549"></a>
+## How to create image links with hover effects <a href="#a549" id="a549"></a>
 
 {% embed url="https://medium.com/sketch2react/how-to-create-image-links-and-style-them-with-hover-effects-a02858f238ea" %}
 
-## How our Previewer Web App works <a id="d106"></a>
+## How our Previewer Web App works <a href="#d106" id="d106"></a>
 
 {% embed url="https://medium.com/sketch2react/how-our-previewer-app-works-dc29ab80838e" %}
 
@@ -107,6 +109,4 @@ Did you know that you can start in Sketch + Sketch2React and then use something 
 ## React Export - Routing
 
 {% embed url="https://youtu.be/fp6RYhMvPmQ" %}
-
-
 

@@ -4,6 +4,16 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2021.3.11 (?)
+
+### Fixed
+
+* Links between artboards now work as intended when linking back to "Start" artboard
+* Updated the README file of the Capacitor export to also include instructions for Android
+* Improved the support for cordova-res, by adding andoid specific icon images
+* Fixed Big Sur scrollbar bug
+* Minor UI improvements
+
 ## Version 2021.3.10 (?)
 
 ### Fixed
