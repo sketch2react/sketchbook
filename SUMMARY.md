@@ -4,7 +4,7 @@
 
 ## Learn
 
-* [Sketch2React Markup Cheat Sheet 📓](learn/cheat-sheet.md)
+* [Markup cheat sheet 📓](learn/cheat-sheet.md)
 * [Sketch Assistant Rules Explained 📐](learn/sketch2react-core-assistant.md)
 * [Tutorials 📼](learn/tutorials.md)
 * [3rd Party Plugins & Apps ⚙️](learn/3rd-party-plugins.md)
