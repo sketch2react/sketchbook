@@ -4,12 +4,12 @@ description: Breath in the air of knowledge dear scholar!
 
 # Welcome to Marcode Docs 🏡
 
-## Go from design file out to HTML, iOS, Android using easy markup
+## Go from design file out to Xcode,iOS, Android & HTML
 
 ![](.gitbook/assets/builtforsketchbigsur.jpg)
 
 {% hint style="success" %}
-Go from .sketchfiles to code really fast!
+Go from design file to code really fast!
 
 ### Marcode is:
 
