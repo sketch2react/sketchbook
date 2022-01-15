@@ -37,14 +37,14 @@ Marcode is a **companion app for Sketch and Lunacy** that reads the .sketch file
 * Export to HTML package that includes .html, css and all relevant files
 
 {% hint style="success" %}
-Also download our [Sketch Assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), it's 100% compatible with Marcode awesome
+Also download our [Sketch Assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/), it's 100% compatible with Marcode
 {% endhint %}
 
 ## Software requirements
 
-* [Sketch](https://sketch.com) 68–77
-* [Sketch2React 2021](https://marketplace.sketch2react.io/product/sketch2react/)
-* OSX Catalina or Big Sur (requires v70+ of Sketch app)
+* [Sketch](https://sketch.com) 70+ or [Lunacy](https://apps.apple.com/se/app/icons8-lunacy/id1582493835?mt=12)
+* Marcode
+* OSX Catalina, Big Sur or Monterey
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) (not required but nice to have)
 
-Sketch2React Beta 2021.3+ - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2021
+Marcode v2022.1.0 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2022
