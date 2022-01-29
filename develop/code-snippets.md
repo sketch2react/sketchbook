@@ -76,13 +76,13 @@ coverY: 0
 }
 ```
 
-### What it does
+#### What it does
 
 Creates a simple animated line under any component that uses our {link} component. Feel free to change the height, color animation or anything else.
 
 📗[Original source](https://coreymoen.notion.site/coreymoen/de3afdae4ffe481d8afe33bf52de2346?v=b20394b5d9774b90b146b59eb6888637\&p=e094fc3bc295452d8b7be6ea858a978a)
 
-## Flexbox Equal Heights
+### Flexbox Equal Heights
 
 A great trick to balance your designs in code is to use equal heights on things such as column backgrounds etc. Here's a neat snippet using only css flexbox.
 
