@@ -38,7 +38,7 @@ coverY: 0
 
 ![Our code editor plugin (early build) makes this process so much more enjoyable](<../.gitbook/assets/CleanShot 2022-01-28 at 17.25.28@2x.png>)
 
-1. Open up the folder _Experimental_ that comes with your Sketch2React 2021 + license purchase
+1. Open up the folder _Experimental_ that comes with your [Sketch2React 2021 + license](https://marketplace.sketch2react.io/product/sketch2react/) purchase
 2. Install the plugin called _sketch2react-code.sketchplugin_
 3. Open up Sketch, create a new document and create your Sketch2React magic
 4. Launch our code editor plugin
@@ -81,4 +81,21 @@ coverY: 0
 Creates a simple animated line under any component that uses our {link} component. Feel free to change the height, color animation or anything else.
 
 📗[Original source](https://coreymoen.notion.site/coreymoen/de3afdae4ffe481d8afe33bf52de2346?v=b20394b5d9774b90b146b59eb6888637\&p=e094fc3bc295452d8b7be6ea858a978a)
+
+## Flexbox Equal Heights
+
+A great trick to balance your designs in code is to use equal heights on things such as column backgrounds etc. Here's a neat snippet using only css flexbox.
+
+![OMG it's aaaaaawesome, right? 🐹](../.gitbook/assets/equalheights.gif)
+
+```css
+// .flexbox {
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+overflow: hidden;
+}
+```
+
+
 
