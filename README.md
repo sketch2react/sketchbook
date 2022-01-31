@@ -5,7 +5,7 @@ coverY: 0
 
 # Welcome to Sketch2React 🏡
 
-## Go from Sketch file to Xcode, iOS, Android & Web app&#x20;
+## Build in Sketch, deploy to React, Xcode, iOS, Android & Web app&#x20;
 
 ### **No coding, just markup**
 
