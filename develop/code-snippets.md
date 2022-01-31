@@ -89,7 +89,7 @@ A great trick to balance your designs in code is to use equal heights on things 
 ![OMG it's aaaaaawesome, right? 🐹](../.gitbook/assets/equalheights.gif)
 
 ```css
-// .flexbox {
+.flexbox {
 display: -ms-flexbox;
 display: -webkit-flex;
 display: flex;
