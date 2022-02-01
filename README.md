@@ -12,11 +12,11 @@ coverY: 0
 ![](.gitbook/assets/builtforsketchbigsur.jpg)
 
 {% hint style="success" %}
-Go from .sketchfiles (_via our framework_) to code really fast!
+Go from .sketchfiles (_via our markup_) to code really fast!
 
 ### Sketch2React is:
 
-* **Markdown framework,** [**code app**](https://marketplace.sketch2react.io/product/sketch2react/)**,** [**Sketch assistant**](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/)****
+* **Responsive markup,** [**code app**](https://marketplace.sketch2react.io/product/sketch2react/)**,** [**Sketch assistant**](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/)****
 * **Website HTML project export**
 * **Website React project export** (via create-react-app)
 * Export **directly to iOS & Android** with built-in[ Capacitor.js export](https://sketch2react.gitbook.io/sketch2react-io/develop/exporting-to-code#export-to-capacitor-js)
