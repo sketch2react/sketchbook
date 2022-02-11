@@ -44,9 +44,9 @@ Also download our [Sketch Assistant](https://www.sketch.com/extensions/assistant
 
 ## Software requirements
 
-* [Sketch](https://sketch.com) 70+ or [Icons 8 Lunacy](https://apps.apple.com/se/app/icons8-lunacy/id1582493835?mt=12)
+* [Sketch](https://sketch.com) 80+ or [Icons 8 Lunacy](https://apps.apple.com/se/app/icons8-lunacy/id1582493835?mt=12)
 * Marcode 2022
 * OSX Catalina, Big Sur or Monterey
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) (not required but nice to have)
 
-Marcode v2022.1.0 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2022
+Marcode v2022.5.0 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2022
