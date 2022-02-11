@@ -4,16 +4,16 @@ description: Breath in the air of knowledge dear scholar!
 
 # Welcome to Marcode Docs 🏡
 
-## Build in Sketch or Icons8 Lunacy, deploy to code
+## Build in design app, deploy to code
 
-![](.gitbook/assets/builtforsketchbigsur.jpg)
+![](.gitbook/assets/Marcode-MoneyShot.png)
 
 {% hint style="success" %}
 Go from design file to code really fast!
 
 ### Marcode is:
 
-* **Markup,** [**code app**](https://marketplace.sketch2react.io/product/sketch2react/)**,** [**Sketch assistant**](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/)****
+* **Markup,** [**code app**](https://marketplace.sketch2react.io/product/sketch2react/)
 * **Automatic generation of CSS & CSS Modules**
 * **Website HTML project export**
 * Export **directly to iOS & Android** with built-in[ Capacitor.js export](https://sketch2react.gitbook.io/sketch2react-io/develop/exporting-to-code#export-to-capacitor-js)
