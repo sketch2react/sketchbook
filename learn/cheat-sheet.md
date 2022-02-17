@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxncmFkaWVudHxlbnwwfHx8fDE2NDUwODk5NDQ&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Markup cheat sheet 📓
 
 We use our own markup based on **Atomic CSS,** to tell Sketch and Lunacy what it needs to tell Marcode of how things are positioned and what they are. Here are a few guidelines on how to write the markup inside of your .sketch file, and a few nifty shortcuts!
@@ -9,7 +15,7 @@ Use our 🤖👍[Sketch assistant](https://www.sketch.com/extensions/assistants/
 ## Pages & Artboards
 
 {% hint style="info" %}
-The **page** (in Sketch) where you have your designs that you want to render in our app must be named _**Start here** or **App**_. The **first artboard** you want to render needs to be named _**Start**_ or else it will not work. Please study our demo files when in confusion, they will teach you a lot.
+The **page** (in Sketch or Icons8 Lunacy) where you have your designs that you want to render in our app must be named _**App**_. The **first artboard** you want to render needs to be named _**Start**_ or else it will not work. Please study our demo files when in confusion, they will teach you a lot.
 {% endhint %}
 
 ## Images
