@@ -2,9 +2,36 @@
 description: >-
   Here's all of our current code components and their categories. All of these
   output workable code via Marcode. Neat right?!
+coverY: 0
 ---
 
 # Components 💎
+
+## Rapid Prototyping Components
+
+When you don't have the time needed to build actual real code components we strongly recommend starting with these. They can be combined with all of our other components, making them very powerful.
+
+### {prototype}
+
+Bla bla bla bla
+
+#### **Supports:**
+
+> * classes \[ ]
+> * Backgrounds {BG}
+
+**Since:** v0.0.5
+
+### {prototype-fluid}
+
+Bla bla ha bla ha&#x20;
+
+#### **Supports:**
+
+> * classes \[ ]
+> * Backgrounds {BG}
+
+**Since:** v0.0.5
 
 ## **Grid & Layout Components**
 
