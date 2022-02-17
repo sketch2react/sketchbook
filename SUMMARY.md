@@ -7,7 +7,6 @@
 * [Markup cheat sheet 📓](learn/cheat-sheet.md)
 * [Components 💎](learn/components.md)
 * [Exporting to Code 🚚](learn/exporting-to-code.md)
-* [Releases ✍️](learn/releases.md)
 * [Sketch Assistant Rules Explained 📐](learn/sketch2react-core-assistant.md)
 
 ## goodies
@@ -18,3 +17,4 @@
 ## Support
 
 * [FAQ❓](support/faq.md)
+* [Releases ✍️](support/releases.md)
