@@ -13,25 +13,37 @@ When you don't have the time needed to build actual real code components we stro
 
 ### {prototype}
 
-Bla bla bla bla
+This component outputs an absolute positioned html element based on the x- and y-coordinates of the {prototype} Sketch layer/group relative to the artboard. It also has a fixed size based on the size of the Sketch group's frame.&#x20;
+
+This components supports Sketch Prototyping with hotspots and "fixed position when scrolling".
+
+#### Code output:
+
+A \<div> element. If Sketch prototype hotspot has been added to the {prototype} layer in Sketch the \<div> is wrapped by an anchor tag (\<a>) E.g: \<a>\<div>\[CONTENT OF PROTOTYPE SKETCH GROUP]\</div>\</a>
 
 #### **Supports:**
 
 > * classes \[ ]
-> * Backgrounds {BG}
+> * Sketch prototype with Hotspots (incl. "fixed position when scrolling")
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ### {prototype-fluid}
 
-Bla bla ha bla ha&#x20;
+Like {prototype} but it fills the entire width of the viewport.
+
+It takes into account the x-offset (distance from the left edge of the artboard to the left edge of the {prototype-fluid} layer's frame) and adds an equal amount of margin on the opposite side to make it look centered.
+
+#### Code output:
+
+A \<div> element. If Sketch prototype hotspot has been added to the {prototype} layer in Sketch the \<div> is wrapped by an anchor tag (\<a>) E.g: \<a>\<div>\[CONTENT OF PROTOTYPE SKETCH GROUP]\</div>\</a>
 
 #### **Supports:**
 
 > * classes \[ ]
-> * Backgrounds {BG}
+> * Sketch prototype with Hotspots (incl. "fixed position when scrolling")
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ## **Grid & Layout Components**
 
