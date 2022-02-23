@@ -32,7 +32,7 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 
 Like {prototype} but it fills the entire width of the viewport.
 
-It takes into account the x-offset (distance from the left edge of the artboard to the left edge of the {prototype-fluid} layer's frame) and adds an equal amount of margin on the opposite side to make it look centered.
+Note: It takes into account the x-offset (distance from the left edge of the artboard to the left edge of the {prototype-fluid} layer/group's frame) and deducts an equal amount of spacing on the opposite side to make it look centered.
 
 #### Code output:
 
