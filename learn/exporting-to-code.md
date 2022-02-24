@@ -47,9 +47,9 @@ Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-
 
 ## Export to HTML
 
-![](../.gitbook/assets/2019-09-10-13.38.52.gif)
 
-1. First of all, make sure you _visit each and every page_ within our code app that you want to be included in your **Export Bundle.** Wait for the **Your Artboard was added to the export bundle** message to appear, it will take a few seconds per artboard, we're just making sure all the good stuff gets included 😺
-2. Go to the **Side Bar** in our app and click **Download**
-3. Save to great place
-4. You know have a **.zip file** with all of your files, assets neatly organized in separate folders
+
+1. Make sure you have visited each artboard in Marcode’s Explorer once
+2. Open up the Export view **⌘E** and choose **Ionic Capacitor**
+3. Select a directory for your exported **project folder**
+4. Hit the Export button and you’re done ✅
