@@ -102,7 +102,9 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 
 > * classes \[ ]
 
-****
+**Since:** v0.0.5
+
+**Updates:** v0.0.55 - Fluid font support
 
 ## Margins
 

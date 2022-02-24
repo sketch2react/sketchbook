@@ -1,5 +1,8 @@
 ---
 description: Breath in the air of knowledge dear scholar!
+cover: >-
+  https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxncmFkaWVudHxlbnwwfHx8fDE2NDU2OTcwMTY&ixlib=rb-1.2.1&q=85
+coverY: -11.1340206185567
 ---
 
 # Welcome to Marcode Docs 🏡

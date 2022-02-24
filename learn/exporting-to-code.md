@@ -4,11 +4,11 @@ description: All you need to know about Sketch2React's different ways of exporti
 
 # Exporting to Code 🚚
 
-## Export to Capacitor.js&#x20;
+## Export to Ionic Capacitor (iOS, Android)
 
 ![Wanna go directly to iOS & Android? Who wouldn't 😺💪](../.gitbook/assets/s2r202121-update-2.png)
 
-You now also can export directly to iOS & Android project via something awesome called [Capacitor.js](https://capacitorjs.com)
+You can export directly to iOS & Android project via something awesome called Ionic [Capacitor.js](https://capacitorjs.com)
 
 1. Make sure you have [all links between pages](https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-the-no-code-way/) working and that you have visited each page once (it gets added to our export bundle that way)
 2. Click on the Download button 👉 **Download Capacitor project**
