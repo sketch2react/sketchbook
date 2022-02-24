@@ -68,7 +68,7 @@ Creates a Bootstrap **Container** element. This is the outermost element in a Bo
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 {% hint style="success" %}
 #### How to add in Sketch:
@@ -94,7 +94,7 @@ Creates a Bootstrap **Container-fluid** element. This element (as opposed to {co
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 {% hint style="success" %}
 #### How to add in Sketch:
@@ -128,7 +128,7 @@ Example:
 #### {row} \[no-gutters]
 {% endhint %}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 {% hint style="success" %}
 #### How to add in Sketch:
@@ -152,7 +152,7 @@ Creates a Bootstrap **Column** element. A {col} is a direct child to {row}. {col
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 {% hint style="success" %}
 #### How to add in Sketch:
@@ -185,7 +185,7 @@ The remaining space (the difference/delta between the child-elements total heigh
 
 > * classes \[ ]
 
-**Since:** v0.6.0
+**Since:** v2022.0.1
 
 ### {group-fixed}
 
@@ -201,13 +201,13 @@ This element is identical to {group} except that it always keeps the same width 
 
 > * classes \[ ]
 
-**Since:** v0.6.0
+**Since:** v2022.0.1
 
 ### {div}
 
 A generic component well suited for implementing things such as other grid systems (e.g. [MaterialUI grid](https://www.muicss.com)) or construct your own components!
 
-**Since:** 1.6.4 pre-release
+**Since:** v2022.0.1
 
 ## Basic Components
 
@@ -249,7 +249,7 @@ Creates an image with a responsive size. It scales according to available width.
 
 > * classes \[ ]
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 {% hint style="success" %}
 **ProTip!** Make sure to export/reimport your assets at the @2x resolution so that you don't get fuzzy edges on retina resolution screens.
@@ -267,11 +267,9 @@ Creates an image with fixed width and height (taken from Sketch).
 
 > * classes \[ ]
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ### {rectangle}
-
-![The {rectangle} component is perfect for quick wireframing](../.gitbook/assets/wireframes.gif)
 
 ```
 {rectangle}
@@ -297,7 +295,7 @@ This is a Sketch "Rectangle"-Shape
 
 > * classes \[ ]
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **{BG}**
 
@@ -313,7 +311,7 @@ Can be a rectangle or an image.&#x20;
 
 ![](../.gitbook/assets/containerfluidbg.png)
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 **Supports:** Layer styles
 
@@ -329,7 +327,7 @@ Using the **O** inside of Sketch you can create an oval element.
 
 > * classes \[ ]
 
-**Since:** v0.60
+**Since:** v2022.0.1
 
 ## **Interactive Components**
 
@@ -348,7 +346,7 @@ Creates a Bootstrap primary button element. You need to use the symbol _Primary-
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ### **{button-secondary} (Symbol)**
 
@@ -363,7 +361,7 @@ Creates a Bootstrap secondary button element. You need to use the symbol _Second
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ### {button-submit} (Symbol)
 
@@ -378,13 +376,13 @@ Creates a Bootstrap-style submit button. This is used for {form}.
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **Form (Symbol)**
 
 Creates an HTML-form. Use the Form-symbol from the demo-document as reference.
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **{form}**
 
@@ -396,7 +394,7 @@ Use the Form-symbol from the demo-document as reference.
 {form}
 ```
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **{form-group}**
 
@@ -408,7 +406,7 @@ Use the Form-symbol from the demo-document as reference.
 {form-group}
 ```
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **{input} (Symbol)**
 
@@ -419,7 +417,7 @@ Creates an HTML text-input field.
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.55
+**Since:** v2022.0.1
 
 ### **{navbar-light}**
 
@@ -437,9 +435,9 @@ Creates a Bootstrap Navbar element.&#x20;
 > * Backgrounds {BG}
 > * Breakpoints (xs, sm, md, lg, xl) See cheetsheet for details.
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Now possible to style
+**Updates:** Now possible to style
 
 ### **{navbar-dark}**
 
@@ -457,9 +455,9 @@ Creates a Bootstrap Navbar element.
 > * Backgrounds {BG}
 > * Breakpoints (xs, sm, md, lg, xl) See cheetsheet for details.
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Now possible to style
+**Updates:** Now possible to style
 
 ### **{nav}**
 
@@ -476,9 +474,9 @@ Creates a Bootstrap Nav element. Contains one or more {nav-item} and {nav-item-a
 > * classes \[ ]
 > * Backgrounds {BG}
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Now possible to style
+**Updates:** Now possible to style
 
 ### **{nav-item} (Symbol)**
 
@@ -488,9 +486,9 @@ Creates a Bootstrap Nav element. Contains one or more {nav-item} and {nav-item-a
 
 Creates a navigation-link (HTML \[a] tag). You need to use the symbol _nav-item_ from the Sketch demo-document!
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Now possible to style
+**Updates:** Now possible to style
 
 ### **{nav-item-active} (Symbol)**
 
@@ -500,11 +498,9 @@ Creates a navigation-link (HTML \[a] tag). You need to use the symbol _nav-item_
 
 Creates an active-style navigation-link (HTML \[a] tag). You need to use the symbol _nav-item-active_ from the Sketch demo-document!
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Now possible to style
-
-![{link} is awesome! Link anything to anywhere 👍🎆](../.gitbook/assets/2019-09-08-15.14.45.gif)
+**Updates:** Now possible to style
 
 ### {link} (Symbol)
 
@@ -514,7 +510,7 @@ Creates an active-style navigation-link (HTML \[a] tag). You need to use the sym
 
 Link component that give you the ability to link anything to anywhere.
 
-**Since:** v1.6.3 pre-release
+**Since:** v2022.0.1
 
 ## Animation Components
 
@@ -524,13 +520,13 @@ These are all of our **animation components** that really expands what you can d
 
 Enables the ability to add interactive animations made with [Haiku Animator](https://www.haikuforteams.com) to Sketch2React.
 
-**Since:** v1.5
+**Since:** v2022.0.1
 
 ### {Lottie} (Symbol)
 
 Enables the ability to add interactive animations made in the [Lottie animation](https://lottiefiles.com) format.
 
-**Since:** v1.5
+**Since:** v2022.0.1
 
 ## Other
 
@@ -555,13 +551,13 @@ Links to external assets such as fonts or your own custom style-sheets.
 
 **When in doubt, use the demo document as a reference :)**
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
 ### **{externalasset.js}** <a href="#5084" id="5084"></a>
 
 It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
 
-**Since:** v1.6.3 pre-release
+**Since:** v2022.0.1
 
 ### Fluid fonts
 
@@ -597,7 +593,7 @@ The font-size will then flow between 6px at the smallest screen-size and 18px at
 
 > * classes \[ ]
 
-**Since:** v0.0.5
+**Since:** v2022.0.1
 
-**Updates:** v0.0.55 - Fluid font support
+**Updates:** Fluid font support
 

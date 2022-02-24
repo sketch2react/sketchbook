@@ -4,7 +4,9 @@ description: Breath in the air of knowledge dear scholar!
 
 # Welcome to Marcode Docs 🏡
 
-## Build in design app, deploy to code
+Build in your design app\
+Ship to iOS & Android
+---------------------
 
 ![](.gitbook/assets/Marcode-MoneyShot.png)
 
@@ -13,10 +15,10 @@ Go from design file to code really fast!
 
 ### Marcode is:
 
-* **Markup,** [**code app**](https://marketplace.sketch2react.io/product/sketch2react/)
-* **Automatic generation of CSS & CSS Modules**
-* **Website HTML project export**
-* Export **directly to iOS & Android** with built-in[ Capacitor.js export](https://sketch2react.gitbook.io/sketch2react-io/develop/exporting-to-code#export-to-capacitor-js)
+* Markup to code companion app
+* Automatic generation of CSS & CSS Modules
+* Automatic HTML generation
+* Export directly to iOS & Android **** with built-in Capacitor.js export
 {% endhint %}
 
 ## What is Marcode?
