@@ -6,18 +6,14 @@ description: All you need to know about Sketch2React's different ways of exporti
 
 ## Export to Ionic Capacitor (iOS, Android)
 
-![Wanna go directly to iOS & Android? Who wouldn't 😺💪](../.gitbook/assets/s2r202121-update-2.png)
+![Marcode has many code export options](../.gitbook/assets/marcode-export-view.jpg)
 
 You can export directly to iOS & Android project via something awesome called Ionic [Capacitor.js](https://capacitorjs.com)
 
-1. Make sure you have [all links between pages](https://sketch2react.io/blog/tutorial-from-sketch-to-xcode-the-no-code-way/) working and that you have visited each page once (it gets added to our export bundle that way)
-2. Click on the Download button 👉 **Download Capacitor project**
-3. Unzip the folder we created for you
-4. Make sure you compress the images, we 🧡 [TinyPNG](https://tinypng.com)
-5. Drag the entire folder onto e.g., Visual Studio Code
-6. Open up a New Terminal in VSC
-7. Type `npm install` and hit enter
-8. Done!
+1. Make sure you have visited each artboard in Marcode’s Explorer once
+2. Open up the Export view **⌘E** and choose **Ionic Capacitor**
+3. Select a directory for your exported **project folder**
+4. Hit the Export button and you’re ready for the next step ✅
 
 ### Install Xcode Command Line Tools & CocoaPods first
 
