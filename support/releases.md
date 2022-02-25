@@ -4,7 +4,9 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
-## Version 2022.6.x (public)
+## Version 2022.1.3 (public)
+
+Will be updated soon 😸💪
 
 
 
