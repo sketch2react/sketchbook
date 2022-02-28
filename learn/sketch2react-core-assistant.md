@@ -4,6 +4,8 @@ description: Here's all of our awesome Sketch assistant rules explained. For nor
 
 # Sketch Assistant Rules Explained 📐
 
+Although our assistant was built for Sketch2React, it also works great with Marcode. Don't miss out on this gem.
+
 {% hint style="success" %}
 Download our [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/)
 {% endhint %}
