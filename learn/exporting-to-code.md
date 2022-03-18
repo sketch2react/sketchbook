@@ -1,5 +1,5 @@
 ---
-description: All you need to know about Sketch2React's different ways of exporting to code.
+description: All you need to know about Marcode's different ways of exporting to code.
 ---
 
 # Exporting to Code 🚚
@@ -43,6 +43,10 @@ Just follow [these instructions](https://capacitorjs.com/docs/v3/ios#adding-the-
 
 Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-the-android-platform).
 
+## We have a great guide
+
+{% embed url="https://code.sketch2react.io/ios-and-android" %}
+
 
 
 ## Export to HTML
@@ -50,6 +54,13 @@ Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-
 
 
 1. Make sure you have visited each artboard in Marcode’s Explorer once
-2. Open up the Export view **⌘E** and choose **Ionic Capacitor**
+2. Open up the Export view **⌘E** and choose **HTML**
+3. Select a directory for your exported **project folder**
+4. Hit the Export button and you’re done ✅
+
+## Export as CSS Styleguide
+
+1. Make sure you have visited each artboard in Marcode’s Explorer once
+2. Open up the Export view **⌘E** and choose **Styleguide**
 3. Select a directory for your exported **project folder**
 4. Hit the Export button and you’re done ✅
