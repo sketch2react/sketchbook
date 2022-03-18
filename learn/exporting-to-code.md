@@ -43,7 +43,7 @@ Just follow [these instructions](https://capacitorjs.com/docs/v3/ios#adding-the-
 
 Just follow [these instructions](https://capacitorjs.com/docs/v3/android#adding-the-android-platform).
 
-## We have a great guide
+## 📚We have a great guide
 
 {% embed url="https://code.sketch2react.io/ios-and-android" %}
 
