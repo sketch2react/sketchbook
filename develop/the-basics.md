@@ -6,13 +6,13 @@ description: The fundamental basics of the Stratos Tokens design token framework
 
 ## Introduction
 
-We have a few essential framework rules to get started using our app with Sketch or Figma.** It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for **[**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need.&#x20;
+We have a few essential framework rules to get started using our app with Sketch or Figma. **It’s our design tokens 101**. After you grasp our framework, you can start learning how you use **these together with our built-in markup support for** [**Style Dictionary**](https://amzn.github.io/style-dictionary/#/), and you’ll be auto-translating the raw design token data into more formats than you’ll ever need.&#x20;
 
 Or you can skip Style Dictionary altogether. This depends solely on how your team wants to implement design tokens into the code base.
 
 ## The raw output is json
 
-When you apply our **basic framework rules** on layers in Sketch and Figma what you see in our app is the raw design token **json data **👇&#x20;
+When you apply our **basic framework rules** on layers in Sketch and Figma what you see in our app is the raw design token **json data** 👇&#x20;
 
 ![](../.gitbook/assets/rawjsondata-tokens.png)
 
@@ -64,13 +64,13 @@ The cool thing with Style Dictionary is that you can add even more so-called [Tr
 
 ![](../.gitbook/assets/rectangle-colors.png)
 
-* Rectangles without a fill results in border formatting. (you get color, radius, and weight). Pro-tip: Name your rectangle {\_color}_, {\_radius}_ or {\_weight}\_ to get **only** that value.
+* Rectangles without a fill results in border formatting. (you get color, radius, and weight). Pro-tip: Name your rectangle {color}_, {radius}_ or {weight} to get **only** that value.
 * Text layers represent text formatting
 * Text layers with values within _**{ }**_ are evaluated👇
 
 ![](../.gitbook/assets/text-layers.png)
 
-* Text nodes with values within are considered as Style Dictionary references / shortcuts to be able to reuse values. These are also known as **alias tokens**.
+* Text nodes with _**\{{ \}}**_ values within are considered as Style Dictionary references / shortcuts to be able to reuse values. These are also known as **alias tokens**.
 
 ![Text layers with names that matches a CSS property will have only that CSS property’s value](../.gitbook/assets/css-properties.png)
 
