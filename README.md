@@ -9,7 +9,7 @@ coverY: 0
 
 ### **No coding, just markup**
 
-![](.gitbook/assets/builtforsketchbigsur.jpg)
+![](.gitbook/assets/BuiltForSketchBigSur.jpg)
 
 {% hint style="success" %}
 Go from .sketchfiles (_via our markup_) to code really fast!

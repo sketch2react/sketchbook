@@ -34,7 +34,7 @@ Although Sketch2React was built for Sketch it actually also works well together 
 
 Using emoji Mac app [Rocket](https://matthewpalmer.net/rocket/) you can actually add something similar to the **autocomplete** function you have in all major code editors today. Here's how 👍
 
-{% file src="../.gitbook/assets/s2rlovesrocket.mp4" %}
+{% file src="../.gitbook/assets/S2RLovesRocket.mp4" %}
 How to add autocomplete to Sketch2React
 {% endfile %}
 
@@ -46,7 +46,7 @@ How to add autocomplete to Sketch2React
 
 ## [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient)
 
-![Easing Gradient let's you edit gradients in Sketch like a super (gradient) pro](../.gitbook/assets/easinggradient10s.gif)
+![Easing Gradient let's you edit gradients in Sketch like a super (gradient) pro](../.gitbook/assets/EasingGradient10s.gif)
 
 Everybody loves gradients (or they should) and this [little gem](https://github.com/larsenwork/sketch-easing-gradient) comes packed with some editing powers that puts Superman to shame. Our favorite is the **Step editor** (seen above). \
 
@@ -97,19 +97,19 @@ Download [this button](https://www.dropbox.com/s/ip005iknbvxyzy3/Anima%20Testing
 
 Naming layers correctly is a huge part of making sure our framework outputs code at all. Use [Rename it](https://github.com/rodi01/renameit) **** to batch rename things like text nodes into {text} components.
 
-![Rename It saves you time! ](../.gitbook/assets/capto\_capture-2018-10-03\_03-02-07\_pm.gif)
+![Rename It saves you time! ](<../.gitbook/assets/Capto\_Capture 2018-10-03\_03-02-07\_PM.gif>)
 
 ## [Notes](https://github.com/cshdllr/notes)​
 
 We use [Notes](https://github.com/cshdllr/notes) for pasting in code snippets, url:s to external assets like Google fonts or just copy+pasting a useful {col} setting you want to reuse elsewhere. We love the old school Post-it© look and the plugin comes with a couple of different neat color styles. Notes is useful for ... hmm .. notes 😅
 
-![Notes is useful for ... hmm .. notes 😅](../.gitbook/assets/capto\_capture-2018-10-03\_09-59-52\_pm.gif)
+![Notes is useful for ... hmm .. notes 😅](<../.gitbook/assets/Capto\_Capture 2018-10-03\_09-59-52\_PM.gif>)
 
 ## [Midnight](https://midnightsketch.com)​
 
 The [Midnight plugin](https://midnightsketch.com) for Sketch is one of our favourite ones, specially since you can color code layers and groups. Plus you get amazing **Indent Guides system** which makes it easy to identify how Groups and Layers are nested. Mind blown.&#x20;
 
-![Midnight gives you Indent Guides and Color Tags](../.gitbook/assets/2018-10-30-10.31.20.gif)
+![Midnight gives you Indent Guides and Color Tags](<../.gitbook/assets/2018-10-30 10.31.20.gif>)
 
 ## [IconJar](https://geticonjar.com)
 

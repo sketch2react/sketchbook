@@ -8,7 +8,7 @@ coverY: 0
 
 ## Export to Capacitor.js&#x20;
 
-![Wanna go directly to iOS & Android? Who wouldn't 😺💪](../.gitbook/assets/s2r202121-update-2.png)
+![Wanna go directly to iOS & Android? Who wouldn't 😺💪](../.gitbook/assets/S2R202121-update-2.png)
 
 You now also can export directly to iOS & Android project via something awesome called [Capacitor.js](https://capacitorjs.com)
 
@@ -169,7 +169,7 @@ Open up **package.json** and enter this very path below version:
 
 ## Export to HTML
 
-![](../.gitbook/assets/2019-09-10-13.38.52.gif)
+![](<../.gitbook/assets/2019-09-10 13.38.52.gif>)
 
 1. First of all, make sure you _visit each and every page_ within our code app that you want to be included in your **Export Bundle.** Wait for the **Your Artboard was added to the export bundle** message to appear, it will take a few seconds per artboard, we're just making sure all the good stuff gets included 😺
 2. Go to the **Side Bar** in our app and click **Download**

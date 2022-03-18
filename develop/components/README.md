@@ -15,7 +15,7 @@ These are for setting up grids and layouts in Sketch. You create all of them in 
 
 ### **{container}**
 
-![Example of a {container} element](../../.gitbook/assets/container.png)
+![Example of a {container} element](../../.gitbook/assets/Container.png)
 
 ```
 {container}
@@ -45,7 +45,7 @@ Creates a Bootstrap **Container** element. This is the outermost element in a Bo
 
 ### **{container-fluid}**
 
-![Example of a {container-fluid} element](../../.gitbook/assets/containerfluid.png)
+![Example of a {container-fluid} element](../../.gitbook/assets/ContainerFluid.png)
 
 ```
 {container-fluid}
@@ -484,7 +484,7 @@ Creates an active-style navigation-link (HTML \[a] tag). You need to use the sym
 
 **Updates:** v0.0.55 - Now possible to style
 
-![{link} is awesome! Link anything to anywhere 👍🎆](../../.gitbook/assets/2019-09-08-15.14.45.gif)
+![{link} is awesome! Link anything to anywhere 👍🎆](<../../.gitbook/assets/2019-09-08 15.14.45.gif>)
 
 ### {link} (Symbol)
 
