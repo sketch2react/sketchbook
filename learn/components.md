@@ -11,6 +11,8 @@ coverY: 0
 
 When you don't have the time needed to build actual real code components we strongly recommend starting with these. They can be combined with all of our other components, making them very powerful.
 
+![Our {prototype} components are the fastest way to build high resolution protos for iOS & Android](../.gitbook/assets/UseRetinaResolution.png)
+
 ### {prototype}
 
 This component outputs an absolute positioned html element based on the x- and y-coordinates of the {prototype} Sketch layer/group relative to the artboard. The html element also has a fixed size based on the size of the Sketch group's frame.
