@@ -17,7 +17,7 @@ When you don't have the time needed to build actual real code components we stro
 
 This component outputs an absolute positioned html element based on the x- and y-coordinates of the {prototype} Sketch layer/group relative to the artboard. The html element also has a fixed size based on the size of the Sketch group's frame.
 
-This components supports Sketch Prototyping with hotspots and "fixed position when scrolling".
+This components supports Sketch and Icons8 Lunacy Prototyping with hotspots and "fixed position when scrolling".
 
 #### Code output:
 
