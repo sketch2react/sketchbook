@@ -30,6 +30,10 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 
 **Since:** v2022.0.1
 
+{% hint style="success" %}
+ProTiP!🤖💪Make sure to add your PNG's in the @2x resolution for crispier high resolution prototypes.
+{% endhint %}
+
 ### {prototype-fluid}
 
 Like {prototype} but it fills the entire width of its parent element.
