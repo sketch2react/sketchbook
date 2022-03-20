@@ -31,7 +31,15 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 **Since:** v2022.0.1
 
 {% hint style="success" %}
-ProTiP!🤖💪Make sure to add your PNG's in the @2x resolution for crispier high resolution prototypes.
+ProTiP!🤖💪Make sure to add your PNG's in the @2x resolution for crispier high resolution prototypes
+{% endhint %}
+
+#### Use unique names
+
+![](../.gitbook/assets/UseUniqueNames.png)
+
+{% hint style="danger" %}
+E.g you have a tab bar on Artboard 1 and a copy of it on Artboard 2. When adding your tab bar to export, via Make Exportable, make sure you give them unique names, or they will overwrite each other.&#x20;
 {% endhint %}
 
 ### {prototype-fluid}
