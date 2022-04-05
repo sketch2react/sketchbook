@@ -74,5 +74,6 @@ display: -ms-flexbox;
 display: -webkit-flex;
 display: flex;
 overflow: hidden;
-}cssc
+}
 ```
+
