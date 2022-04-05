@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to Stratos Tokens 🏡
 
-## What can I do with Stratos Tokens 2021?
+## What can I do with Stratos Tokens?
 
 ![](<.gitbook/assets/stratostokens2021 (1).jpg>)
 
