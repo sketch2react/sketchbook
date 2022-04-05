@@ -18,7 +18,7 @@ _So this sucks of course_. Here's a few things you can check before throwing out
 5. Have you **activated your Marcode license**?
 6. If you use any cloud services (Dropbox, iCloud, OneDrive etc) make sure you actually have the Sketch files downloaded locally on your computer machine
 7. Every time you update inside your design app, we reload the entire .sketch file. Make sure to use our handy reload function in Marcode if you are not seeing your updates **⌘R**
-8. A handy trick for quickly loading your changes is to use the Artboard Explorer and jump between artboards, it usually reloads quicker. Specially important when using our {prototype} components, since you basically are rendering out a new image each time you change inside Sketch or Lunacy
+8. A handy trick for quickly loading your changes is to use the **Artboard Explorer** and jump between artboards, it usually reloads quicker. Specially important when using our {prototype} components, since you basically are rendering out a new image each time you change inside Sketch or Lunacy
 9. For troubleshooting make sure you use one of our [newer free demo files](https://marketplace.sketch2react.io/product/portfolio-website-template/), it can be that something is broken in older versions of them
 10. Use our Sketch assistant to debug🦶🐛your Sketch files
 
