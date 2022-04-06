@@ -2,7 +2,7 @@
 description: >-
   We get it. You have a short attention span. It's cool, let's keep this really
   simple and short.
-cover: ../.gitbook/assets/marcode-cover.png
+cover: ../.gitbook/assets/marcode-banner-bg.png
 coverY: 0
 ---
 
