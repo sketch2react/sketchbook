@@ -6,7 +6,7 @@ description: >-
 
 # 🍕 Get started guide
 
-## In Sketch
+## In Sketch or Lunacy
 
 1. Create a **new file ⌘N**
 2. Rename the _Page 1_ page 👉 _**App**_
