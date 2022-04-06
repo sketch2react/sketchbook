@@ -53,3 +53,7 @@ description: >-
 2. Add as many new Artboards as you might need, but always keep **Start** (index.html)
 3. Start with our[ {prototype} components](components.md#rapid-prototyping-components), a very fast way of getting 1:1 designs out to iOS, Android and HTML apps
 4. Have fun! 😺🧡
+
+#### Download above Sketch file&#x20;
+
+{% file src="../.gitbook/assets/Get started template.sketch" %}
