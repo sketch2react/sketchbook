@@ -2,6 +2,8 @@
 description: >-
   We get it. You have a short attention span. It's cool, let's keep this really
   simple and short.
+cover: ../.gitbook/assets/marcode-cover.png
+coverY: 0
 ---
 
 # 🍕 Get started guide
