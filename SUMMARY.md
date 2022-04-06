@@ -4,6 +4,7 @@
 
 ## learn
 
+* [🍕 Get started guide](learn/get-started-guide.md)
 * [Markup cheat sheet 📓](learn/cheat-sheet.md)
 * [Components 💎](learn/components.md)
 * [Exporting to Code 🚚](learn/exporting-to-code.md)
