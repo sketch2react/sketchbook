@@ -51,5 +51,5 @@ description: >-
 
 1. Learn our markup, it's super easy
 2. Add as many new Artboards as you might need, but always keep **Start** (index.html)
-3. Start with our {prototype} components, a very fast way of getting 1:1 designs out to iOS, Android and HTML apps
+3. Start with our[ {prototype} components](components.md#rapid-prototyping-components), a very fast way of getting 1:1 designs out to iOS, Android and HTML apps
 4. Have fun! 😺🧡
