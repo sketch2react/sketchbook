@@ -10,6 +10,8 @@ If you are reading this, it means you care. We appreciate that very much. We'll 
 
 If something is not working inside Marcode, make sure to use our built-in _Report an issue_ tracker, you'll find it under 👉 _Help_
 
+Also, make sure you first read our [Get started guide](../learn/get-started-guide.md), and then our [FAQ](faq.md) page ✅
+
 
 
 ## Version 2021.3.11 (internal)
