@@ -6,7 +6,9 @@ description: All of our most important milestones & releases since the very begi
 
 ## Version 2022.1.3 (public)
 
-Will be updated soon 😸💪
+If you are reading this, it means you care. We appreciate that very much. We'll make sure to add the very latest release notes someday. 🧡
+
+If something is not working inside Marcode, make sure to use our built-in _Report an issue_ tracker, you'll find it under 👉 _Help_
 
 
 
