@@ -12,13 +12,13 @@ Download our [Sketch assistant](https://www.sketch.com/extensions/assistants/@sk
 
 ## Document must contain one artboard named “Start” on a page named “Start here”
 
-![](<../.gitbook/assets/Skärmavbild 2020-10-05 kl. 14.22.08 (2).png>)
+![Essential Watson](<../.gitbook/assets/Skärmavbild 2020-10-05 kl. 14.22.08 (2).png>)
 
 Behind the scenes this artboard actually becomes your **very first page in code**, aka index.html 🤖💪
 
 ## Document must contain one page named “Start here”
 
-![](<../.gitbook/assets/Skärmavbild 2020-10-05 kl. 14.35.05.png>)
+![Actually, Marcode also accepts the more fitting name App](<../.gitbook/assets/Skärmavbild 2020-10-05 kl. 14.35.05.png>)
 
 We call this the **code page**. You can have several pages in your Sketch file but only the things that are on this super important page comes out to code in Sketch2React. ✅
 
