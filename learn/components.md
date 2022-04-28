@@ -281,21 +281,7 @@ Creates an image with fixed width and height (taken from Sketch).
 
 > * classes \[ ]
 
-**Since:** v2022.1.0
-
-### {image-external}
-
-```
-{image-external}
-```
-
-Host images, GIFs and even animated SVGs externally. Download [these .sketchfiles](https://www.dropbox.com/sh/6c4bs8f9tv45ckg/AAAJtI44NWsmbBhXie1KO1P0a?dl=0) and grab the component.
-
-**Supports:**
-
-* classes \[ ]
-
-**Since:** v2022.0.7
+**Since:** v2022.0.1
 
 ### {rectangle}
 
