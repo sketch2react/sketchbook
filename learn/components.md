@@ -526,25 +526,11 @@ Link component that give you the ability to link anything to anywhere.
 
 **Since:** v2022.0.1
 
-## Animation Components
 
-These are all of our **animation components** that really expands what you can do with our framework in forms of interactivity.
-
-### {Haiku} (Symbol)
-
-Enables the ability to add interactive animations made with [Haiku Animator](https://www.haikuforteams.com) to Sketch2React.
-
-**Since:** v2022.0.1
-
-### {Lottie} (Symbol)
-
-Enables the ability to add interactive animations made in the [Lottie animation](https://lottiefiles.com) format.
-
-**Since:** v2022.0.1
 
 ## Other
 
-Here's those that are hard to categorise 😸🌵
+Here's those that are hard to categorize 😸🌵
 
 ### **{externalasset.css}**
 
