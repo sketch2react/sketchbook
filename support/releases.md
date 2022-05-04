@@ -4,6 +4,17 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2022.1.5 (2022-05-04)
+
+### Added
+
+* New components _{embed}_ and _{embed-fluid}_
+* New demo file for show-casing the _{embed}_ and _{embed-fluid}_ components
+
+### Fixed
+
+* Minor UI fixes
+
 ## Version 2022.1.3 (public)
 
 * **Rapid prototyping** components, read our [guide](https://code.sketch2react.io/how-to-use-our-prototype-components/)
