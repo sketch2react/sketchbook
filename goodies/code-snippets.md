@@ -2,6 +2,8 @@
 description: >-
   Here's a collection of great code snippets that we have found on the internets
   that work great with Marcode.
+cover: ../.gitbook/assets/css-plugin-eg2.png
+coverY: 0
 ---
 
 # Code snippets 👩‍💻
