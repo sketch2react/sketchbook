@@ -2,6 +2,7 @@
 description: >-
   Here's all of our current code components and their categories. All of these
   output workable code via Marcode. Neat right?!
+cover: ../.gitbook/assets/YouAreNotUXDesigner.png
 coverY: 0
 ---
 
