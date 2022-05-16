@@ -15,7 +15,7 @@ description: CSS Writer is our first premium Sketch plugin, huzzah!
 * View the results in Marcode or Sketch2React Beta 2022
 * All custom CSS gets bundled upon export
 
-## How to install
+## [How to install](https://marketplace.sketch2react.io/product/writer-plugin-for-sketch/)
 
 Just double click the .sketch plugin and it will automatically install itself in your version of Sketch app. Neato!
 

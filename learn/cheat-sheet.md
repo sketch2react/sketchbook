@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxncmFkaWVudHxlbnwwfHx8fDE2NDUwODk5NDQ&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/AddTransistions.png
 coverY: 0
 ---
 
