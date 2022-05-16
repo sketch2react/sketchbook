@@ -68,6 +68,8 @@ You need to define the {embed} component's source as show in this screenshot:
 
 ![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.30.04.png>)
 
+**Please note:** You do not need to have a placeholder, it's just to make your design look nice :)&#x20;
+
 #### Code output:
 
 An \<iframe> element.
