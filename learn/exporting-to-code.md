@@ -25,7 +25,7 @@ This is **crucial** to do before you go to the next step of installing either th
 xcode-select —install
 ```
 
-* Download and install [CocoaPods](https://cocoapods.org), easiest is just by adding this snippet directly in the Terminal:
+* Download and install [CocoaPods](https://cocoapods.org/), easiest is just by adding this snippet directly in the Terminal:
 
 ```
 sudo gem install cocoapods
