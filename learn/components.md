@@ -62,11 +62,15 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 
 ### {embed}
 
+{% embed url="https://youtu.be/1nYSWqr3RVQ" %}
+Embed interactive 3D content? Np! 🤖💪
+{% endembed %}
+
 The {embed} component let you embed third-party content such as Google maps, other websites, Lottie animations or Spline3d directly into your apps.
 
 You need to define the {embed} component's source as show in this screenshot:
 
-![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.30.04.png>)
+![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.30.04.png>)
 
 **Please note:** You do not need to have a placeholder, it's just to make your design look nice :)&#x20;
 
@@ -78,13 +82,13 @@ An \<iframe> element.
 
 > * classes \[ ]
 
-**Since:** v2022.0.5
+**Since:** v2022.1.5
 
 ### {embed-fluid}
 
 Like {embed} but it fills the entire width of its parent element.
 
-![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.28.21 (1).png>)
+![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.28.21 (1).png>)
 
 #### Code output:
 
@@ -94,7 +98,7 @@ An \<iframe> element.
 
 > * classes \[ ]
 
-**Since:** v2022.0.5
+**Since:** v2022.1.5
 
 ## **Grid & Layout Components**
 
