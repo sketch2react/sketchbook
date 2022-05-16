@@ -1,5 +1,7 @@
 ---
 description: All you need to know about Marcode's different ways of exporting to code.
+cover: ../.gitbook/assets/ionic-capacitor.png
+coverY: 0
 ---
 
 # Exporting to Code 🚚
