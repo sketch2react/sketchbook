@@ -2,7 +2,7 @@
 description: CSS Writer is our first premium Sketch plugin, huzzah!
 ---
 
-# 🔌CSS Writer plugin
+# CSS Writer plugin 🔌
 
 ![CSS Writer will speed up thangs, promise! Plus, you will having lots of fun 🎉](<../.gitbook/assets/image (4).png>)
 

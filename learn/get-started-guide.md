@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/marcode-banner-bg.png
 coverY: 0
 ---
 
-# 🍕 Get started guide
+# Get started guide 🍕
 
 ## In Sketch or Lunacy
 
