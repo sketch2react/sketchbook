@@ -60,6 +60,40 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 
 **Since:** v2022.0.1
 
+### {embed}
+
+The {embed} component let you embed third-party content such as Google maps, other websites, Lottie animations or Spline3d directly into your apps.
+
+You need to define the {embed} component's source as show in this screenshot:
+
+![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.30.04.png>)
+
+#### Code output:
+
+An \<iframe> element.
+
+#### **Supports:**
+
+> * classes \[ ]
+
+**Since:** v2022.0.5
+
+### {embed-fluid}
+
+Like {embed} but it fills the entire width of its parent element.
+
+![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.28.21 (1).png>)
+
+#### Code output:
+
+An \<iframe> element.
+
+#### **Supports:**
+
+> * classes \[ ]
+
+**Since:** v2022.0.5
+
 ## **Grid & Layout Components**
 
 These are for setting up grids and layouts in Sketch. You create all of them in Sketch **by creating Groups (⌘G) and renaming the groups accordingly.**
