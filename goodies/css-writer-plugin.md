@@ -1,5 +1,7 @@
 ---
 description: CSS Writer is our first premium Sketch plugin, huzzah!
+cover: ../.gitbook/assets/code-editor-plugin (1).png
+coverY: 0
 ---
 
 # CSS Writer plugin 🔌

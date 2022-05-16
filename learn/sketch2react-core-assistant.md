@@ -1,5 +1,7 @@
 ---
 description: Here's all of our awesome Sketch assistant rules explained. For normal humans.
+cover: ../.gitbook/assets/marcode-banner-bg.png
+coverY: 0
 ---
 
 # Sketch Assistant Rules Explained 📐
