@@ -6,6 +6,7 @@
 
 * [Get started guide 🍕](learn/get-started-guide.md)
 * [Markup cheat sheet 📓](learn/cheat-sheet.md)
+* [Using Marcode with Icons8 Lunacy](learn/using-marcode-with-icons8-lunacy.md)
 * [Components 💎](learn/components.md)
 * [Exporting to Code 🚚](learn/exporting-to-code.md)
 * [Sketch Assistant Rules Explained 📐](learn/sketch2react-core-assistant.md)
