@@ -9,7 +9,7 @@ description: All of our most important milestones & releases since the very begi
 ### Added
 
 * New components _{embed}_ and _{embed-fluid}_
-* New demo file for show-casing the _{embed}_ and _{embed-fluid}_ components
+* New demo file for showcasing the _{embed}_ and _{embed-fluid}_ components
 
 ### Fixed
 
