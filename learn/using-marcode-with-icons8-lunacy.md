@@ -36,8 +36,8 @@ We added automatic HTML links between artboards mostly to solve this with Lunacy
 So basically, the easiest way to put this is to say that:
 
 * **Basic logic**, like linking between artboards works thanks to our automatic HTML linking
-* Using our {prototype} components works really well
-* All other logic works, but can’t be setup from scratch in Lunacy. You can use our demo files to extract all of our components that have logic inside them
+* Using our [{prototype} components](https://sketch2react.gitbook.io/marcode/learn/components#rapid-prototyping-components) works really well :tada:
+* All other logic works, but can’t be setup from scratch in Lunacy. You can use our vast amount of [free demo files](https://marketplace.sketch2react.io/product-category/freebies/) to extract all of our components that have logic inside them
 
 If you can live with that, go ahead, try it out. Icons8 Lunacy is 100% free.
 
