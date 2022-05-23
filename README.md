@@ -2,7 +2,6 @@
 description: Breath in the air of knowledge dear scholar!
 cover: .gitbook/assets/marcode-cover.png
 coverY: 0
-layout: landing
 ---
 
 # Welcome to Marcode Docs 🏡
