@@ -65,4 +65,5 @@ Here's a simple workaround using our {image} components.
 4. Press the Export Selected button, save to your HD
 5. **Reimport** the image file and add {image} or {image-fixed} before the layer name 👇
 
-![](<../.gitbook/assets/CleanShot 2022-05-23 at 11.57.57.png>)
+![We added {image} to the image layer name](<../.gitbook/assets/CleanShot 2022-05-23 at 11.57.57.png>)
+
