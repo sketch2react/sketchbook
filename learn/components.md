@@ -86,6 +86,10 @@ You need to define the {embed} component's source as show in this screenshot:
 
 ![](<../.gitbook/assets/Skärmavbild 2022-05-16 kl. 09.30.04.png>)
 
+```
+{attribute.src}
+```
+
 **Please note:** You do not need to have a placeholder, it's just to make your design look nice :)&#x20;
 
 #### Code output:
@@ -629,6 +633,10 @@ Links to external assets such as fonts or your own custom style-sheets.
 **Since:** v2022.0.1
 
 ### **{externalasset.js}** <a href="#5084" id="5084"></a>
+
+```
+{externalasset.js}
+```
 
 It is now possible to add your own javascript-files to your HTML-exports. This adds a new dimension of interactivity to your HTML-exports!
 
