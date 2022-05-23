@@ -51,7 +51,11 @@ The neat thing about _sketch-tool_ is that it speeds up the workflow suggested f
 
 Since Lunacy is a **cross-platform app**, and not using _sketch-tool_ at all, there is no way for Marcode to automatically add your image assets like we do in Sketch.&#x20;
 
-#### Here's a simple workaround using our {image} components
+Here's a simple workaround using our {image} components.
+
+
+
+## Workaround
 
 ![In this example we have grouped some text and a nice looking button](<../.gitbook/assets/CleanShot 2022-05-23 at 11.47.15.png>)
 
