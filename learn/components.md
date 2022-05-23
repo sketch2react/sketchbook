@@ -49,6 +49,10 @@ E.g you have a tab bar on Artboard 1 and a copy of it on Artboard 2. When adding
 
 ### {prototype-fluid}
 
+```
+{prototype-fluid}
+```
+
 Like {prototype} but it fills the entire width of its parent element.
 
 Note: It takes into account the x-offset (distance from the left edge of the artboard to the left edge of the {prototype-fluid} layer/group's frame) and deducts an equal amount of spacing on the opposite side to make it look centered.
@@ -65,6 +69,12 @@ A \<div> element. If Sketch prototype hotspot has been added to the {prototype} 
 **Since:** v2022.0.1
 
 ### {embed}
+
+```
+{embed}
+```
+
+
 
 {% embed url="https://youtu.be/1nYSWqr3RVQ" %}
 Embed interactive 3D content? Np! 🤖💪
@@ -89,6 +99,10 @@ An \<iframe> element.
 **Since:** v2022.1.5
 
 ### {embed-fluid}
+
+```
+{embed-fluid}
+```
 
 Like {embed} but it fills the entire width of its parent element.
 
