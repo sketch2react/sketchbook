@@ -4,6 +4,12 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2022.1.8 for Windows (2022-05-24)
+
+### Added
+
+* Marcode is now cross-platform, hola Windows users 🎉
+
 ## Version 2022.1.5 (2022-05-04)
 
 ### Added
