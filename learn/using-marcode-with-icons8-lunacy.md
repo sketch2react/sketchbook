@@ -60,10 +60,9 @@ Here's a simple workaround using our {image} components.
 ![In this example we have grouped some text and a nice looking button](<../.gitbook/assets/CleanShot 2022-05-23 at 11.47.15.png>)
 
 1. **Group** whatever graphical elements that you want to rasterize into an image. It can be a headline, an SVG illustration etc
-2. Add the group to **Export**
-3. Make sure you use PNG @2x resolution BUT without the prefix or suffix, the image file output needs to be **yourtitle.png** not _yourtitle@2x.png_, or it will not show up in Marcode.
-4. Press the Export Selected button, save to your HD
-5. **Reimport** the image file and add {image} or {image-fixed} before the layer name 👇
+2. Right click and do the **Rasterize Selection** command
+3. Add {image} or {image-fixed} before the layer name 👇✅
+4. Done! 🎉
 
 ![We added {image} to the image layer name](<../.gitbook/assets/CleanShot 2022-05-23 at 11.57.57.png>)
 
