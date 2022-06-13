@@ -4,6 +4,12 @@ description: All of our most important milestones & releases since the very begi
 
 # Releases ✍️
 
+## Version 2022.2.0 for Mac (2022-06-13)
+
+### Added
+
+Support for our App Builder plugin!
+
 ## Version 2022.1.8 for Windows (2022-05-24)
 
 ### Added
