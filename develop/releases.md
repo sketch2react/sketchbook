@@ -10,8 +10,8 @@ description: All of our most important milestones & releases since the very begi
 
 * A new file explorer(!)
 * Support for arrays
-* Support for output transformations
-* Support for preserving design file units
+* Support for output transformations - learn more [here](the-basics.md)
+* Support for preserving design file units - learn more [here](the-basics.md)
 
 ### Fixes
 
