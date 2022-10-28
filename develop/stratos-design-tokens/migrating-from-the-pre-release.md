@@ -8,10 +8,10 @@ description: >-
 
 ## What's the breaking change?
 
-**Design token names must now be wrapped in { } **– including **design token artboard names. **That means that all your previous design tokens and design token structure will not work until you:
+**Design token names must now be wrapped in { }** – including **design token artboard names.** That means that all your previous design tokens and design token structure will not work until you:
 
-1. Add** { }** to all your design token artboards/frames names
-2. Add** { }** to all your design token names on these artboards
+1. Add **{ }** to all your design token artboards/frames names
+2. Add **{ }** to all your design token names on these artboards
 
 ![Add { } to all your design tokens, including the artboards](../../.gitbook/assets/cleanshot-2021-04-06-at-08.48.34-2x.png)
 

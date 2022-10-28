@@ -80,6 +80,54 @@ The cool thing with Style Dictionary is that you can add even more so-called [Tr
 
 ![](../.gitbook/assets/json-view.png)
 
+## Stratos Tokens project configuration
+
+When creating a new Stratos Tokens project, a project configuration file is created, named _myproject.stratosproject_.&#x20;
+
+<figure><img src="../.gitbook/assets/Skärmavbild 2022-10-28 kl. 10.43.29.png" alt=""><figcaption><p>The default configuration of a Stratos Tokens Sketch project</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Skärmavbild 2022-10-28 kl. 11.21.41 (1).png" alt=""><figcaption><p>The default configuration of a Stratos Tokens Figma project</p></figcaption></figure>
+
+### Properties&#x20;
+
+#### id
+
+An identifier, unique to every project
+
+#### name
+
+The project name is taken from your design file name
+
+#### path
+
+The project's location on your hdd
+
+#### designFilePath (Sketch only)
+
+The path to your Sketch design file on your hdd
+
+#### documentId (Figma only)
+
+The document id of your Figma design file
+
+#### type
+
+Can be either Figma or Sketch depending on the design file type
+
+#### outputFormat (optional)
+
+OutputFormat enables the json output to better match "standards" like MaterialUI and Style Dictionary. It can have one of the values (standard, styledictionary).
+
+_**standard (default)**_
+
+_**styledictionary**_
+
+#### baseFontSizeInPx
+
+#### preserveDesignFileUnits (optional)
+
+This prevents Stratos Tokens from converting the designfile's sizes into unit-less sizes. (Stratos Tokens will ignore property _baseFontSizeInPx_)
+
 ## Style Dictionary markup
 
 We strongly recommend you reading our articles about how to get started with Style Dictionary and Stratos Tokens. They are based on our experience and are fitted for beginners with a designers' perspective.
