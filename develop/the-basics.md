@@ -112,7 +112,7 @@ The document id of your Figma design file
 
 #### type
 
-Can be either Figma or Sketch depending on the design file type
+Can be either SKETCH or FIGMA depending on the design file type
 
 #### outputFormat (optional)
 
