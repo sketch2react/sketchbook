@@ -82,7 +82,7 @@ The cool thing with Style Dictionary is that you can add even more so-called [Tr
 
 ## Stratos Tokens project configuration
 
-When creating a new Stratos Tokens project, a project configuration file is created, named nameofmydesignfile_.stratosproject_.&#x20;
+When creating a new Stratos Tokens project, a project configuration file is created, named _nameofmydesignfile.stratosproject_.&#x20;
 
 <figure><img src="../.gitbook/assets/Skärmavbild 2022-10-28 kl. 10.43.29.png" alt=""><figcaption><p>The default configuration of a Stratos Tokens Sketch project</p></figcaption></figure>
 
