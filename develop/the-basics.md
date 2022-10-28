@@ -116,10 +116,11 @@ Can be either Figma or Sketch depending on the design file type
 
 #### outputFormat (optional)
 
-OutputFormat enables the json output to better match popular structures like MaterialUI and Style Dictionary. It can have one of the values (standard or styledictionary).
+OutputFormat enables the json output to better match popular structures like MaterialUI and Style Dictionary. It can have one of the values (standard or styledictionary). This property can also me omitted from the configuration file - then Stratos Tokens will not apply any special transformation. See examples below:
 
 * _**standard (default)**_
 * _**styledictionary**_
+* _**not specified (property outputFormat is omitted from the configuration file)**_
 
 #### baseFontSizeInPx
 
