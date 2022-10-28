@@ -128,7 +128,7 @@ All values defined in px such as font size, line height etc in _Sketch and_ _Fig
 
 #### preserveDesignFileUnits (optional)
 
-This prevents Stratos Tokens from converting the designfile's sizes into unit-less sizes. (Stratos Tokens will ignore property _baseFontSizeInPx_)
+This prevents Stratos Tokens from converting the designfile's sizes into unit-less sizes. (In case this property is specified Stratos Tokens will ignore property _baseFontSizeInPx_)
 
 ## Style Dictionary markup
 
