@@ -116,13 +116,14 @@ Can be either Figma or Sketch depending on the design file type
 
 #### outputFormat (optional)
 
-OutputFormat enables the json output to better match "standards" like MaterialUI and Style Dictionary. It can have one of the values (standard, styledictionary).
+OutputFormat enables the json output to better match popular structures like MaterialUI and Style Dictionary. It can have one of the values (standard or styledictionary).
 
-_**standard (default)**_
-
-_**styledictionary**_
+* _**standard (default)**_
+* _**styledictionary**_
 
 #### baseFontSizeInPx
+
+All values defined in px such as font size, line height etc in _Sketch and_ _Figma_ is translated into unit-less values (with a default [base of 16px](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)). E.g. 72px / 16 = 4.5 This will be translated by Style Dictionary into platform specific units during Style Dictionary's build process.
 
 #### preserveDesignFileUnits (optional)
 
