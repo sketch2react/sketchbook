@@ -4,7 +4,7 @@ description: A diverse bunch of tutorials both from Medium and our Youtube.
 
 # Tutorials & Articles 📘
 
-## Download our free ebook 📚✅
+## Support us, buy our ebook 📚✅
 
 We just released our Stratos Tokens Pocket Guide ebook that that contains many of below articles and tutorials, rewritten for a better offline experience.
 
