@@ -37,7 +37,8 @@ Also download our [Sketch Assistant](https://www.sketch.com/extensions/assistant
 
 * [Sketch](https://sketch.com) 80+ or [Icons 8 Lunacy](https://apps.apple.com/se/app/icons8-lunacy/id1582493835?mt=12)
 * Marcode 2022 for [Mac](https://marketplace.sketch2react.io/product/marcode/) or [Windows](https://marketplace.sketch2react.io/product/marcode-for-windows/)
-* OSX Big Sur or Monterey, Windows 10 or 11
+* macOS Big Sur, Monterey or Ventura, Windows 10 or 11
+* [App Builder plugin](https://marketplace.sketch2react.io/product/app-builder-plugin-for-sketch/) (Sketch only, not required but very nice to have)
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) (Sketch only, not required but nice to have)
 
-Marcode v2022.1.5 for Mac | Marcode v2022.1.8 for Windows | Designed and developed in Stockholm with 💗 by Sketch2React AB ©2022
+Marcode v2022.2.0 for Mac | Marcode v2022.1.8 for Windows | Designed and developed in Stockholm with 💗 by Sketch2React AB ©2023
