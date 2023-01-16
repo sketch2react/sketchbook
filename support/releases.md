@@ -8,7 +8,7 @@ description: All of our most important milestones & releases since the very begi
 
 ### Added
 
-Support for our App Builder plugin!
+Support for our [App Builder plugin](https://marketplace.sketch2react.io/product/app-builder-plugin-for-sketch/)!
 
 ## Version 2022.1.8 for Windows (2022-05-24)
 
