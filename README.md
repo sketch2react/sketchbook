@@ -9,7 +9,7 @@ coverY: 0
 
 ### **No coding, just markup**
 
-![](.gitbook/assets/BuiltForSketchBigSur.jpg)
+![](.gitbook/assets/builtforsketchbigsur.jpg)
 
 {% hint style="success" %}
 Go from .sketchfiles (_via our markup_) to code really fast!
@@ -51,4 +51,4 @@ Also download our brand new [Sketch Assistant](https://www.sketch.com/extensions
 * OSX Catalina or Big Sur (requires v70+ of Sketch app)
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) (not required but nice to have)
 
-Sketch2React 2021.2.7 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2022
+Sketch2React 2021.2.7 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2023
