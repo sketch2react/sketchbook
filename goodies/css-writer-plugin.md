@@ -27,7 +27,7 @@ Just double click the .sketch plugin and it will automatically install itself in
 
 * Sketch app version 80+
 * Marcode 2022 or Sketch2React Beta 2022
-* Mac OSX Big Sur or Monterey
+* macOS Big Sur, Monterey or Ventura
 
 ## Create something cool & share it
 
