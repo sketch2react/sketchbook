@@ -38,8 +38,8 @@ Here's [an example](https://www.notion.so/Style-Dictionary-Design-System-Inc-3cf
 * Sketch v80+, Figma or Lunacy 8+
 * [Stratos Tokens](https://marketplace.sketch2react.io/product/stratos-tokens-pre-release/) App
 * Our [Sketch assistant](https://www.sketch.com/extensions/assistants/stratos-tokens-assistant/) (not required but nice to have)
-* macOS Big Sur or Monterey | Windows 10 or 11
+* macOS Big Sur, Monterey or Ventura | Windows 10 or 11
 * NPM & [Node.js](https://nodejs.org/en/download/)
 * Use your preferred external code editor
 
-Stratos Tokens 2022.4.1 — Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2022
+Stratos Tokens 2022.4.1 — Designed and developed in Stockholm with 💗 by [Team Sketch2React](https://sketch2react.io) ©2023
