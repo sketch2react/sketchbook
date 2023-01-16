@@ -48,7 +48,7 @@ Also download our brand new [Sketch Assistant](https://www.sketch.com/extensions
 
 * [Sketch](https://sketch.com) 68–80+ or [Lunacy 8](https://icons8.com/lunacy)
 * [Sketch2React 2021](https://marketplace.sketch2react.io/product/sketch2react/)
-* OSX Catalina or Big Sur (requires v70+ of Sketch app)
+* macOS Big Sur, Monterey or Ventura
 * [Sketch assistant](https://www.sketch.com/extensions/assistants/@sketch2react/sketch2react-assistant/) (not required but nice to have)
 
 Sketch2React 2021.2.7 - Designed and developed in Stockholm with 💗 by Sketch2React AB ©2018–2023
