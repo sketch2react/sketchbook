@@ -36,7 +36,7 @@ Go from .sketchfiles (_via our markup_) to code really fast!
 * Offline mode
 * Hot reload
 * Build entire static React powered websites directly from inside of Sketch 🤯
-* **N E W** 👉 Export directly to [Capacitor.js](https://capacitorjs.com) projects – Build cross platform apps, start inside Sketch 💪
+* Export directly to [Capacitor.js](https://capacitorjs.com) projects – Build cross platform apps, start inside Sketch 💪
 * Export to HTML package that includes .html, css and all relevant files
 * React code & components
 
